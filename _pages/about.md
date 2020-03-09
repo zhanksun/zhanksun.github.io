@@ -15,7 +15,7 @@ I got my bachelor degree in Industrial Engineering from Tsinghua University, an 
 My research interests are within the area of modeling, analysis, and control of stochastic systems. He is particularly interested in applications that arise from healthcare operations, such as emergency response management in the aftermath of mass-casualty events and patient flow management in hospital emergency departments.
 
 
-##Education
+## Education
 
 * B.S. in Industrial Engineering, Tsinghua University
 * Ph.D in Statistics and Operations Research, University of North Carolina Chapel Hill
