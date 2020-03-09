@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "MS5316 Predictive Analytics with Excel and R"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "City University of Hong Kong, Department of Management Sciences"
 date: 2014-01-01
 location: "City, Country"
 ---
