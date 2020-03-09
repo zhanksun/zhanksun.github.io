@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhankun Sun, Kevin"
+  name             : "Zhankun (Kevin) Sun"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Management Sciences, City University of Hong Kong"
+  bio              : "Assistant Professor of Management Sciences\n City University of Hong Kong"
   location         : "Kowloon, Hong Kong"
   employer         :
   pubmed           :
