@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhankun (Kevin) Sun"
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Management Sciences" "City University of Hong Kong"
+  bio              : "Assistant Professor of Management Sciences"
   location         : "Kowloon, Hong Kong"
-  employer         :
+  employer         : "City University of Hong Kong"
   pubmed           :
+  email            : "zhankun.sun@cityu.edu.hk"
   googlescholar    : "https://scholar.google.com/citations?user=uzUmqc0AAAAJ&hl=en"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
