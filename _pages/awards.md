@@ -1,29 +1,27 @@
 ---
 layout: archive
-title: "Funding and Awards"
+title: Funding and Awards
 permalink: /awards/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Funding
 
-Education
-======
-* B.S. in Industrial Engineering, Tsinghua University, 2009
-* M.S. in Statistics and Operations Research, the University of North Carolina at Chapel Hill, 2013
-* Ph.D in Statistics and Operations Research, the University of North Carolina at Chapel Hill, 2014
+* General Research Fund (Early Career Scheme), The Hong Kong Research Grants Council, 2018-2020
+* Start-up grant, City University of Hong Kong, 2016-2018
+* O'Brien Institute for Public Health Research Catalyst Funds, 2016-2017
+* Eyes High Postdoctoral Fellowship, University of Calgary, 2014
+* Graduate Student Transportation Grant, UNC-CH, 2013.
+* Graduate Student Fellowship, Statistical and Applied Mathematical Sciences Institute (SAMSI), 2012.
 
-Work experience
-======
-* Since 2016.07: Assistant Professor
-  * City University of Hong Kong
-  * Duties included:
+## Awards
 
-* 2014.09 -- 2016.06: Eyes High Postdoctoral Fellow
-  * University of Calgary, Canada
-  * Alberta Health Services
+* Outstanding Reviewer, European Journal of Operational Research, April 2017
+* Excellence in Teaching Award, the University of North Carolina at Chapel Hill, December 2013
+* Nominated and selected for the INFORMS 2012 Future Academician Colloquium.
+* George E. Nicholson Award, the University of North Carolina at Chapel Hill, 2010.
+* Chery $21$st Century Son of East Scholarship, Tsinghua University, 2007.
+* First prize in Physics Olympiad, China, 2003.
 
 Skills
 ======
@@ -34,23 +32,6 @@ Skills
   * Matlab
   * R
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 ======
