@@ -13,8 +13,8 @@ author_profile: true
 4. Farzad Zaerpour, Marco Bijvank, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. <var> Production and Operations Management, major revision</var>.
 5. Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Semi-Orthogonal Non-Negative Matrix Factorization with an Application in Text Mining</q>. <var> Journal of the American Statistical Association, major revision</var>.
 6. Wenhao Li, **Zhankun Sun**, Jeff L. Hong, <q>Who's Next: Dynamic Patient Prioritization in an Emergency Department</q>. <var>Working paper</var>.
-7. Shuai Hao, Yuqian Xu, **Zhankun Sun**,<q>Routing Under Congestion: An Empirical Study of Triage Drift in Emergency Departments</q>. <var>Working paper}.
-8. Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Emergency Departments: A Data-Driven Approach</q>. <var> Working paper}.
+7. Shuai Hao, Yuqian Xu, **Zhankun Sun**,<q>Routing Under Congestion: An Empirical Study of Triage Drift in Emergency Departments</q>. <var>Working paper</var>.
+8. Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Emergency Departments: A Data-Driven Approach</q>. <var> Working paper</var>.
 
 
 ## Working in Progress
