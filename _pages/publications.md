@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications & Working Papers
 
-1. List item one
+1. {\bf Zhankun Sun}, Nilay Tan\i k Argon, Serhan Ziya, ``Patient Triage and Prioritization Under Austere Conditions''. {\itshape Management Science}, 64(10):4471-4489, 2018.
 2. List item two
 3. List item three
 4. List item four
