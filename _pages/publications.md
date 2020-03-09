@@ -15,15 +15,14 @@ author_profile: true
 6. Wenhao Li, **Zhankun Sun**, Jeff L. Hong, <q>Who's Next: Dynamic Patient Prioritization in an Emergency Department</q>. <var>Working paper</var>.
 7. Shuai Hao, Yuqian Xu, **Zhankun Sun**,<q>Routing Under Congestion: An Empirical Study of Triage Drift in Emergency Departments</q>. <var>Working paper}.
 8. Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Emergency Departments: A Data-Driven Approach</q>. <var> Working paper}.
-10. Huiyin Ouyang, **Zhankun Sun**, <q>Priority Scheduling when Job Type Information is not Free</q>. <var>Working paper</var>.
 
 
-## Ordered List (Nested)
+## Working in Progress
 
   1. List item one
   2. List item two
-  3. List item three
-  9. **Zhankun Sun**, Han Ye, Dongmei Wang, Haipeng Shen, Eddy Lang, <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>. <var> Working paper}.
+  9. Huiyin Ouyang, **Zhankun Sun**, <q>Priority Scheduling when Job Type Information is not Free</q>. <var>Working paper</var>.
+  10. **Zhankun Sun**, Han Ye, Dongmei Wang, Haipeng Shen, Eddy Lang, <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>. <var> Working paper}.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href=</q>{{author.googlescholar}}</q>>my Google Scholar profile</a>.</u>
