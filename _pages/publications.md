@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications & Working Papers
 
-1. {\bf Zhankun Sun}, Nilay Tan\i k Argon, Serhan Ziya, ``Patient Triage and Prioritization Under Austere Conditions''. {\itshape Management Science}, 64(10):4471-4489, 2018.
+1. **Zhankun Sun**, Nilay Tan\i k Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. <var>Management Science</var>, 64(10):4471-4489, 2018.
 2. Bin Hu, {\bf Zhankun Sun}, ``Managing Self-Replicating Innovative Goods''. {\itshape Management Science, major revision}
 3. List item three
 4. List item four
