@@ -16,6 +16,6 @@ My research interests are within the area of modeling, analysis, and control of 
 
 
 Education
-======
+------
 * B.S. in Industrial Engineering, Tsinghua University
 * Ph.D in Statistics and Operations Research, University of North Carolina Chapel Hill
