@@ -22,17 +22,3 @@ author_profile: true
 * George E. Nicholson Award, the University of North Carolina at Chapel Hill, 2010.
 * Chery $21$st Century Son of East Scholarship, Tsinghua University, 2007.
 * First prize in Physics Olympiad, China, 2003.
-
-Skills
-======
-* Python Programming
-* Programming
-  * AMPL
-  * Python
-  * Matlab
-  * R
-
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
