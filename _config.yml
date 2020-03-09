@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "My Personal Website"
 title_separator          : "-"
-name                     : &name 
+name                     : &name
 description              : &description "personal description"
 url                      : https://zhanksun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Zhankun Sun, Kevin"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor
+                      City University of Hong Kong"
   employer         :
   location         :
   pubmed           :
