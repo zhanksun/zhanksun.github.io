@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: </q>Publications</q>
+title: Publications
 permalink: /publications/
 author_profile: true
 ---
