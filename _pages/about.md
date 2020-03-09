@@ -14,4 +14,4 @@ I got my bachelor degree in Industrial Engineering from [Tsinghua University](ht
 
 My research interests are within the area of modeling, analysis, and control of stochastic systems. He is particularly interested in applications that arise from healthcare operations, such as emergency response management in the aftermath of mass-casualty events and patient flow management in hospital emergency departments.
 
-I am a Tar Heels fan (Go Heels). My favourite sport: Badminton, Hiking, Soccer.
+Here is my Curriculum Vitae [PDF]. I am also a big fan of North Carolina Tar Heels (Go Heels). My favourite sports are Badminton, Hiking, and Soccer.
