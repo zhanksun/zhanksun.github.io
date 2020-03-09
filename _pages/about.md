@@ -17,6 +17,5 @@ My research interests are within the area of modeling, analysis, and control of 
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial Engineering, Tsinghua University
+* Ph.D in Statistics and Operations Research, University of North Carolina Chapel Hill
