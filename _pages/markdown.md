@@ -4,6 +4,21 @@ title: "Others"
 author_profile: true
 ---
 
+Skills
+======
+* Python Programming
+* Programming
+  * AMPL
+  * Python
+  * Matlab
+  * R
+
+
+Service
+======
+* Currently signed in to 43 different slack teams
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -98,20 +113,6 @@ Do It Live
   * List item three
   * List item four
 
-## Ordered List (Nested)
-
-  1. List item one
-      1. List item one
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
 
 ## Buttons
 
