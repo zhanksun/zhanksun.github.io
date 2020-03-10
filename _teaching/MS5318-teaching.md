@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Hong Kong"
 ---
 
-This is a required course for taught master program MSc. in Quantitative Analysis for Business. The goal of this course is to enable students to make business decisions with the support of data. The focus is how to perform predictive analysis using Excel, R, and Python.
+This is a required course for taught master program MSc. in _Quantitative Analysis for Business_. The goal of this course is to enable students to make business decisions with the support of data. The focus is how to perform predictive analysis using Excel, R, and Python.
 
 ## Teaching Evaluations
 
