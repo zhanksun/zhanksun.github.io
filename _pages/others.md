@@ -39,18 +39,17 @@ author_profile: true
 * Programming: AMPL, Python, Matlab, R
 
 
-## `Contact`
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
+## Contact
 
 ### Address Tag
 
 <address>
   1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
 </address>
+{: .notice}
+
+
+
 
 ### Abbreviation Tag
 
