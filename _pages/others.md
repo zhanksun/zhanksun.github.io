@@ -40,11 +40,9 @@ author_profile: true
 ## Contact
 **Mailing Address**<br />
 <address>
-  7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br /> City University of Hong Kong<br /> Tat Chee Ave, Kowloon Tong <br /> Hong Kong
+  7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br /> City University of Hong Kong<br /> Tat Chee Ave, Kowloon Tong <br /> Hong Kong <br />☎️ +852 3442 8650
 </address>
 > {: .notice}
-
-☎️ +852 3442 8650  ➌ ❸  ⓺
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
