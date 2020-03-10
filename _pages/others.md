@@ -8,6 +8,8 @@ author_profile: true
 
 :phone:
 :telephone:
+:flushed:
+😟 :worried:
 
 * Reviewer
   * _Management Science_
