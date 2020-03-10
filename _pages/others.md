@@ -44,7 +44,7 @@ author_profile: true
 **Mailing Address**<br />
   7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br /> City University of Hong Kong<br /> Tat Chee Ave, Kowloon Tong <br /> Hong Kong
 </address>
-{: .notice}
+> {: .notice}
 
 
 *[MSOM]: Manufacturing & Service Operations Management
