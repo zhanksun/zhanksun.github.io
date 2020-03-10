@@ -9,3 +9,16 @@ location: "Hong Kong"
 ---
 
 This is a required course for taught master program MSc. in Quantitative Analysis for Business. The goal of this course is to enable students to make business decisions with the support of data.
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. 
