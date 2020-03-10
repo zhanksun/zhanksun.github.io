@@ -28,10 +28,9 @@ author_profile: true
 * Chair of _the 10th POMS-Hong Kong Best Student Paper Competition Committee (2019 CityU)_
 * Session Chair
   * _INFORMS Annual Meeting_
-  * _POMS Annual Meeting_
-  * _POMS International Meeting_
-* _Technical Committee Member_ for Queueing Theory and Network Applications
-* _Discussant_ for SIG Healthcare Track, MSOM 2019 at NUS
+  * _POMS Annual Meeting_, _POMS International Meeting_, _POMS-Hong Kong_
+* Technical Committee Member for _Queueing Theory and Network Applications_
+* Discussant for _SIG Healthcare Track, MSOM 2019 at NUS_
 
 ## Skills
 
