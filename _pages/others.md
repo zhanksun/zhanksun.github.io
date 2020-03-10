@@ -3,9 +3,6 @@ permalink: /others/
 title: "Services, Skills, and Contact"
 author_profile: true
 ---
-*[CSS]: Cascading Style Sheets
-*[MSOM]: Manufacturing & Service Operations Management
-*[POMS]: Production and Operations Management Society
 
 ## Services
 
@@ -52,47 +49,10 @@ author_profile: true
 
 
 
+*[MSOM]: Manufacturing & Service Operations Management
+*[POMS]: Production and Operations Management Society
 
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
 
 ### Code Tag
 
 You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
