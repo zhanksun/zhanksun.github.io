@@ -13,13 +13,14 @@ This is a required course for taught master program MSc. in Quantitative Analysi
 ## Teaching Evaluations
 
 
-Year | Section | Mean (7 point) | Median (7-point)
+Year | Section | Mean (7-point) | Median (7-point)
 --- | --- | --- | ---
 2018-2019 | C01 | **6.71** | **7.00**
 2018-2019 | C61 | **6.30** | **6.00**
 
-> Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
+### Comments from students
+> The teacher is so great, love this course so much! He always tells us some interesting stories and very funny. He explains the model clearly and vividly. Quite interesting and useful course.
+> Through this course we have learned a very useful R language, which will be of great help to our future data analysis. The professor provided a lot of questions for us to practice and strengthen the knowledge
 
 Quote break.
 
