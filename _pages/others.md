@@ -19,17 +19,17 @@ author_profile: true
   * _IEEE Transactions_
   * _International Journal of Forecasting_
   * _OMEGA_
-* _Judge_
-  * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore, 2020 Banff)
-  * POMS International Conference Best Student Paper Competition (2019 Tianjin)
-  * Pierskalla Best Paper Award - Health Applications Society (2019 DC)
-  * POMS CHOM Best Paper Competition (2020 Minneapolis)
-  * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
-* _Chair_ 10th POMS-Hong Kong Best Student Paper Competition Committee (2019 CityU)
-* _Session Chair_
-  * INFORMS Annual Meeting
-  * POMS Annual Meeting
-  * POMS International Meeting
+* Judge
+  * _MSOM SIG Conference – Healthcare Operations Track (2019 Singapore, 2020 Banff)_
+  * _POMS International Conference Best Student Paper Competition (2019 Tianjin)_
+  * _Pierskalla Best Paper Award - Health Applications Society (2019 DC)_
+  * _POMS CHOM Best Paper Competition (2020 Minneapolis)_
+  * _POMS-Hong Kong Best Student Paper Competition (2020 HKU)_
+* Chair of _the 10th POMS-Hong Kong Best Student Paper Competition Committee (2019 CityU)_
+* Session Chair
+  * _INFORMS Annual Meeting_
+  * _POMS Annual Meeting_
+  * _POMS International Meeting_
 * _Technical Committee Member_ for Queueing Theory and Network Applications
 * _Discussant_ for SIG Healthcare Track, MSOM 2019 at NUS
 
