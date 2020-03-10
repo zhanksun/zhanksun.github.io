@@ -3,7 +3,8 @@ permalink: /others/
 title: "Services, Skills, and Contact"
 author_profile: true
 ---
-
+*[CSS]: Cascading Style Sheets
+*[CSS]: Cascading Style Sheets
 
 ## Services
 
@@ -55,7 +56,7 @@ author_profile: true
 
 The abbreviation CSS stands for "Cascading Style Sheets".
 
-*[CSS]: Cascading Style Sheets
+
 
 ### Cite Tag
 
