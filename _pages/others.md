@@ -44,7 +44,7 @@ author_profile: true
 </address>
 > {: .notice}
 
-☎️ +852 3442 8650  2⃣   *   8️⃣   6️⃣  ➏   ⓺   0️⃣
+☎️ +852 3442 8650  ➌ ❸  ⓺
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
