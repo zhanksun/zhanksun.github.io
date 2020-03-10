@@ -4,8 +4,8 @@ permalink: /others/
 author_profile: true
 ---
 
-Skills
-======
+## Skills
+
 * Python Programming
 * Programming
   * AMPL
