@@ -18,11 +18,6 @@ Year | Section | Overall Rating<sup></sup> | Department Average | College Averag
 2018-2019 | C01 | **6.71**/7 | **5.91**/7 | **5.95**/7
 2018-2019 | C61 | **6.30**/7 | **5.91**/7 | **5.95**/7
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
 
 ### Comments from students
 > The teacher is so great, love this course so much! He always tells us some interesting stories and very funny. He explains the model clearly and vividly. Quite interesting and useful course.
