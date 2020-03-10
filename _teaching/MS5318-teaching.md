@@ -10,6 +10,8 @@ location: "Hong Kong"
 
 This is a required course for taught master program MSc. in Quantitative Analysis for Business. The goal of this course is to enable students to make business decisions with the support of data.
 
+Teaching Evaluations
+======
 
 Markdown | Less | Pretty
 --- | --- | ---
@@ -21,4 +23,4 @@ Markdown | Less | Pretty
 
 Quote break.
 
-> This is a very long line that will still be quoted properly when it wraps. 
+> This is a very long line that will still be quoted properly when it wraps.
