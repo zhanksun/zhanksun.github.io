@@ -26,7 +26,7 @@ author_profile: true
   * Pierskalla Best Paper Award - Health Applications Society (2019 DC)
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
-* _Chair_ of the Tenth POMS-Hong Kong Best Student Paper Competition Committee (2019 CityU)
+* _Chair_ 10th POMS-Hong Kong Best Student Paper Competition Committee (2019 CityU)
 * _Session Chair_
   * INFORMS Annual Meeting
   * POMS Annual Meeting
