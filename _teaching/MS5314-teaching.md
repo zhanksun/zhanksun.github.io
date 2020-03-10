@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/MS5314-teaching
 venue: "City University of Hong Kong, College of Business"
-date: 2017 Semester B
+date: 2017
 location: "Hong Kong"
 ---
 
