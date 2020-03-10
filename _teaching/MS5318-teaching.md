@@ -13,11 +13,12 @@ This is a required course for taught master program MSc. in _Quantitative Analys
 ## Teaching Evaluations
 
 
-Year | Section | Overall Rating[^#]<sup></sup> | Department Average | College Average
+Year | Section | Overall Rating [^#] <sup></sup> | Department Average | College Average
 :---: | :---: | :---: | :---: | :---:
 2018-2019 | C01 | **6.71** | **5.91** | **5.95**
 2018-2019 | C61 | **6.30** | **5.91** | **5.95**
 
+[^#]: This is the first footnote.
 
 ### Comments from students
 > The teacher is so great, love this course so much! He always tells us some interesting stories and very funny. He explains the model clearly and vividly. Quite interesting and useful course.
