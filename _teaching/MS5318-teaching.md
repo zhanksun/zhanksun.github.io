@@ -23,4 +23,9 @@ Year | Section | Mean (7-point) | Median (7-point)
 
 > Through this course we have learned a very useful R language, which will be of great help to our future data analysis. The professor provided a lot of questions for us to practice and strengthen the knowledge
 
-> This is a very long line that will still be quoted properly when it wraps.
+> Lecturer is great. He has passion to teach us.
+
+> The coverage and design of the course is comprehensive, practical, and useful. The pace of teaching is also about
+right.
+
+> Good teacher
