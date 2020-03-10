@@ -7,18 +7,18 @@ author_profile: true
 ## Services
 
 * Reviewer
-  * _Management Science
-  * Operations Research
-  * Manufacturing & Service Operations Management
-  * _Production and Operations Management
-  * INFORMS Journal on Computing
-  * Naval Research Logistics
-  * IIE Transactions on Healthcare Systems Engineering
-  * IISE Transactions
-  * European Journal of Operational Research
-  * IEEE Transactions
-  * International Journal of Forecasting
-  * OMEGA_
+  * _Management Science_
+  * _Operations Research_
+  * _Manufacturing & Service Operations Management_
+  * _Production and Operations Management_
+  * _INFORMS Journal on Computing_
+  * _Naval Research Logistics_
+  * _IIE Transactions on Healthcare Systems Engineering_
+  * _IISE Transactions_
+  * _European Journal of Operational Research_
+  * _IEEE Transactions_
+  * _International Journal of Forecasting_
+  * _OMEGA_
 * _Judge_
   * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore, 2020 Banff)
   * POMS International Conference Best Student Paper Competition (2019 Tianjin)
