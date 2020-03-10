@@ -32,6 +32,7 @@ author_profile: true
   * POMS Annual Meeting
   * POMS International Meeting
 * _Technical Committee Member_ for Queueing Theory and Network Applications
+* _Discussant_ for SIG Healthcare Track, MSOM 2019 at NUS
 
 ## Skills
 
