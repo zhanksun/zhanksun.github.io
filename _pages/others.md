@@ -6,11 +6,11 @@ author_profile: true
 
 ## Services
 
-* _Reviewer_
-  * Management Science
+* Reviewer
+  * _Management Science
   * Operations Research
   * Manufacturing & Service Operations Management
-  * Production and Operations Management
+  * _Production and Operations Management
   * INFORMS Journal on Computing
   * Naval Research Logistics
   * IIE Transactions on Healthcare Systems Engineering
@@ -18,7 +18,7 @@ author_profile: true
   * European Journal of Operational Research
   * IEEE Transactions
   * International Journal of Forecasting
-  * OMEGA
+  * OMEGA_
 * _Judge_
   * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore, 2020 Banff)
   * POMS International Conference Best Student Paper Competition (2019 Tianjin)
