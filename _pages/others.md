@@ -47,3 +47,7 @@ author_profile: true
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
+*[HKU]: the University of Hong Kong
+*[UNC]: the University of North Carolina
+*[NUS]: National University of Singapore
+*[CityU]: City University of Hong Kong
