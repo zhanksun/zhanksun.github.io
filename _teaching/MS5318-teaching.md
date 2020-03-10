@@ -20,8 +20,7 @@ Year | Section | Mean (7-point) | Median (7-point)
 
 ### Comments from students
 > The teacher is so great, love this course so much! He always tells us some interesting stories and very funny. He explains the model clearly and vividly. Quite interesting and useful course.
-> Through this course we have learned a very useful R language, which will be of great help to our future data analysis. The professor provided a lot of questions for us to practice and strengthen the knowledge
 
-Quote break.
+> Through this course we have learned a very useful R language, which will be of great help to our future data analysis. The professor provided a lot of questions for us to practice and strengthen the knowledge
 
 > This is a very long line that will still be quoted properly when it wraps.
