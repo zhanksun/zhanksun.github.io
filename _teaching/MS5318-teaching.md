@@ -13,10 +13,10 @@ This is a required course for taught master program MSc. in Quantitative Analysi
 ## Teaching Evaluations
 
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+Year | Section | Mean (7 point) | Median (7-point)
+--- | --- | --- | ---
+2018-2019 | C01 | **6.71** | **7.00**
+2018-2019 | C61 | **6.30** | **6.00**
 
 > Blockquotes are very handy in email to emulate reply text.
 > This line is part of the same quote.
