@@ -5,10 +5,8 @@ type: "Undergraduate course"
 permalink: /teaching/STOR113-teaching
 venue: "the University of North Carolina at Chapel Hill"
 date: 2012-06-06
-location: "Hong Kong"
+location: "Chapel Hill, North Carolina, U.S.A."
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
