@@ -6,11 +6,6 @@ author_profile: true
 
 ## Services
 
-:phone:
-:telephone:
-:flushed:
-😟 :worried:
-
 * Reviewer
   * _Management Science_
   * _Operations Research_
@@ -49,7 +44,7 @@ author_profile: true
 </address>
 > {: .notice}
 
-:phone: +852 3442 8650
+☎️:telephone: +852 3442 8650
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
