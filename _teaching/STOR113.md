@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/STOR113-teaching
 venue: "the University of North Carolina at Chapel Hill"
-date: 
+date: 2012-06-06
 location: "Hong Kong"
 ---
 
