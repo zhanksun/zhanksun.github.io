@@ -1,6 +1,6 @@
 ---
 permalink: /others/
-title: " "
+title: "Others"
 author_profile: true
 ---
 
@@ -14,8 +14,8 @@ author_profile: true
   * R
 
 
-Service
-======
+## Skills
+
 * Currently signed in to 43 different slack teams
 
 
