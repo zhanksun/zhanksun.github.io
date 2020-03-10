@@ -4,9 +4,25 @@ title: "Others"
 author_profile: true
 ---
 
+
+## Services
+
+* _Reviewer_
+  * Management Science
+  * Operations Research
+  * Manufacturing & Service Operations Management
+  * Production and Operations Management
+  * INFORMS Journal on Computing
+  * Naval Research Logistics
+  * IIE Transactions on Healthcare Systems Engineering
+  * IISE Transactions
+  * European Journal of Operational Research
+  * IEEE Transactions
+  * International Journal of Forecasting
+  * OMEGA
+
 ## Skills
 
-* Python Programming
 * Programming
   * AMPL
   * Python
@@ -14,9 +30,6 @@ author_profile: true
   * R
 
 
-## Services
-
-* Currently signed in to 43 different slack teams
 
 
 ## Tips and hints
