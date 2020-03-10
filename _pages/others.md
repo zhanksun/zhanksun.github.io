@@ -40,10 +40,10 @@ author_profile: true
 
 ## Contact
 
-### Address Tag
+#### Mailing Address:
 
 <address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+  7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br /> City University of Hong Kong<br /> Tat Chee Ave, Kowloon Tong <br /> Hong Kong
 </address>
 {: .notice}
 
