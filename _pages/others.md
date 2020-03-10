@@ -44,7 +44,7 @@ author_profile: true
 </address>
 > {: .notice}
 
-☎️:telephone: +852 3442 8650 3️⃣4️⃣4️⃣2⃣*8️⃣6️⃣➏⓺5️⃣0️⃣
+☎️ +852 3442 8650 3️⃣4️⃣4️⃣2⃣*8️⃣6️⃣➏⓺5️⃣0️⃣
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
