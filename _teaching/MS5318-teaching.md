@@ -13,7 +13,7 @@ This is a required course for taught master program MSc. in _Quantitative Analys
 ## Teaching Evaluations
 
 
-Year | Section | Overall Rating <sup>1</sup> | Department Average <sup>2</sup> | College Average <sup>#</sup>
+Year | Section | Overall Rating <sup>#</sup> | Department Average <sup>#</sup> | College Average <sup>#</sup>
 :---: | :---: | :---: | :---: | :---:
 2018-2019 | C01 | **6.71** | **5.91** | **5.95**
 2018-2019 | C61 | **6.30** | **5.91** | **5.95**
