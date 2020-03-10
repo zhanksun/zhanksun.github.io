@@ -1,6 +1,6 @@
 ---
 permalink: /
-> title: "Zhankun Sun (孫占坤)"
+#title: "Zhankun Sun (孫占坤)"
 title: "About me"
 excerpt: "About me"
 author_profile: true
