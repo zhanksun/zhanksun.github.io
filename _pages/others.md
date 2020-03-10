@@ -35,11 +35,7 @@ author_profile: true
 
 ## Skills
 
-* Programming
-  * AMPL
-  * Python
-  * Matlab
-  * R
+* Programming: AMPL, Python, Matlab, R
 
 
 
