@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
->title                    : "My Personal Website"
+#title                    : "My Personal Website"
 title                    : "Zhankun Sun (孫占坤)"
 title_separator          : "-"
 name                     : &name
