@@ -40,19 +40,12 @@ author_profile: true
 
 ## Contact
 
-#### Mailing Address:
-
 <address>
+**Mailing Address**<br />
   7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br /> City University of Hong Kong<br /> Tat Chee Ave, Kowloon Tong <br /> Hong Kong
 </address>
 {: .notice}
 
 
-
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
-
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
