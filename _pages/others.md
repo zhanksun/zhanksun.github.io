@@ -1,6 +1,6 @@
 ---
 permalink: /others/
-#title: "Others"
+title: " "
 author_profile: true
 ---
 
