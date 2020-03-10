@@ -4,7 +4,8 @@ title: "Services, Skills, and Contact"
 author_profile: true
 ---
 *[CSS]: Cascading Style Sheets
-*[CSS]: Cascading Style Sheets
+*[MSOM]: Manufacturing & Service Operations Management
+*[POMS]: Production and Operations Management Society
 
 ## Services
 
