@@ -20,5 +20,5 @@ author_profile: true
 * Excellence in Teaching Award, the University of North Carolina at Chapel Hill, December 2013
 * Nominated and selected for the INFORMS 2012 Future Academician Colloquium.
 * George E. Nicholson Award, the University of North Carolina at Chapel Hill, 2010.
-* Chery $21$st Century Son of East Scholarship, Tsinghua University, 2007.
+* Chery $21$<sup>st</sup> Century Son of East Scholarship, Tsinghua University, 2007.
 * First prize in Physics Olympiad, China, 2003.
