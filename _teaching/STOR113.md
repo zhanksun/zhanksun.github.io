@@ -17,6 +17,6 @@ Year | 2011 Fall | 2012 Spring | 2012 Summer
 Rating <sup>\*</sup> | **4.0** | **4.2** | **4.5** <sup>\#</sup>
 
 \*: scores based on a 5-point rating system. <br>
-\#: This is the first course I ever taught. I taught this course for three semesters. My teaching skills improved steadily, recognized by the Excellence in Teaching Award from the University of North Carolina at Chapel Hill.
+\#: This is the first course I ever taught. I taught this course for three semesters. My teaching skills improved steadily, recognized by the Excellence in Teaching Award from UNC Chapel Hill.
 
 *[UNC]: the University of North Carolina
