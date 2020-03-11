@@ -78,13 +78,23 @@ var addressPoints = [
   [
     "CUHK, Hong Kong, CN",
        22.411871,
-       114.211041 
+       114.211041
   ],
   [
     "Singapore",
        1.283790,
        103.860488
-  ]
+  ],
 
+  [
+    "Brisbane, Australia",
+        -27.477404,
+        153.016108
+  ],
+  [
+    "Auckland, New Zealand",
+         -36.848577,
+         174.762232 
+  ]
 
 ];
