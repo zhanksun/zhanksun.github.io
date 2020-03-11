@@ -10,15 +10,12 @@ var addressPoints = [
      -78.869158
   ],
   [
-    "Beijing, CN",
-     39.999591,
-     116.330785
-  ],
-  [
     "San Francisco, California",
     37.7792808,
     -122.4192362
   ],
+
+
 
   [
     "Edmonton, Alberta, Canada",
@@ -34,5 +31,24 @@ var addressPoints = [
     "Calgary, Alberta, Canada",
       51.171653,
       -115.561111
+  ],
+
+
+
+  [
+    "Beijing, CN",
+     39.999591,
+     116.330785
+  ],
+  [
+    "Ningbo, CN",
+      29.867009,
+      121.561758
+  ],
+  [
+    "Chengdu, CN",
+      30.635577,
+      104.042241 
   ]
+
 ];
