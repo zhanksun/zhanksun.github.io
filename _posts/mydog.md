@@ -1,6 +1,6 @@
 ---
 title: 'My Dog'
-date: 2020-03-11
+date: 2020-03-10
 permalink: /posts/mydog/
 tags:
   - cool posts
