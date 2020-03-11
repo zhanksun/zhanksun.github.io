@@ -62,14 +62,18 @@ var addressPoints = [
   [
     "MIT, MA, USA",
           42.360977,
-          -71.082911 
+          -71.082911
   ],
   [
     "Philadelphia, PA, USA",
           39.954380,
           -75.160908
   ],
-
+  [
+    "Case Western Reserve University, Cleveland, OH, USA",
+           41.509910,
+           -81.607931 
+  ],
 
 
 
