@@ -18,3 +18,4 @@ A list of all the posts and pages found on the site.
 {% for post in site.posts %}
   {% include post.md %}
 {% endfor %}
+{% endfor %}
