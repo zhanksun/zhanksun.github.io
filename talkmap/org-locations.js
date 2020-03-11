@@ -42,7 +42,12 @@ var addressPoints = [
   [
     "Nashville, TN, USA",
        36.158245,
-       -86.774351 
+       -86.774351
+  ],
+  [
+    "Minneapolis, MN, USA",
+        44.973547,
+        -93.266219 
   ],
 
 
@@ -57,7 +62,7 @@ var addressPoints = [
       -114.124835
   ],
   [
-    "Calgary, Alberta, Canada",
+    "Banff, Alberta, Canada",
       51.171653,
       -115.561111
   ],
