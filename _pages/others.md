@@ -33,8 +33,6 @@ author_profile: true
 * Discussant for _SIG Healthcare Track, MSOM 2019 at NUS_
 
 
-> * Programming: AMPL, Python, Matlab, R
-
 
 ## Contact
 **Mailing Address**<br />
