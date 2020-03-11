@@ -16,6 +16,6 @@ A list of all the posts and pages found on the site.
 
 <h2>Posts</h2>
 {% for post in site.posts %}
-  {% include post.md %}
+  {% include archive-single.md %}
 {% endfor %}
 {% endfor %}
