@@ -12,9 +12,9 @@ This is an undergraduate course offered by the Department of Statistics and Oper
 
 ## Teaching Evaluations
 
-Year | Section | Overall Rating <sup>\*</sup> | Department Average <sup>\*</sup> 
+Year | 2011 Fall | 2012 Spring | 2012 Summer
 :---: | :---: | :---: | :---: | :---:
-Rating | C01 | **6.71** | **5.91**
+Rating | **4.0** | **4.2** | **4.5**
 
 \*: scores based on a 5-point rating system.
 
