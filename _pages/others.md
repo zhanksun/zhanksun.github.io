@@ -20,7 +20,7 @@ author_profile: true
   * _International Journal of Forecasting_
   * _OMEGA_
 * Judge
-  * _MSOM SIG Conference – Healthcare Operations Track (2019 Singapore, 2020 Banff)_
+  * _MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)_
   * _POMS International Conference Best Student Paper Competition (2019 Tianjin)_
   * _Pierskalla Best Paper Award - Health Applications Society (2019 DC)_
   * _POMS CHOM Best Paper Competition (2020 Minneapolis)_
