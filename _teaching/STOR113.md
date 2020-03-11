@@ -10,7 +10,7 @@ location: "Chapel Hill, North Carolina, U.S.A."
 
 This is an undergraduate course offered by the Department of Statistics and Operations Research for freshman major in business administration in the UNC Kenan-Flagler Business School.
 
-## Teaching Evaluations<sup>\*</sup>
+## Teaching Evaluations <sup>\*</sup>
 
 Year | 2011 Fall | 2012 Spring | 2012 Summer
 :---: | :---: | :---: | :---: | :---:
