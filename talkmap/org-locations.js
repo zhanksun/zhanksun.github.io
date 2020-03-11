@@ -19,9 +19,20 @@ var addressPoints = [
     37.7792808,
     -122.4192362
   ],
+
   [
     "Edmonton, Alberta, Canada",
      53.527330,
      -113.522013
+  ],
+  [
+    "Calgary, Alberta, Canada",
+      51.077419,
+      -114.124835
+  ],
+  [
+    "Calgary, Alberta, Canada",
+      51.171653,
+      -115.561111
   ]
 ];
