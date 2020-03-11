@@ -47,8 +47,12 @@ var addressPoints = [
   [
     "Minneapolis, MN, USA",
         44.973547,
-        -93.266219 
+        -93.266219
   ],
+
+
+
+
 
 
   [
@@ -66,6 +70,8 @@ var addressPoints = [
       51.171653,
       -115.561111
   ],
+
+
 
 
 
@@ -114,12 +120,16 @@ var addressPoints = [
        22.411871,
        114.211041
   ],
+
+
+
+
+
   [
     "Singapore",
        1.283790,
        103.860488
   ],
-
   [
     "Brisbane, Australia",
         -27.477404,
