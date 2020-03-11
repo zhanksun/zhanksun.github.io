@@ -1,6 +1,6 @@
 ---
 permalink: /others/
-title: "Services, Skills, and Contact"
+title: "Services and Contact"
 author_profile: true
 ---
 
@@ -32,9 +32,8 @@ author_profile: true
 * Technical Committee Member for _Queueing Theory and Network Applications_
 * Discussant for _SIG Healthcare Track, MSOM 2019 at NUS_
 
-## Skills
 
-* Programming: AMPL, Python, Matlab, R
+> * Programming: AMPL, Python, Matlab, R
 
 
 ## Contact
