@@ -8,4 +8,6 @@ date: 2012-06-06
 location: "Chapel Hill, North Carolina, U.S.A."
 ---
 
-This is an undergraduate course offered by the Department of Statistics and Operations Research for first-year students who plan to apply the business major at the Kenan-Flagler School of Business at UNC Chapel Hill.
+This is an undergraduate course offered by the Department of Statistics and Operations Research for freshman in business administration in the Kenan-Flagler School of Business of UNC Chapel Hill.
+
+*[UNC]: the University of North Carolina
