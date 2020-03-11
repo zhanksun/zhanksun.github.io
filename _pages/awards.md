@@ -11,7 +11,7 @@ author_profile: true
 * Start-up grant, City University of Hong Kong, 2016-2018
 * O'Brien Institute for Public Health Research Catalyst Funds, 2016-2017
 * Eyes High Postdoctoral Fellowship, University of Calgary, 2014
-* Graduate Student Transportation Grant, UNC-CH, 2013.
+* Graduate Student Transportation Grant, the University of North Carolina at Chapel Hill, 2013.
 * Graduate Student Fellowship, Statistical and Applied Mathematical Sciences Institute (SAMSI), 2012.
 
 ## Awards
