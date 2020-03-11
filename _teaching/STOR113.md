@@ -10,12 +10,13 @@ location: "Chapel Hill, North Carolina, U.S.A."
 
 This is an undergraduate course offered by the Department of Statistics and Operations Research for freshman major in business administration in the UNC Kenan-Flagler Business School.
 
-## Teaching Evaluations <sup>\*</sup>
+## Teaching Evaluations
 
 Year | 2011 Fall | 2012 Spring | 2012 Summer
 :---: | :---: | :---: | :---: | :---:
-Rating | **4.0** | **4.2** | **4.5**
+Rating <sup>\*</sup> | **4.0** | **4.2** | **4.5** <sup>\#</sup>
 
 \*: scores based on a 5-point rating system.
+\#: This is the first course I ever taught. I taught this course for three semesters. My teaching skills improved steadily, recognized by the Excellence in Teaching Award from the University of North Carolina at Chapel Hill.
 
 *[UNC]: the University of North Carolina
