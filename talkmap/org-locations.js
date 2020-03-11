@@ -22,7 +22,27 @@ var addressPoints = [
   [
     "Seattle, WA, USA",
       47.618202,
-      -122.200471 
+      -122.200471
+  ],
+  [
+    "Orlando, FL, USA",
+       28.537673,
+       -81.379466
+  ],
+  [
+    "Myrtle Beach, SC, USA",
+       33.688754,
+       -78.886637
+  ],
+  [
+    "Charleston, SC, USA",
+        32.776610,
+        -79.931372
+  ],
+  [
+    "Nashville, TN, USA",
+       36.158245,
+       -86.774351 
   ],
 
 
