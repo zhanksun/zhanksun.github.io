@@ -27,4 +27,4 @@ Just to make some notes on how to build my personal website using GitHub Pages.
 
 1. Install Jekyll (you'll need Ruby and Bundle);
 
-2.
+2. f
