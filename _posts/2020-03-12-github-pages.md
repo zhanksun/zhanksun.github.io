@@ -25,6 +25,8 @@ Just to make some notes on how to build my personal website using GitHub Pages.
 
 ### Testing your GitHub Pages site locally with Jekyll
 
-1. Install Ruby and RubyGems (usually they are installed on MacOS);
+1. Installing Ruby and RubyGems (usually they are installed on MacOS);
   1. Use the two bash commands `ruby -v` and `gem -v` to check the version in your system;
-2. f
+2. Installing the github-pages gem
+  * `gem install github-pages`
+  * `gem update github-pages`
