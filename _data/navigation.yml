@@ -8,9 +8,12 @@ main:
 
   - title: "Funding and Awards"
     url: /awards/
-    
+
   - title: "Talks"
     url: /talks/
 
   - title: "Others"
     url: /others/
+
+  - title: "Posts"
+    url: /posts/
