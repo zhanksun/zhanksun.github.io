@@ -19,10 +19,13 @@ Just to make some notes on how to build my personal website using GitHub Pages.
 5. After each edit, use GitHub Desktop to make commit, and push it to the cloud;
 
 
-### Testing your GitHub Pages site locally with Jekyll
+### Building your GitHub Pages site locally with Jekyll
 
 1. Installing Ruby and RubyGems (usually they are installed on MacOS);
   1. Use the two bash commands `ruby -v` and `gem -v` to check the version in your system;
 2. Installing the github-pages gem
   * `gem install github-pages`
   * `gem update github-pages`
+3. Open terminal and navigate to the publishing source for your site;
+  * `bundle exec jekyll serve`
+4. To preview your site, in your web browser, navigate to http://localhost:4000.
