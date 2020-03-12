@@ -1,5 +1,5 @@
 ---
-title: 'Notes on GitHub Pages'
+title: 'Build my personal website using GitHub Pages'
 date: 2020-03-12
 permalink: /posts/2020/03/
 tags:
@@ -28,6 +28,6 @@ Just to make some notes on how to build my personal website using GitHub Pages.
   * `gem update github-pages`
   * `gem install bundler:2.1.4`
   * `bundle install`
-1. Open terminal and navigate to the publishing source for your site;
+1. Open terminal and navigate to the publishing source for your site:
   * `bundle exec jekyll serve`
 1. To preview your site, in your web browser, navigate to [http://localhost:4000](http://localhost:4000).
