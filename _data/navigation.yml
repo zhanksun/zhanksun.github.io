@@ -15,5 +15,5 @@ main:
   - title: "Others"
     url: /others/
 
-  - title: "Posts"
-    url: /posts/
+  - title: "Blog Posts"
+    url: /year-archive/
