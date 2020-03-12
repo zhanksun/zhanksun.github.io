@@ -50,14 +50,14 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : true
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : tidal04
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          :  "https://twitter.com/Tidal04"
   vine             :
   weibo            :
   xing             :
@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-cayman # jekyll-theme-merlot, jekyll-theme-minimal
+theme: jekyll-theme-minimal # jekyll-theme-merlot, jekyll-theme-cayman
