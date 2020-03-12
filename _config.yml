@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : RpHRa2YfeZwE1Y96niaR7bVarvTGICouSLqLqhvEUgY
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -312,4 +312,4 @@ compress_html:
 
 theme: jekyll-theme-minimal # jekyll-theme-merlot, jekyll-theme-cayman
 
-github: [metadata] 
+github: [metadata]
