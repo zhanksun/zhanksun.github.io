@@ -1,10 +1,10 @@
 ---
 permalink: /others/
-title: "Services and Contact"
+title: "Service and Contact"
 author_profile: true
 ---
 
-## Services
+## Service
 
 * Reviewer
   * _Management Science_
