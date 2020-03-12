@@ -10,7 +10,7 @@ author_profile: true
 A list of all the posts and pages found on the site.
 
 <h2>Pages</h2>
-{% for post in site.pages exclude 404.md %}
+{% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
 
