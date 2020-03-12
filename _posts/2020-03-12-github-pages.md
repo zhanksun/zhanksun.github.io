@@ -26,6 +26,7 @@ Just to make some notes on how to build my personal website using GitHub Pages.
 2. Installing the github-pages gem
   * `gem install github-pages`
   * `gem update github-pages`
+  * Later, to update the gem, type: `gem update github-pages` 
 3. Open terminal and navigate to the publishing source for your site;
   * `bundle exec jekyll serve`
 4. To preview your site, in your web browser, navigate to [http://localhost:4000](http://localhost:4000).
