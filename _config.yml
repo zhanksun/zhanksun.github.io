@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : tidal04
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :  "https://twitter.com/Tidal04"
+  twitter          :  "Tidal04"
   vine             :
   weibo            :
   xing             :
