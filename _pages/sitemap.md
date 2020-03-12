@@ -11,7 +11,7 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% if post.title != 404.md %}
+  {% if post != "404.md" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
