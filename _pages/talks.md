@@ -47,7 +47,7 @@ author_profile: true
 
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/map.html">See a map of all the places I've given a talk!</a></p>
+<p style="text-decoration:underline;"><a href="/map.html">See a map of places I've been to for academic exchange!</a></p>
 
 {% endif %}
 
