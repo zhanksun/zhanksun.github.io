@@ -1,5 +1,5 @@
 ---
-title: 'Build my personal website using GitHub Pages'
+title: 'Build personal website using GitHub Pages'
 date: 2020-03-12
 permalink: /posts/2020/03/
 tags:
