@@ -7,7 +7,7 @@ author_profile: true
 ## Service
 
 * Reviewer
-  * _Management Science_
+  * [_Management Science_](https://mc.manuscriptcentral.com/ms)
   * _Operations Research_
   * _Manufacturing & Service Operations Management_
   * _Production and Operations Management_
