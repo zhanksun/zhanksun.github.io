@@ -8,8 +8,8 @@ author_profile: true
 
 * Reviewer
   * [_Management Science_](https://mc.manuscriptcentral.com/ms)
-  * _Operations Research_
-  * _Manufacturing & Service Operations Management_
+  * [_Operations Research_](https://mc.manuscriptcentral.com/opre)
+  * [_Manufacturing & Service Operations Management_](https://mc.manuscriptcentral.com/msom)
   * _Production and Operations Management_
   * _INFORMS Journal on Computing_
   * _Naval Research Logistics_
