@@ -17,6 +17,7 @@ author_profile: true
   * [_IISE Transactions_](https://mc.manuscriptcentral.com/iietransactions)
   * [_European Journal of Operational Research_](https://www.editorialmanager.com/EJOR/default.aspx?pg=mainpage.html)
   * [_IEEE Transactions on Systems, Man, and Cybernetics: Systems_](https://mc.manuscriptcentral.com/systems)
+  * [_International Journal of Production Research_](https://mc.manuscriptcentral.com/tprs)
   * [_International Journal of Forecasting_](https://mc.manuscriptcentral.com/ijf)
   * [_OMEGA_](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4)
 * Judge
