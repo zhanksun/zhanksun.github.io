@@ -4,7 +4,6 @@ permalink: /encrypt/
 title: "My posts"
 author_profile: true
 ---
-
 <!doctype html>
 <html class="staticrypt-html">
 <head>
@@ -125,8 +124,7 @@ author_profile: true
     <div class="staticrypt-form">
         <div class="staticrypt-instructions">
             <p class="staticrypt-title">Protected Page</p>
-            <p><p>Enter &quot;test&quot; to unlock the page</p>
-</p>
+            <p></p>
         </div>
 
         <hr class="staticrypt-hr">
@@ -180,7 +178,7 @@ author_profile: true
         e.preventDefault();
 
         var passphrase = document.getElementById('staticrypt-password').value,
-            encryptedMsg = '1c5350b7566531a9aa06d5c186b58de688287a5f64c1439fadab7c5f8ffd3c676a558d9e37e7c0c4b8df03fbb0149c292c02cff335c90cc2ccc7e02fcda394247bvtjq4PeULRWa0f/TewJBGyaHeltmS3NITxoMwMpHJoe4E4AXjJqHcFjHY+1H6u1IIxjQlP4/WRDUu6U+QG+eHIfOgwE4sz+9CkrHFSG8HX2p0NpEs7HYls8rZEk1SKcMrtlzuSwKBV60jIketViNVFHmnbPJYmK0FKVQcFh19EO1dtuvAK8M3CMVOPUIYh',
+            encryptedMsg = '642b105b854de294e059fce249626491ce2ec2484b7a43826329c81c258a3b2290b898569cd261f3426b0ed3973a93de9e1eae3d6ec18b09d02590bfc2e7a59fL8GY2L9tg6KLMWAKqDboSw==',
             encryptedHMAC = encryptedMsg.substring(0, 64),
             encryptedHTML = encryptedMsg.substring(64),
             decryptedHMAC = CryptoJS.HmacSHA256(encryptedHTML, CryptoJS.SHA256(passphrase).toString()).toString();
@@ -198,3 +196,14 @@ author_profile: true
 </script>
 </body>
 </html>
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}
