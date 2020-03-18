@@ -36,6 +36,6 @@ Journals in Statistics, Forecasting, and Emergency Medicine
   * [Canadian Journal of Emergency Medicine](https://mc.manuscriptcentral.com/cjem)
   * [Academic Emergency Medicine](https://mc.manuscriptcentral.com/aemj)
 
-  Conference websites
-  ------
-    * [INFORMS](https://myaccount.informs.org/s/)
+Conference websites
+------
+  * [INFORMS](https://myaccount.informs.org/s/)
