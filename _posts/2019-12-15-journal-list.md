@@ -5,6 +5,7 @@ permalink: /posts/2019/12/journal-list/
 tags:
   - review
   - journal
+  - conference
 ---
 
 A list of journals that I have served as a reviewer, or I have submitted at least one manuscript.
