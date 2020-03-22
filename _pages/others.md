@@ -42,6 +42,10 @@ author_profile: true
 </address>
 > {: .notice}
 
+<p>City University of Hong Kong, Management Sciences uses Simio <a href="https://www.simio.com/">simulation software</a>
+under a grant from Simio LLC (<a href="https://www.simio.com/">www.simio.com</a>).</p>
+
+
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
 *[HKU]: the University of Hong Kong
