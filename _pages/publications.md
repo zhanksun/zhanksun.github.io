@@ -8,7 +8,7 @@ author_profile: true
 ## Publications & Working Papers
 
 1. **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. _Management Science_, 64(10):4471-4489, 2018. [\[pdf\]](http://zhanksun.github.io/files/Sun-Argon-Ziya_Final.pdf)
-2. Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, 2nd round review_. [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345311)
+2. Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, 2<sup>nd</sup> round review_. [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345311)
 3. **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management, major revision_. [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3346173)
 4. Farzad Zaerpour, Marco Bijvank, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, major revision_. [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3519625)
 5. Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Semi-Orthogonal Non-Negative Matrix Factorization with an Application in Text Mining</q>. _Journal of the American Statistical Association, major revision_. [\[pdf\]](https://www.researchgate.net/profile/Jack_Yutong_Li/publication/325008975_Semi-Orthogonal_Non-Negative_Matrix_Factorization_with_an_Application_in_Text_Mining/links/5d1274f7458515c11cf88761/Semi-Orthogonal-Non-Negative-Matrix-Factorization-with-an-Application-in-Text-Mining.pdf)
