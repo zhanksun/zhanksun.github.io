@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Working in Progress
-
+{:start="9"}
 8. <q>Admission Control under Imperfect Customer Information</q>, with Huiyin Ouyang.
 9. <q>Allocation of Intensive Care Unit Beds with Readmission</q>, with Huiyin Ouyang.
 10. <q>Priority Scheduling when Job Type Information is not Free</q>, with Huiyin Ouyang.
