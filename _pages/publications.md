@@ -18,11 +18,17 @@ author_profile: true
 
 
 ## Working in Progress
-{:start="9"}
+
 1. <q>Admission Control under Imperfect Customer Information</q>, with Huiyin Ouyang.
 1. <q>Allocation of Intensive Care Unit Beds with Readmission</q>, with Huiyin Ouyang.
 1. <q>Priority Scheduling when Job Type Information is not Free</q>, with Huiyin Ouyang.
 1. Zhankun Sun, Han Ye, Dongmei Wang, Haipeng Shen, Eddy Lang, <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>.
+
+
+<ol start="7">
+    <li>One item.</li>
+    <li>Another item.</li>
+</ol>
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href=</q>{{author.googlescholar}}</q>>my Google Scholar profile</a>.</u>
