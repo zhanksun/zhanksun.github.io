@@ -16,7 +16,9 @@ Paper list:
   * Zhang, Mengzhenyu, et al. "Data-driven pricing for a new product." [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGp1aWNoYW5jb3xneDo1ZTc1NWIzNzBhZWU4Yjli)
   * Jake Clarkson, Kevin D. Glazebrook, Kyle Y. Lin. "[Fast or Slow: Search in Discrete Locations with Two Search Modes](https://pubsonline.informs.org/doi/pdf/10.1287/opre.2019.1870)." [PDF](http://zhanksun.github.io/files/opre.2019.1870.pdf)
 
-
+Online lecture:
+------
+  * [http://users.iems.northwestern.edu/~nelsonb/RSMasterclass.html](Prof. Barry Nelson's lectures on Simulation Optimization)
 
 COVID-19
 ------
