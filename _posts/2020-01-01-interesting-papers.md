@@ -20,7 +20,3 @@ Online lecture:
 ------
   * [Prof. Barry Nelson's lectures on Simulation Optimization]（http://users.iems.northwestern.edu/~nelsonb/RSMasterclass.html)
   * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics/home/welcome)
-
-COVID-19
-------
-  * COVID-19 testing, [https://en.wikipedia.org/wiki/COVID-19_testing](https://en.wikipedia.org/wiki/COVID-19_testing)
