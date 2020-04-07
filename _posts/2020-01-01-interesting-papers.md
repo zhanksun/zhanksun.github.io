@@ -18,5 +18,5 @@ Paper list:
 
 Online lecture:
 ------
-  * [Prof. Barry Nelson's lectures on Simulation Optimization]（http://users.iems.northwestern.edu/~nelsonb/RSMasterclass.html)
+  * [Prof. Barry Nelson's lectures on Simulation Optimization](http://users.iems.northwestern.edu/~nelsonb/RSMasterclass.html)
   * [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics/home/welcome)
