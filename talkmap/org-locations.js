@@ -30,6 +30,16 @@ var addressPoints = [
        -81.379466
   ],
   [
+    "Gainesville, FL, USA",
+        29.642045,
+        -82.352470
+  ],
+  [
+    "St. Augustine, FL, USA",
+       29.901261,
+       -81.312229
+  ],
+  [
     "Myrtle Beach, SC, USA",
        33.688754,
        -78.886637
@@ -72,7 +82,7 @@ var addressPoints = [
   [
     "Case Western Reserve University, Cleveland, OH, USA",
            41.509910,
-           -81.607931 
+           -81.607931
   ],
 
 
