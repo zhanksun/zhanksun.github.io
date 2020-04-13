@@ -4,7 +4,7 @@ Name Name:
   name        : "Zhankun Sun"
   uri         : "http://name.com"
   email       : "zhanksun@cityu.edu.hk"
-  bio         : "This is the first name."
+  bio         : "Zhankun"
   avatar      : "bio-photo-2.jpg"
   twitter     :
   google_plus :
@@ -14,5 +14,5 @@ Name2 Name2:
   email       : "name2@name2.com"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
-  twitter     : 
+  twitter     :
   google_plus :
