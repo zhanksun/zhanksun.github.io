@@ -47,7 +47,7 @@ author_profile: true
 
 {% if site.talkmap_link == true %}
 
-<p style="text-decoration:underline;"><a href="/map.html">See a map of places I've been for academic exchange!</a></p>
+<p style="text-decoration:underline;"><a href="/map.html">My academic footprint!</a></p>
 
 {% endif %}
 
