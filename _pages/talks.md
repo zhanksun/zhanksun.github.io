@@ -46,9 +46,7 @@ author_profile: true
 
 
 {% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/map.html">My academic footprint!</a></p>
-
+<p style="text-decoration:underline;"><a href="/map.html">Academic Footprint</a></p>
 {% endif %}
 
 {% for post in site.talks reversed %}
