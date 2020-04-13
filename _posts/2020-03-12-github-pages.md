@@ -8,7 +8,7 @@ tags:
   - programming
 ---
 
-Just to make some notes on how to build my personal website using GitHub Pages.
+Just to make some notes on how to build my personal website using GitHub Pages. Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file.
 
 ### Create a GitHub page as your personal website
 
