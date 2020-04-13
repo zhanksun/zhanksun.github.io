@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://name.com"
   email       : "zhanksun@cityu.edu.hk"
   bio         : "Zhankun"
-  avatar      : "zhankun_oldmovie.jpg"
+  avatar      : "/images/zhankun_oldmovie.jpg"
   twitter     :
   google_plus :
 
