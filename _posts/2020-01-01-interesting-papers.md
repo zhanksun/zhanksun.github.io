@@ -1,5 +1,5 @@
 ---
-title: 'Interesting Papers'
+title: 'Interesting papers'
 date: 2020-01-01
 permalink: /posts/2020/01/Interesting Papers/
 tags:  
