@@ -6,6 +6,13 @@ permalink: /posts/2020/04/ISLR/
 output: ioslides_presentation
 ---
 
+
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+
 # R Markdown Document
 
 Maths expression embedded in GitHub Markdown:
@@ -45,3 +52,9 @@ summary(cars)
 ```{r pressure}
 plot(pressure)
 ```
+
+install.packages('ISLR')
+library(ISLR)
+
+
+
