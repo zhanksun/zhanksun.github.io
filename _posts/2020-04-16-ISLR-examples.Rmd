@@ -1,5 +1,5 @@
 ---
-title: "ISLR Examples"
+title: "Statistical Learning: ISLR Examples"
 date: 2020-04-16
 author: Kevin Z.
 permalink: /posts/2020/04/ISLR/
