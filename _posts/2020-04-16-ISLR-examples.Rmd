@@ -6,6 +6,15 @@ permalink: /posts/2020/04/ISLR/
 output: ioslides_presentation
 ---
 
+# R Markdown Document
+
+Maths expression embedded in GitHub Markdown:
+
+$$
+E = \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}
+$$
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -15,6 +24,9 @@ knitr::opts_chunk$set(echo = FALSE)
 This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+summary(Credit)
+lm(Balance ~ Student + Limit, data=Credit)
 
 ## Slide with Bullets
 
