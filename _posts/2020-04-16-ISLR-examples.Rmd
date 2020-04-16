@@ -1,7 +1,8 @@
 ---
 title: "ISLR Examples"
-author: "Kevin Z."
-date: "4/16/2020"
+date: 2020-04-16
+author: Kevin Z.
+permalink: /posts/2020/04/ISLR/
 output: ioslides_presentation
 ---
 
@@ -32,4 +33,3 @@ summary(cars)
 ```{r pressure}
 plot(pressure)
 ```
-
