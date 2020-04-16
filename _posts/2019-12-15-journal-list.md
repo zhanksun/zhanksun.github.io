@@ -40,3 +40,8 @@ Journals in Statistics, Forecasting, and Emergency Medicine
 Conference websites
 ------
   * [INFORMS](https://myaccount.informs.org/s/)
+
+Grant applications
+------
+  * [Health and Medical Research Fund (HMRF)](https://rfs1.fhb.gov.hk/english/welcome/welcome.html)
+  * [Introduction to the HMRF](https://rfs1.fhb.gov.hk/images/events/Briefing_cum_GSTW_2019_HMRF_Open_Call/Introduction_to_the_HMRF_2019.pdf)

@@ -1,5 +1,5 @@
 ---
-title: 'Websites for Fun'
+title: 'Websites for fun'
 date: 2020-03-14
 permalink: /posts/2020/03/a-fun-website/
 tags:
