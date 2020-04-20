@@ -310,6 +310,6 @@ compress_html:
   ignore:
     envs: development
 
-theme: Merlot # jekyll-theme-minimal, jekyll-theme-merlot, jekyll-theme-cayman
+theme: jekyll-theme-architect # jekyll-theme-minimal, jekyll-theme-merlot, jekyll-theme-cayman
 
 github: [metadata]
