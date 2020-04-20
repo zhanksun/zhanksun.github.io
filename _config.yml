@@ -22,6 +22,7 @@ read_more                : "disabled" #"disabled" "enabled" # if enabled, adds "
 talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
+  staticman_url          : https://api.staticman.net/v3/entry/github/zhanksun/zhanksun.github.io/master/comments
   disqus:
     shortname            :
   discourse:
@@ -68,7 +69,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links                  : # An array of links to social media profiles
 
 
 # Analytics
