@@ -1,7 +1,7 @@
 ---
 title: "ISLR Examples: R Markdown"
 author: "Zhankun Sun, Kevin"
-date: keep updating
+date: 2020-01-01 and keep updating
 output: html_document
 ---
 
