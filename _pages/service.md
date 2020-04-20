@@ -1,4 +1,5 @@
 ---
+layout: archive #archive
 permalink: /service/
 title: "Service and Contact"
 author_profile: true
