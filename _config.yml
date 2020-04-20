@@ -310,7 +310,7 @@ compress_html:
   ignore:
     envs: development
 
-theme: minimal-mistakes-jekyll #jekyll-theme-architect, jekyll-theme-minimal, jekyll-theme-merlot, jekyll-theme-cayman
+theme: jekyll-theme-minimal #jekyll-theme-architect, jekyll-theme-minimal, jekyll-theme-merlot, jekyll-theme-cayman
 # remote_theme: jekyll-theme-leap-day
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
