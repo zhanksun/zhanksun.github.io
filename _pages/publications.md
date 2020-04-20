@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications & Working Papers
 
-1. **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. _Management Science_, 64(10):4471-4489, 2018. [\[Abstract\]](../posts/2019-12-15-journal-list.md) [\[pdf\]](http://zhanksun.github.io/files/Sun-Argon-Ziya_Final.pdf)
+1. **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. _Management Science_, 64(10):4471-4489, 2018. [\[Abstract\]](/posts/2019/12/journal-list/) [\[pdf\]](http://zhanksun.github.io/files/Sun-Argon-Ziya_Final.pdf)
 2. Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, 2nd round review_. [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345311)
 3. **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management, in revision_. [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3346173)
 4. Farzad Zaerpour, Marco Bijvank, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, in revision_. [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3519625)
