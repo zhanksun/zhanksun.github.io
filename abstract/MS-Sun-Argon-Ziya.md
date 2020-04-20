@@ -1,7 +1,10 @@
 ---
 layout: archive
-title: " Patient Triage and Prioritization Under Austere Conditions"
+type: "Management Science"
+title: "Patient Triage and Prioritization Under Austere Conditions"
 permalink: /abstract/MS-Sun-Argon-Ziya
+venue: by Zhankun Sun, Nilay Tanık Argon, Serhan Ziya
+date: 2018
 author_profile: true
 ---
 > Below is a blog I write for INFORMS. See the original post at [https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions](https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions)
