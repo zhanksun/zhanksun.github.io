@@ -3,7 +3,7 @@ layout: archive
 type: "Management Science"
 title: Managing Self-Replicating Innovative Goods
 permalink: /abstract/MS-Self-Replicating
-venue: by Zhankun Sun, Nilay Tanık Argon, Serhan Ziya
+venue: by Bin Hu, Zhankun Sun
 date: 2019
 author_profile: true
 ---
