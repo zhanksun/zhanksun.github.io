@@ -1,60 +1,22 @@
----
-title: "Statistical Learning: ISLR Examples"
-date: 2020-04-16
-author: Kevin Z.
-permalink: /posts/2020/04/ISLR/
-output: ioslides_presentation
----
+<html>
 
+<head>
+<title>Title</title>
+</head>
 
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+<body>
 
-# R Markdown Document
+<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
 
-Maths expression embedded in GitHub Markdown:
-
-$$
-E = \frac{mc^2}{\sqrt{1-\frac{v^2}{c^2}}}
-$$
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
-## R Markdown
-
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
-
-summary(Credit)
-lm(Balance ~ Student + Limit, data=Credit)
-
-## Slide with Bullets
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-## Slide with R Output
-
-```{r cars, echo = TRUE}
+<!--begin.rcode
 summary(cars)
-```
+end.rcode-->
 
-## Slide with Plot
+<p>You can also embed plots, for example:</p>
 
-```{r pressure}
-plot(pressure)
-```
+<!--begin.rcode fig.width=7, fig.height=6
+plot(cars)
+end.rcode-->
 
-install.packages('ISLR')
-library(ISLR)
-
-
-
+</body>
+</html>
