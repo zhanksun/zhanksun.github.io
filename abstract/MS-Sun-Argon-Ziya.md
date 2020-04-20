@@ -2,7 +2,7 @@
 layout: archive
 type: "Management Science"
 title: "Patient Triage and Prioritization Under Austere Conditions"
-permalink: /abstract/MS-Sun-Argon-Ziya
+permalink: /abstract/MS-Mass-Casualty-Triage
 venue: by Zhankun Sun, Nilay Tanık Argon, Serhan Ziya
 date: 2018
 author_profile: true
