@@ -43,7 +43,7 @@ author_profile: true
 </address>
 > {: .notice}
 
-> I use [Simio](https://www.simio.com/) simulation software under a grant from Simio LLC (<a href="https://www.simio.com/">www.simio.com).
+> I use [Simio](https://www.simio.com/) simulation software for my research and appreciate the grant from Simio LLC (<a href="https://www.simio.com/">www.simio.com).
 
 
 *[MSOM]: Manufacturing & Service Operations Management
