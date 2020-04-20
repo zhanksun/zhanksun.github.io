@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: archive-taxonomy #archive
 title: Publications
 permalink: /publications/
 author_profile: true
