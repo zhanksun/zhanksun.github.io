@@ -3,7 +3,7 @@ layout: archive
 type: POMS
 title: Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments
 permalink: /abstract/ED-Physician-Scheduling
-venue: by Zhankun Sun, Nilay Tanık Argon, Serhan Ziya
+venue: by Farzad Zaerpour, Marco Bijvank, Zhankun Sun
 date: 2020
 author_profile: true
 ---
