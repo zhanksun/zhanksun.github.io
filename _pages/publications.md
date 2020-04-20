@@ -1,5 +1,5 @@
 ---
-layout: compress #archive
+layout: single #archive
 title: Publications
 permalink: /publications/
 author_profile: true
