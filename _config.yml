@@ -311,5 +311,6 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-leap-day #jekyll-theme-architect, jekyll-theme-minimal, jekyll-theme-merlot, jekyll-theme-cayman
+remote_theme: jekyll-theme-leap-day
 
 github: [metadata]
