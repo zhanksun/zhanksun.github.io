@@ -1,6 +1,5 @@
 ---
 layout: archive
-type: "Management Science"
 title: Semi-Orthogonal Non-Negative Matrix Factorization with an Application in Text Mining
 permalink: /abstract/ED-Text-Mining
 venue: by Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, Zhankun Sun
