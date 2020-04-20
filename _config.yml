@@ -22,7 +22,6 @@ read_more                : "disabled" #"disabled" "enabled" # if enabled, adds "
 talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
   provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
-  staticman_url          : https://api.staticman.net/v3/entry/github/zhanksun/zhanksun.github.io/master/comments
   disqus:
     shortname            :
   discourse:
