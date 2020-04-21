@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" #"disabled" "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
-  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
+  provider               : "custom" # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
   disqus:
     shortname            : zhanksun
   discourse:
@@ -30,7 +30,6 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-comments                 : true
 staticman:
   allowedFields          : ['name', 'email', 'message']
   branch                 : "master" # "master", "gh-pages"
