@@ -1,5 +1,5 @@
 ---
-layout: archive-post
+layout: archive
 permalink: /posts/
 title: "My posts"
 author_profile: true
@@ -15,14 +15,3 @@ author_profile: true
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
-
-
-<div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 491; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: '{{ page.url | absolute_url }}',
-        id: '{{page.id}}'
-    };
-</script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
