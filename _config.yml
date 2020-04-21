@@ -21,7 +21,7 @@ future                   : true
 read_more                : "disabled" #"disabled" "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
-  provider               : hyvor # false (default), "disqus", "discourse", "facebook", "staticman", "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "staticman", "custom", "hyvor"
   disqus:
     shortname            : zhanksun
   discourse:
