@@ -45,3 +45,13 @@ Grant applications
 ------
   * [Health and Medical Research Fund (HMRF)](https://rfs1.fhb.gov.hk/english/welcome/welcome.html)
   * [Introduction to the HMRF](https://rfs1.fhb.gov.hk/images/events/Briefing_cum_GSTW_2019_HMRF_Open_Call/Introduction_to_the_HMRF_2019.pdf)
+
+  <div id="hyvor-talk-view"></div>
+  <script type="text/javascript">
+      var HYVOR_TALK_WEBSITE = 491; // DO NOT CHANGE THIS
+      var HYVOR_TALK_CONFIG = {
+          url: '{{ page.url | absolute_url }}',
+          id: '{{page.id}}'
+      };
+  </script>
+  <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
