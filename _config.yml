@@ -30,7 +30,7 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
-comments: true
+comments                 : true
 staticman:
   allowedFields          : ['name', 'email', 'message']
   branch                 : "master" # "master", "gh-pages"
