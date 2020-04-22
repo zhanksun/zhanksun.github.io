@@ -8,6 +8,11 @@ tags:
   - website
 ---
 
+### A list of academic relevant websites
+
+1. [R Studio knitr author website](https://yihui.org/cn/vitae/)
+
+
 ### A list of fun websites
 
 1. [How New Jersey’s First Coronavirus Patient Survived](https://www.nytimes.com/2020/04/05/magazine/first-coronavirus-patient-new-jersey.html?smtyp=cur&smid=fb-nytimes&fbclid=IwAR3RHBuxIyZiztTSFzgg1ZzGfultb3MOzuaNyaqmn6JrUBA17LtlTsfwJ1k)
