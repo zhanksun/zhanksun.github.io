@@ -11,7 +11,7 @@ tags:
 A list of journals that I have served as a reviewer, or I have submitted at least one manuscript.
 
 UTD journals
-------
+======
   * [Management Science](https://mc.manuscriptcentral.com/ms)
   * [Operations Research](https://mc.manuscriptcentral.com/opre)
   * [Manufacturing & Service Operations Management](https://mc.manuscriptcentral.com/msom)
@@ -19,7 +19,7 @@ UTD journals
   * [INFORMS Journal on Computing](https://mc.manuscriptcentral.com/ijoc)
 
 Other journals in Operations Research
-------
+======
   * [Naval Research Logistics](https://mc.manuscriptcentral.com/nrl)
   * [IIE Transactions on Healthcare Systems Engineering](https://mc.manuscriptcentral.com/uhse)
   * [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions)
@@ -29,7 +29,7 @@ Other journals in Operations Research
   * [OMEGA](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4)
 
 Journals in Statistics, Forecasting, and Emergency Medicine
-------
+======
   * [Journal of the American Statistical Association](https://mc.manuscriptcentral.com/jasa)
   * [International Journal of Forecasting](https://mc.manuscriptcentral.com/ijf)
   * [Journal of the American Medical Informatics Association](https://mc.manuscriptcentral.com/jamia)
@@ -38,11 +38,11 @@ Journals in Statistics, Forecasting, and Emergency Medicine
   * [Academic Emergency Medicine](https://mc.manuscriptcentral.com/aemj)
 
 Conference websites
-------
+======
   * [INFORMS](https://myaccount.informs.org/s/)
 
 Grant applications
-------
+======
   * [Health and Medical Research Fund (HMRF)](https://rfs1.fhb.gov.hk/english/welcome/welcome.html)
   * [Introduction to the HMRF](https://rfs1.fhb.gov.hk/images/events/Briefing_cum_GSTW_2019_HMRF_Open_Call/Introduction_to_the_HMRF_2019.pdf)
   * [NSF: COVID-19 Testing](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2026860&HistoricalAwards=false)
