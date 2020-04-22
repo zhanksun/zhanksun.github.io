@@ -36,6 +36,8 @@ author_profile: true
 
 ## Contact
 **Mailing Address**
+7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br/> City University of Hong Kong<br/> Tat Chee Ave, Kowloon Tong <br/> Hong Kong <br/>☎️ +852 3442 8650
+
 <address>
   7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br/> City University of Hong Kong<br/> Tat Chee Ave, Kowloon Tong <br/> Hong Kong <br/>☎️ +852 3442 8650
 </address>
