@@ -22,11 +22,11 @@ author_profile: true
   * [_International Journal of Forecasting_](https://mc.manuscriptcentral.com/ijf)
   * [_OMEGA_](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4)
 * Judge
-  * _MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)_
-  * _POMS International Conference Best Student Paper Competition (2019 Tianjin)_
-  * _Pierskalla Best Paper Award - Health Applications Society (2019 DC)_
-  * _POMS CHOM Best Paper Competition (2020 Minneapolis)_
-  * _POMS-Hong Kong Best Student Paper Competition (2020 HKU)_
+  * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)
+  * POMS International Conference Best Student Paper Competition (2019 Tianjin)
+  * Pierskalla Best Paper Award - Health Applications Society (2019 DC)
+  * POMS CHOM Best Paper Competition (2020 Minneapolis)
+  * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
 * Chair of the 10th POMS-Hong Kong Best Student Paper Competition Committee
 * Session Chair： INFORMS Annual Meeting, POMS, POMS-Hong Kong
 * Technical Committee Member for Queueing Theory and Network Applications
