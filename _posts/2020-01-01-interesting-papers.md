@@ -23,7 +23,7 @@ This is a list of papers that are of interest to me.
 
 ### Testing Problems
   * Hrayer Aprahamian, Douglas R. Bish, Ebru K. Bish (2019) [Optimal Risk-Based Group Testing](https://doi.org/10.1287/mnsc.2018.3138). _Management Science_ 65(9):4365-4384. [PDF](/files/mnsc.2018.3138.pdf)
-  * Lawrence M. Wein and  Stefanos A. ZeniosSource (1996) [Pooled Testing for HIV Screening: Capturing the Dilution Effect](https://doi.org/10.1287/opre.44.4.543) _Operations Research_ 44(4) pp. 543-569. [PDF](/files/opre.44.4.543.pdf)
+  * Lawrence M. Wein and  Stefanos A. Zenios (1996) [Pooled Testing for HIV Screening: Capturing the Dilution Effect](https://doi.org/10.1287/opre.44.4.543) _Operations Research_ 44(4) pp. 543-569. [PDF](/files/opre.44.4.543.pdf)
 
 ## Online lecture:
   * [Prof. Barry Nelson's lectures on Ranking & Selection](http://users.iems.northwestern.edu/~nelsonb/RSMasterclass.html)
