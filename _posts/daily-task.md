@@ -1,7 +1,7 @@
 ---
 title: 'Short-term and Long-term Tasks'
 date: '`r format(Sys.Date(), "%B %d, %Y")`'
-permalink: /posts/2020/04/
+permalink: /posts/2020/
 tags:
   - planning
   - tasks
