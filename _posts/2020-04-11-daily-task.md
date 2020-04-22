@@ -1,6 +1,6 @@
 ---
 title: 'Tasks'
-date: '`r format(Sys.Date(), "%B %d, %Y")`'
+date: 2020-03-14
 permalink: /posts/2020/tasks/
 tags:  
   - academic
