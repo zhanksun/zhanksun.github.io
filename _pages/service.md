@@ -38,8 +38,7 @@ author_profile: true
 **Mailing Address:** zhankun.sun AT cityu.edu.hk
 
 **Mailing Address**
-
-7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br/> City University of Hong Kong<br/> Tat Chee Ave, Kowloon Tong <br/> Hong Kong <br/>☎️ +852 3442 8650
+<br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br/> City University of Hong Kong<br/> Tat Chee Ave, Kowloon Tong <br/> Hong Kong <br/>☎️ +852 3442 8650
 
 
 > I use [Simio](https://www.simio.com/) simulation software for my research and appreciate the grant from Simio LLC (<a href="https://www.simio.com/">www.simio.com).
