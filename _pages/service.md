@@ -39,7 +39,11 @@ author_profile: true
 <address>
   7-268, 7/F, Lau Ming Wai Academic Building (AC3)<br/> City University of Hong Kong<br/> Tat Chee Ave, Kowloon Tong <br/> Hong Kong <br/>☎️ +852 3442 8650
 </address>
-> {: .notice}
+
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
+
 
 > I use [Simio](https://www.simio.com/) simulation software for my research and appreciate the grant from Simio LLC (<a href="https://www.simio.com/">www.simio.com).
 
