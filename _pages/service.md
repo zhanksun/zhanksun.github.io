@@ -22,6 +22,14 @@ author_profile: true
   * [_International Journal of Production Research_](https://mc.manuscriptcentral.com/tprs)
   * [_International Journal of Forecasting_](https://mc.manuscriptcentral.com/ijf)
   * [_OMEGA_](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4)
+
+* Reviewer
+  * [Management Science](https://mc.manuscriptcentral.com/ms), [Operations Research](https://mc.manuscriptcentral.com/opre)
+  * [MSOM](https://mc.manuscriptcentral.com/msom), [POM](https://mc.manuscriptcentral.com/poms), [IJOC](https://mc.manuscriptcentral.com/ijoc), [NRL](https://mc.manuscriptcentral.com/nrl), [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions), [EJOR](https://www.editorialmanager.com/EJOR/default.aspx?pg=mainpage.html), [OMEGA](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4)
+  * [_IIE Transactions on Healthcare Systems Engineering_](https://mc.manuscriptcentral.com/uhse)
+  * [_IEEE Transactions on Systems, Man, and Cybernetics: Systems_](https://mc.manuscriptcentral.com/systems)
+  * [_International Journal of Production Research_](https://mc.manuscriptcentral.com/tprs)
+  * [_International Journal of Forecasting_](https://mc.manuscriptcentral.com/ijf)  
 -->
 
 * Reviewer
