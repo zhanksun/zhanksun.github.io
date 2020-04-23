@@ -2,9 +2,9 @@
 title: "MS5314 Service Quality Management"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/MS5314-teaching
+permalink: /teaching/MS5314
 venue: "City University of Hong Kong, College of Business"
-date: 2018-01-01
+date: 2018
 location: "Hong Kong"
 ---
 
