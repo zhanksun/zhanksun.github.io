@@ -43,6 +43,10 @@ author_profile: true
 
 > I use [Simio](https://www.simio.com/) simulation software for my research and appreciate the grant from Simio LLC (<a href="https://www.simio.com/">www.simio.com).
 
+```python
+I use [Simio](https://www.simio.com/) simulation software for my research and appreciate the grant from Simio LLC (<a href="https://www.simio.com/">www.simio.com).
+```
+
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
