@@ -8,7 +8,8 @@ author_profile: true
 ## Funding
 
 * General Research Fund (Early Career Scheme), The Hong Kong Research Grants Council, 2018-2020
-* Start-up grant, City University of Hong Kong, 2016-2018
+* Teaching Start-Up Grant, City University of Hong Kong, 2017-2018
+* Start-Up grant, City University of Hong Kong, 2016-2018
 * O'Brien Institute for Public Health Research Catalyst Funds, 2016-2017
 * Eyes High Postdoctoral Fellowship, University of Calgary, 2014
 * Graduate Student Transportation Grant, the University of North Carolina at Chapel Hill, 2013.
