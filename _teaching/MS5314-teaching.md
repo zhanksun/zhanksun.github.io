@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/MS5314
 venue: "City University of Hong Kong, College of Business"
-date: 2018
+date: 2018-09-01
 location: "Hong Kong"
 ---
 
