@@ -310,7 +310,7 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-merlot
 # remote_theme: jekyll-theme-leap-day
 
 github: [metadata]
