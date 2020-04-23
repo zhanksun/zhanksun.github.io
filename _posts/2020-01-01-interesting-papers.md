@@ -26,7 +26,7 @@ This is a list of papers that are of interest to me.
   * Lawrence M. Wein and  Stefanos A. Zenios (1996) [Pooled Testing for HIV Screening: Capturing the Dilution Effect](https://doi.org/10.1287/opre.44.4.543) _Operations Research_ 44(4) pp. 543-569. [PDF](/files/opre.44.4.543.pdf)
 
 ### Data science
-    * William S. Cleveland. "[An Action Plan for Expanding the Technical Areas of the Field of Statistics](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00477.x)." [PDF](/files/DataScience.pdf)
+    * William S. Cleveland. [An Action Plan for Expanding the Technical Areas of the Field of Statistics](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00477.x). [PDF](/files/DataScience.pdf)
 
 ## Online Lecture:
   * [Prof. Barry Nelson's lectures on Ranking & Selection](http://users.iems.northwestern.edu/~nelsonb/RSMasterclass.html)
