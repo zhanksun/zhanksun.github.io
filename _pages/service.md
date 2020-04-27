@@ -60,9 +60,9 @@ author_profile: true
 <br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon Tong
-<br/> Hong Kong <br/>☎️ +852 3442 8650 [☎️](https://zhanksun.github.io/images/WeChat.jpg)
+<br/> Hong Kong <br/>☎️ +852 3442 8650 [<img src="https://zhanksun.github.io/images/WeChat-512.png" alt="drawing" width="30"/>
+](https://zhanksun.github.io/images/WeChat.jpg)
 
-<img src="https://zhanksun.github.io/images/wechat_logo.jpg" alt="drawing" width="120"/>
 
 
 *[MSOM]: Manufacturing & Service Operations Management
