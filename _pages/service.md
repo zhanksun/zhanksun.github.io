@@ -54,14 +54,16 @@ author_profile: true
 
 
 ## Contact
-* **Email <img style="float: center;" src="/images/email-1.png" alt="WeChat" width="22"/>:** zhankun.sun AT cityu.edu.hk
+* **Email <img style="float: center;" src="/images/emoji/email-1.png" alt="Email" width="22"/>:** zhankun.sun AT cityu.edu.hk
 
 * **Mailing Address**
 <br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
-<br/>☎️ <img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="20"/> &nbsp;**([<img style="float: center;" src="/images/emoji/wechat-logo.png" alt="WeChat" width="16"/>](https://zhanksun.github.io/images/wechat.jpg))**
+<br/>☎️ <img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="20"/> &nbsp;[<img style="float: center;" src="/images/emoji/wechat-logo.jpg" alt="WeChat" width="32"/>](https://zhanksun.github.io/images/wechat.jpg)
+<br/>☎️ <img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-four-openmoji.png" width="20"/><img src="/images/emoji/keycap-digit-four-openmoji.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="20"/> &nbsp;[<img style="float: center;" src="/images/emoji/wechat-logo.jpg" alt="WeChat" width="32"/>](https://zhanksun.github.io/images/wechat.jpg)
+
 
 <!--
 <br/>☎️ **+** 8️⃣ 5️⃣ 2️⃣ &nbsp; 3️⃣  4️⃣  4️⃣  2️⃣ &nbsp; 8️⃣ 6️⃣ 5️⃣ 0️⃣ &nbsp;（[<img style="float: center;" src="/images/emoji/WeChat1.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/emoji/wechat.jpg)）
