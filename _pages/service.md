@@ -31,8 +31,8 @@ Room 268, 7/F, Lau Ming Wai Academic Building
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon
 <br/> Hong Kong
-<br/><img style="float: center;" src="/images/emoji/email-LG.png" alt="AT" width="22"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="Email" width="24"/>cityu.edu.hk
-<br/>☎️ **+** 8️⃣5️⃣2️⃣&nbsp;3️⃣4️⃣4️⃣2️⃣&nbsp;8️⃣6️⃣5️⃣0️⃣&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.jpg" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/wechat-QR.jpg)
+<br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="22"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="Email" width="24"/>cityu.edu.hk
+<br/>☎️ **+** 8️⃣5️⃣2️⃣&nbsp;3️⃣4️⃣4️⃣2️⃣&nbsp;8️⃣6️⃣5️⃣0️⃣&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.png" alt="WeChat" width="20"/>](/images/wechat-QR.jpg)
 
 <!--
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="22"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="Email" width="24"/>cityu.edu.hk
