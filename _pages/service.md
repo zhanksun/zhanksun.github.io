@@ -49,7 +49,7 @@ author_profile: true
 * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
 * Session Chair：INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
 * Technical Committee Member for Queueing Theory and Network Applications
-* Discussant for SIG Healthcare Track, MSOM 2019 at NUS
+* Discussant for SIG Healthcare Track, MSOM 2019
 
 
 
