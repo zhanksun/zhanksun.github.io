@@ -60,12 +60,7 @@ author_profile: true
 <br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon Tong
-<br/> Hong Kong <br/>☎️ +852 3442 8650
-
-> ![Image of Yaktocat](https://zhanksun.github.io/images/WeChat.jpg)
-> ![Image of Yaktocat](/images/WeChat.jpg "WeChat")
-
-[WeChat](https://zhanksun.github.io/images/WeChat.jpg)
+<br/> Hong Kong <br/>☎️ +852 3442 8650 [WeChat](https://zhanksun.github.io/images/WeChat.jpg)
 
 
 
