@@ -54,17 +54,19 @@ author_profile: true
 
 
 ## Contact
-* **Email <img style="float: center;" src="/images/e-mail-symbol_1f4e7.png" alt="WeChat" width="22"/>:** zhankun.sun AT cityu.edu.hk
+* **Email <img style="float: center;" src="/images/email-1.png" alt="WeChat" width="22"/>:** zhankun.sun AT cityu.edu.hk
 
 * **Mailing Address**
 <br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
-<br/>☎️ **+** 8️⃣ 5️⃣ 2️⃣ &nbsp; 3️⃣  4️⃣  4️⃣  2️⃣ &nbsp; 8️⃣ 6️⃣ 5️⃣ 0️⃣ &nbsp;（[<img style="float: center;" src="/images/WeChat1.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg)）
+<br/>☎️ **+** 8️⃣ 5️⃣ 2️⃣ &nbsp; 3️⃣  4️⃣  4️⃣  2️⃣ &nbsp; 8️⃣ 6️⃣ 5️⃣ 0️⃣ &nbsp;（[<img style="float: center;" src="/images/emoji/WeChat1.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/emoji/WeChat.jpg)）
 󠀫󠀫
-<br/>☎️ **+** <img src="/images/keycap-digit-eight_microsoft.png" width="20"/><img src="/images/keycap-digit-five_microsoft.png" width="20"/><img src="/images/keycap-digit-two_microsoft.png" width="20"/>&nbsp; <img src="/images/keycap-digit-three_microsoft.png" width="20"/><img src="/images/keycap-digit-four_microsoft.png" width="20"/><img src="/images/keycap-digit-four_microsoft.png" width="20"/><img src="/images/keycap-digit-two_microsoft.png" width="20"/> &nbsp; <img src="/images/keycap-digit-eight_microsoft.png" width="20"/><img src="/images/keycap-digit-six_microsoft.png" width="20"/><img src="/images/keycap-digit-five_microsoft.png" width="20"/><img src="/images/keycap-digit-zero_microsoft.png" width="20"/> &nbsp;**([<img style="float: center;" src="/images/WeChat-512.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg))**
+<br/>☎️ **+** <img src="/images/keycap-digit-eight_microsoft.png" width="20"/><img src="/images/keycap-digit-five_microsoft.png" width="20"/><img src="/images/keycap-digit-two_microsoft.png" width="20"/>&nbsp; <img src="/images/keycap-digit-three_microsoft.png" width="20"/><img src="/images/keycap-digit-four_microsoft.png" width="20"/><img src="/images/keycap-digit-four_microsoft.png" width="20"/><img src="/images/keycap-digit-two_microsoft.png" width="20"/> &nbsp; <img src="/images/keycap-digit-eight_microsoft.png" width="20"/><img src="/images/keycap-digit-six_microsoft.png" width="20"/><img src="/images/keycap-digit-five_microsoft.png" width="20"/><img src="/images/keycap-digit-zero_microsoft.png" width="20"/> &nbsp;**([<img style="float: center;" src="/images/emoji/WeChat1.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg))**
 
+
+<br/>☎️ **+** <img src="/images/keycap-digit-eight-facebook.png" width="20"/><img src="/images/keycap-digit-five-facebook.png" width="20"/><img src="/images/keycap-digit-two_microsoft.png" width="20"/>&nbsp; <img src="/images/keycap-digit-three_microsoft.png" width="20"/><img src="/images/keycap-digit-four_microsoft.png" width="20"/><img src="/images/keycap-digit-four_microsoft.png" width="20"/><img src="/images/keycap-digit-two_microsoft.png" width="20"/> &nbsp; <img src="/images/keycap-digit-eight_microsoft.png" width="20"/><img src="/images/keycap-digit-six_microsoft.png" width="20"/><img src="/images/keycap-digit-five_microsoft.png" width="20"/><img src="/images/keycap-digit-zero_microsoft.png" width="20"/> &nbsp;**([<img style="float: center;" src="/images/emoji/WeChat1.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg))**
 
 <!--
 [<img style="float: center;" src="/images/WeChat2.png" alt="WeChat" width="16"/>](https://zhanksun.github.io/images/WeChat.jpg)
