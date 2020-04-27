@@ -54,7 +54,7 @@ author_profile: true
 
 
 ## Contact
-* **Email <img style="float: center;" src="/images/emoji/email-facebook.png" alt="Email" width="22"/>:** zhankun.sun AT cityu.edu.hk
+* **Email:** zhankun.sun <img style="float: center;" src="/images/emoji/email-facebook.png" alt="Email" width="22"/> cityu.edu.hk
 
 * **Mailing Address**
 <br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)
