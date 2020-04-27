@@ -60,10 +60,9 @@ author_profile: true
 <br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon Tong
-<br/> Hong Kong <br/>☎️ +852 3442 8650 [<img src="https://zhanksun.github.io/images/WeChat-512.png" alt="drawing" width="30"/>
-](https://zhanksun.github.io/images/WeChat.jpg)
-
-
+<br/> Hong Kong
+<br/>☎️ +852 3442 8650 [<img src="/images/WeChat2.png" alt="drawing" width="18"/>](https://zhanksun.github.io/images/WeChat.jpg)
+<br/>[<img src="/images/WeChat-512.png" alt="drawing" width="28"/>](https://zhanksun.github.io/images/WeChat.jpg)
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
