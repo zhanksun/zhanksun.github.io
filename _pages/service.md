@@ -63,7 +63,11 @@ author_profile: true
 <br/> Hong Kong <br/>☎️ +852 3442 8650 [☎️](https://zhanksun.github.io/images/WeChat.jpg)
 
 
+To start a check list, write this:
 
+- [ ] this is not checked
+- [ ] this is too
+- [x] but this is checked
 
 *[MSOM]: Manufacturing & Service Operations Management
 *[POMS]: Production and Operations Management Society
