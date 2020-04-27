@@ -54,15 +54,18 @@ author_profile: true
 
 
 ## Contact
-* **Email:** zhankun.sun AT cityu.edu.hk
+* **Email <img style="float: center;" src="/images/e-mail-symbol_1f4e7.png" alt="WeChat" width="22"/>:** zhankun.sun AT cityu.edu.hk
 
 * **Mailing Address**
 <br/>7-268, 7/F, Lau Ming Wai Academic Building (AC3)
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
-<br/>☎️ **+** 8️⃣ 5️⃣ 2️⃣ &nbsp; 3️⃣  4️⃣  4️⃣  2️⃣ &nbsp; 8️⃣ 6️⃣ 5️⃣ 0️⃣ ([<img style="float: center;" src="/images/WeChat-512.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg))
+<br/>☎️ **+** 8️⃣ 5️⃣ 2️⃣ &nbsp; 3️⃣  4️⃣  4️⃣  2️⃣ &nbsp; 8️⃣ 6️⃣ 5️⃣ 0️⃣ &nbsp;（[<img style="float: center;" src="/images/WeChat-512.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg)）
 󠀫󠀫
+<br/>☎️ **+** 8️⃣ 5️⃣ 2️⃣ &nbsp; 3️⃣  4️⃣  4️⃣  2️⃣ &nbsp; 8️⃣ 6️⃣ 5️⃣ 0️⃣ &nbsp;（[<img style="float: center;" src="/images/WeChat-512.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg)）
+
+
 <!--
 [<img style="float: center;" src="/images/WeChat2.png" alt="WeChat" width="16"/>](https://zhanksun.github.io/images/WeChat.jpg)
 [<img style="float: center;" src="/images/WeChat3.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg)
