@@ -58,13 +58,12 @@ author_profile: true
 * **Email:** zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="AT" width="22"/>cityu.edu.hk
 -->
 
-**Email:**<img style="float: center;" src="/images/emoji/email.png" alt="Email" width="240"/>
-
 **Mailing Address**
 <br/> 7-268, 7/F, Lau Ming Wai Academic Building
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon
 <br/> Hong Kong
+<br/> <img style="float: center;" src="/images/emoji/email-facebook.png" alt="AT" width="22"/><img style="float: center;" src="/images/emoji/email.png" alt="Email" width="240"/>
 <br/> ☎️ <img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="20"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="20"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="20"/> &nbsp;[<img style="float: center;" src="/images/emoji/wechat5.jpg" alt="WeChat" width="22"/>](https://zhanksun.github.io/images/wechat.jpg)
 
 
