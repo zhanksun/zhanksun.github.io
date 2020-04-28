@@ -6,12 +6,10 @@ author_profile: true
 ---
 
 ## Reviewer
-  * [Management Science](https://mc.manuscriptcentral.com/ms), [Operations Research](https://mc.manuscriptcentral.com/opre), [MSOM](https://mc.manuscriptcentral.com/msom)
-  * [POM](https://mc.manuscriptcentral.com/poms), [IJOC](https://mc.manuscriptcentral.com/ijoc), [NRL](https://mc.manuscriptcentral.com/nrl), [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions), [EJOR](https://www.editorialmanager.com/EJOR/default.aspx?pg=mainpage.html), [OMEGA](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4)
+  * [Management Science](https://mc.manuscriptcentral.com/ms), [Operations Research](https://mc.manuscriptcentral.com/opre), [MSOM](https://mc.manuscriptcentral.com/msom), [POM](https://mc.manuscriptcentral.com/poms)
+  * [IJOC](https://mc.manuscriptcentral.com/ijoc), [NRL](https://mc.manuscriptcentral.com/nrl), [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions), [EJOR](https://www.editorialmanager.com/EJOR/default.aspx?pg=mainpage.html), [OMEGA](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4), [_IJF_](https://mc.manuscriptcentral.com/ijf), [_IJPR_](https://mc.manuscriptcentral.com/tprs)
   * [_IIE Transactions on Healthcare Systems Engineering_](https://mc.manuscriptcentral.com/uhse)
   * [_IEEE Transactions on Systems, Man, and Cybernetics: Systems_](https://mc.manuscriptcentral.com/systems)
-  * [_International Journal of Production Research_](https://mc.manuscriptcentral.com/tprs)
-  * [_International Journal of Forecasting_](https://mc.manuscriptcentral.com/ijf)
 
 ## Judge
   * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)
@@ -23,7 +21,6 @@ author_profile: true
 * Session Chair：INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
 * Technical Committee Member for Queueing Theory and Network Applications
 * Discussant for SIG Healthcare Track, MSOM 2019
-
 
 
 ## Contact
@@ -38,15 +35,10 @@ Room 268, 7/F, Lau Ming Wai Academic Building
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="22"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="Email" width="24"/>cityu.edu.hk
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.jpg" alt="WeChat QR Code" width="22"/>](/images/wechat-QR.jpg)
 
-<br/><img style="float: center;" src="/images/emoji/phone-google.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-twitter.png" width="16"/><img src="/images/emoji/keycap-digit-eight-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-five-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-two-twitter.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-three-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-four-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-four-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-two-twitter.png" width="18"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-six-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-five-twitter.png" width="18"/><img src="/images/emoji/keycap-digit-zero-twitter.png" width="18"/> &nbsp;[<img style="float: center;" src="/images/emoji/wechat5.jpg" alt="WeChat QR Code" width="22"/>](/images/wechat-QR.jpg)
-
 
 <br/><img style="float: center;" src="/images/emoji/phone-google.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.jpg" alt="WeChat QR Code" width="22"/>](/images/wechat-QR.jpg)
 
 <br/>☎️ **+** <img src="/images/emoji/keycap-digit-eight-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-five-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-two-microsoft.png" width="20"/>&nbsp; <img src="/images/emoji/keycap-digit-three-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-four-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-four-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-two-microsoft.png" width="20"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-six-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-five-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-zero-microsoft.png" width="20"/> &nbsp;**([<img style="float: center;" src="/images/emoji/WeChat1.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/wechat.jpg))**
-<br/>☎️ **+** <img src="/images/emoji/keycap-digit-eight-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-five-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-two-twitter.png" width="20"/>&nbsp; <img src="/images/emoji/keycap-digit-three-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-four-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-four-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-two-twitter.png" width="20"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-six-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-five-twitter.png" width="20"/><img src="/images/emoji/keycap-digit-zero-twitter.png" width="20"/> &nbsp;**([<img style="float: center;" src="/images/emoji/WeChat3.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/wechat-QR.jpg))**
-[<img style="float: center;" src="/images/WeChat2.png" alt="WeChat" width="16"/>](https://zhanksun.github.io/images/WeChat.jpg)
-[<img style="float: center;" src="/images/WeChat3.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/WeChat.jpg)
 -->
 
 
