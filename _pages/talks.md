@@ -7,7 +7,7 @@ author_profile: true
 
 ## Universities & Institutions
 
-* Data Science Applications Interest Group Seminars (DSAIG), College of Business, City University of Hong Kong, 2017/10.
+* Data Science Applications Interest Group Seminars (DSAIG), City University of Hong Kong, 2017/10.
 * Weatherhead School of Management, Case Western Reserve University, 2016/02.
 * Department of Management Sciences, City University of Hong Kong, 2016/01.
 * Faculty of Business and Economics, University of Hong Kong, 2016/01.
