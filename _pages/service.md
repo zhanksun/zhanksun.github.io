@@ -28,7 +28,7 @@ author_profile: true
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon
 <br/> Hong Kong
-<br/><img style="float: center;" src="/images/emoji/email4.png" alt="AT" width="23"/> zhankun.sun <img style="float: center;" src="/images/emoji/email-at6.png" alt="Email" width="16"/> cityu.edu.hk
+<br/><img style="float: center;" src="/images/emoji/email4.png" alt="AT" width="23"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at6.png" alt="Email" width="16"/>cityu.edu.hk
 <br/>☎️<img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.png" alt="WeChat QR Code" width="22"/>](/images/wechat-QR.jpg)
 󠁫󠁫󠁫
 
