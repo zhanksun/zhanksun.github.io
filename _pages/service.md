@@ -24,7 +24,7 @@ author_profile: true
 
 
 ## Contact
-Room 268, 7/F, Lau Ming Wai Academic Building
+268, 7/F, Lau Ming Wai Academic Building
 <br/> City University of Hong Kong
 <br/> Tat Chee Ave, Kowloon
 <br/> Hong Kong
