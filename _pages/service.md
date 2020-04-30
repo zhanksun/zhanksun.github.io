@@ -18,7 +18,7 @@ author_profile: true
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
 * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
-* Session Chair：INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
+* Session Chair: INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
 * Technical Committee Member for Queueing Theory and Network Applications
 * Discussant for SIG Healthcare Track, MSOM 2019
 
