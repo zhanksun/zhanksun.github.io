@@ -8,7 +8,7 @@ tags:
 
 > This is from a nice blog written by Nancy Tuten (see [here](https://getitwriteonline.com/articles/en-dashes-em-dashes/)). This post is for my own record only.
 
-The hyphen, the em dash, and the en dash are all horizontal marks of varying lengths. Each functions differently from the others. Below we define each mark, explain when to use them, and provide instructions for typing them on both PCs and Macs. (View our new mini-lesson video on this topic.)
+The hyphen, the em dash, and the en dash are all horizontal marks of varying lengths. Each functions differently from the others. Below we define each mark, explain when to use them, and provide instructions for typing them on both PCs and Macs. (View our new [mini-lesson video](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) on this topic.)
 The Hyphen
 
 The hyphen is the shortest of the three marks, and we use it most commonly to combine words (making compounds such as “well-being” and “advanced-level,” for example) and to separate numbers that are not inclusive (in phone numbers and Social Security numbers, for example).
