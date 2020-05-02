@@ -54,23 +54,24 @@ Note that not all keyboards around the world are the same. Our readers outside t
     * In any software program that handles text, the em dash can be typed on an enhanced keyboard as Alt + 0151—that is, hold down the “alternate” key and, using the numerical pad on the right side of the keyboard, type the numbers 0151. The en dash can be typed as Alt + 0150.
     * Mac users also have another option: For an em dash, simultaneously press the shift, option, and minus keys. For an en dash, press the option and minus keys.
 
-British (and Canadian) Usage vs. American
+### British (and Canadian) Usage vs. American
 
 British/Canadian style guides seem wildly inconsistent on the issue of the em and en dash. Some say to use the en dash instead of the em dash, while others go so far as to advocate using the hyphen, advice that would lead to confusion for readers, as we have noted above. Our British and Canadian readers—and, indeed, any English-speaking reader outside the U.S.—should consult the style manual to which they default.
 
 The esteemed Oxford University Press style guide explains how to use both the em and en dashes, so we can assume that at least this authoritative source advocates using both.
-TEST YOURSELF
+
+### TEST YOURSELF
 
 Can you spot any errors in the use of the hyphen, the en dash, or the em dash in the following sentences?
 
-    The instructions were written on pages 33-47.
-    The conference will be held June 30 – July 2 on Hilton Head Island.
-    Juan had tried begging, bribing, and even demanding cooperation from his staff-all of whom were swamped with other work-before he gave up and wrote the report himself.
-    No one – not even the president – realized the company would have to dissolve so quickly.
+1. The instructions were written on pages 33-47.
+2. The conference will be held June 30 – July 2 on Hilton Head Island.
+3. Juan had tried begging, bribing, and even demanding cooperation from his staff-all of whom were swamped with other work-before he gave up and wrote the report himself.
+4. No one – not even the president – realized the company would have to dissolve so quickly.
 
-ANSWERS
+### ANSWERS
 
-    The instructions were written on pages 33–47. [Use an en dash, not a hyphen, to indicate inclusive page numbers.]
-    The conference will be held June 30–July 2 on Hilton Head Island. [Use an en dash to indicate inclusive dates. Do not space before or after dashes except in AP Style.]
-    Juan tried begging, bribing, and even demanding cooperation from his staff—all of whom were swamped with other work—before he gave up and wrote the report himself. [Use em dashes, not hyphens, to indicate a break in thought.]
-    No one—not even the president—realized the company would have to dissolve so quickly. [Use em dashes, not hyphens, to show a break in thought. Do not space before or after dashes.]
+1. The instructions were written on pages 33–47. [Use an en dash, not a hyphen, to indicate inclusive page numbers.]
+2. The conference will be held June 30–July 2 on Hilton Head Island. [Use an en dash to indicate inclusive dates. Do not space before or after dashes except in AP Style.]
+3. Juan tried begging, bribing, and even demanding cooperation from his staff—all of whom were swamped with other work—before he gave up and wrote the report himself. [Use em dashes, not hyphens, to indicate a break in thought.]
+4. No one—not even the president—realized the company would have to dissolve so quickly. [Use em dashes, not hyphens, to show a break in thought. Do not space before or after dashes.]
