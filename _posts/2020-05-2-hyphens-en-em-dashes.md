@@ -6,7 +6,7 @@ tags:
   - Writing
 ---
 
-> This is from a nice blog written by Nancy Tuten (see [here](https://getitwriteonline.com/articles/en-dashes-em-dashes/)). This post is for my own record only.
+> This is from a nice blog written by Nancy Tuten (see [here](https://getitwriteonline.com/articles/en-dashes-em-dashes/)) with a little bit of my editing. This post is for my own record only.
 
 The hyphen, the em dash, and the en dash are all horizontal marks of varying lengths. Each functions differently from the others. Below we define each mark, explain when to use them, and provide instructions for typing them on both PCs and Macs. (View our new [mini-lesson video](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) on this topic.)
 
@@ -43,7 +43,8 @@ Many people were not even aware of the distinction between the en dash and the e
 When using the hyphen, the en dash, or the em dash, most---but not all---style books advocate putting space neither before nor after them. The Associated Press style (always the outlier) insists on spacing both before and after the em dash.
 
 One exception is, of course, when the hyphen is used as a minus sign. The other exception is with a hanging hyphen (see, for example, the word “nineteenth” in the phrase “nineteenth- and twentieth-century literature”). By definition, a hanging hyphen will have a space after it but not before it.
-Typing the En Dash and Em Dash on PCs and Macs
+
+### Typing the En Dash and Em Dash on PCs and Macs
 
 Computer keyboards lack individual keys for either of the dashes. (The symbol above the hyphen is an underline, not a dash.) Before word processing, we had to make an em dash by typing two hyphens. Now we have options.
 
