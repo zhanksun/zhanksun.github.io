@@ -58,19 +58,3 @@ The latex commands are:
 British/Canadian style guides seem wildly inconsistent on the issue of the em and en dash. Some say to use the en dash instead of the em dash, while others go so far as to advocate using the hyphen, advice that would lead to confusion for readers, as we have noted above. Our British and Canadian readers---and, indeed, any English-speaking reader outside the U.S.---should consult the [style manual](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) to which they default.
 
 The esteemed Oxford University Press style guide explains how to use both the em and en dashes, so we can assume that at least this authoritative source advocates using both.
-
-### TEST YOURSELF
-
-Can you spot any errors in the use of the hyphen, the en dash, or the em dash in the following sentences?
-
-1. The instructions were written on pages 33-47.
-2. The conference will be held June 30 – July 2 on Hilton Head Island.
-3. Juan had tried begging, bribing, and even demanding cooperation from his staff-all of whom were swamped with other work-before he gave up and wrote the report himself.
-4. No one – not even the president – realized the company would have to dissolve so quickly.
-
-### ANSWERS
-
-1. The instructions were written on pages 33–47. [Use an en dash, not a hyphen, to indicate inclusive page numbers.]
-2. The conference will be held June 30–July 2 on Hilton Head Island. [Use an en dash to indicate inclusive dates. Do not space before or after dashes except in AP Style.]
-3. Juan tried begging, bribing, and even demanding cooperation from his staff—all of whom were swamped with other work—before he gave up and wrote the report himself. [Use em dashes, not hyphens, to indicate a break in thought.]
-4. No one—not even the president—realized the company would have to dissolve so quickly. [Use em dashes, not hyphens, to show a break in thought. Do not space before or after dashes.]
