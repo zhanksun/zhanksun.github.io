@@ -44,7 +44,7 @@ When using the hyphen, the en dash, or the em dash, most---but not all---style b
 
 One exception is, of course, when the hyphen is used as a minus sign. The other exception is with a hanging hyphen (see, for example, the word “nineteenth” in the phrase “nineteenth- and twentieth-century literature”). By definition, a hanging hyphen will have a space after it but not before it.
 
-### Typing the En Dash and Em Dash on PCs and Macs
+### Typing the En Dash and Em Dash
 
 The latex commands are:
 
@@ -55,6 +55,4 @@ The latex commands are:
 
 ### British (and Canadian) Usage vs. American
 
-British/Canadian style guides seem wildly inconsistent on the issue of the em and en dash. Some say to use the en dash instead of the em dash, while others go so far as to advocate using the hyphen, advice that would lead to confusion for readers, as we have noted above. Our British and Canadian readers---and, indeed, any English-speaking reader outside the U.S.---should consult the [style manual](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) to which they default.
-
-The esteemed Oxford University Press style guide explains how to use both the em and en dashes, so we can assume that at least this authoritative source advocates using both.
+British/Canadian style guides seem wildly inconsistent on the issue of the em and en dash. Some say to use the en dash instead of the em dash, while others go so far as to advocate using the hyphen, advice that would lead to confusion for readers, as we have noted above. Our British and Canadian readers---and, indeed, any English-speaking reader outside the U.S.---should consult the [style manual](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) to which they default. The esteemed Oxford University Press style guide explains how to use both the em and en dashes, so we can assume that at least this authoritative source advocates using both.
