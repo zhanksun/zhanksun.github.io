@@ -46,14 +46,12 @@ One exception is, of course, when the hyphen is used as a minus sign. The other 
 
 ### Typing the En Dash and Em Dash on PCs and Macs
 
-Computer keyboards lack individual keys for either of the dashes. (The symbol above the hyphen is an underline, not a dash.) Before word processing, we had to make an em dash by typing two hyphens. Now we have options.
+The latex commands are:
 
-Note that not all keyboards around the world are the same. Our readers outside the U.S. tell us that they don’t have the following shortcuts on their keyboards.  That said, here are guidelines for typing on many keyboards:
+* Hyphen: -
+* En-dash: \\textendash
+* Em-dash: \\textemdash
 
-* On both PCs and Macs, two hyphens (typed with no space before or after either of them) will convert to an em dash—the full-length one that most of us think of when we hear the word “dash.”
-* We can also choose en and em dashes from a menu of symbols that do not appear on the keyboard. In Microsoft Word, for example, we can pull down the “Insert” window, click on “Symbol,” and go to the “normal text” window. The en and em dashes appear on the bottom row.
-* In any software program that handles text, the em dash can be typed on an enhanced keyboard as Alt + 0151—that is, hold down the “alternate” key and, using the numerical pad on the right side of the keyboard, type the numbers 0151. The en dash can be typed as Alt + 0150.
-* Mac users also have another option: For an em dash, simultaneously press the shift, option, and minus keys. For an en dash, press the option and minus keys.
 
 ### British (and Canadian) Usage vs. American
 
