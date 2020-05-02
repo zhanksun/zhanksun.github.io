@@ -1,5 +1,5 @@
 ---
-title: 'Hyphens, Em Dashes, and En Dashes: When to Use Them and How to Type Them'
+title: 'Hyphens, Em Dashes, and En Dashes'
 date: 2020-05-02
 permalink: /posts/en-dashes-em-dashes/
 tags:
