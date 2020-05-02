@@ -37,9 +37,10 @@ The en dash is slightly longer than the hyphen but not as long as the em dash. (
 The en dash means, quite simply, “through.” We use it most commonly to indicate inclusive dates and numbers: July 9–August 17; pp. 37–59.
 
 Many people were not even aware of the distinction between the en dash and the em dash until the advent of word processors, when software programs enabled us to use marks of punctuation that once had been available only to professional printers.
-Important: Spacing with Hyphens and Dashes
 
-When using the hyphen, the en dash, or the em dash, most—but not all—style books advocate putting space neither before nor after them. The Associated Press style (always the outlier) insists on spacing both before and after the em dash.
+### Important: Spacing with Hyphens and Dashes
+
+When using the hyphen, the en dash, or the em dash, most --- but not all --- style books advocate putting space neither before nor after them. The Associated Press style (always the outlier) insists on spacing both before and after the em dash.
 
 One exception is, of course, when the hyphen is used as a minus sign. The other exception is with a hanging hyphen (see, for example, the word “nineteenth” in the phrase “nineteenth- and twentieth-century literature”). By definition, a hanging hyphen will have a space after it but not before it.
 Typing the En Dash and Em Dash on PCs and Macs
