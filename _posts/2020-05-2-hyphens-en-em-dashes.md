@@ -52,6 +52,7 @@ The latex commands are:
 * En-dash: \\textendash
 * Em-dash: \\textemdash
 
+With the latter two, you will likely want to append {}, because they swallow following space.
 
 ### British (and Canadian) Usage vs. American
 
