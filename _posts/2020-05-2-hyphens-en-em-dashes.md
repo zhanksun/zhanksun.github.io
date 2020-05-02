@@ -12,7 +12,7 @@ The hyphen, the em dash, and the en dash are all horizontal marks of varying len
 
 ### The Hyphen
 
-The hyphen is the shortest of the three marks, and we use it most commonly to combine words (making compounds such as “well-being” and “advanced-level,” for example) and to separate numbers that are not inclusive (in phone numbers and Social Security numbers, for example). On computer keyboards, the hyphen appears on the bottom half of the key located on the top row between the “0” and the equals mark (=). Correct hyphenation is often a complicated issue. Elsewhere on this site, we discuss the use of hyphens to create compound words and hyphenated adjectives. Here, however, our focus is on the two kinds of dashes.
+The hyphen is the shortest of the three marks, and we use it most commonly to combine words (making compounds such as “well-being” and “advanced-level,” for example) and to separate numbers that are not inclusive (in phone numbers and Social Security numbers, for example). Correct hyphenation is often a complicated issue. However, our focus is on the two kinds of dashes.
 
 ### The Em Dash
 
