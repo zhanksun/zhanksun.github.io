@@ -22,8 +22,9 @@ Dashes are particularly useful in a sentence that is long and complex or in one 
 
     * We bought markers, paper, pens, and tablets—all of which were on sale, of course—for our clients to use in the courtroom.
 
-If we confuse the em dash with the hyphen, we make a sentence virtually impossible to read. If we had used a hyphen in place of each dash two sentences ago, it would seem as though we had hyphenated two pairs of words in the sentence: “tablets-all” and “course-for,” neither of which makes any sense.
-Em Dashes, Parentheses, or Commas?
+If we confuse the em dash with the hyphen, we make a sentence virtually impossible to read. If we had used a hyphen in place of each dash two sentences ago, it would seem as though we had hyphenated two pairs of words in the sentence: "tablets-all" and "course-for," neither of which makes any sense.
+
+### Em Dashes, Parentheses, or Commas?
 
 A good rule of thumb is to reserve em dashes for those places where the comma simply doesn’t provide a strong enough break. If a comma (or a pair of them) works, use it.
 
@@ -31,7 +32,7 @@ Parentheses tend to downplay an idea; they suggest that the information in them 
 
 ### The En Dash
 
-The en dash is slightly longer than the hyphen but not as long as the em dash. (A common myth holds that the en dash is, in fact, the width of a typesetter’s letter “N,” whereas the em dash is the width of the letter “M”—thus their names. In fact, an em is a typographical unit of measurement.)
+The en dash is slightly longer than the hyphen but not as long as the em dash. (A common myth holds that the en dash is, in fact, the width of a typesetter’s letter “N,” whereas the em dash is the width of the letter "M" --- thus their names. In fact, an em is a typographical unit of measurement.)
 
 The en dash means, quite simply, “through.” We use it most commonly to indicate inclusive dates and numbers: July 9–August 17; pp. 37–59.
 
