@@ -20,7 +20,7 @@ When we hear the term dash, most of us picture the em dash. It is significantly 
 
 Dashes are particularly useful in a sentence that is long and complex or in one that contains a number of commas, as in this example:
 
-    * We bought markers, paper, pens, and tablets—all of which were on sale, of course—for our clients to use in the courtroom.
+* We bought markers, paper, pens, and tablets—all of which were on sale, of course—for our clients to use in the courtroom.
 
 If we confuse the em dash with the hyphen, we make a sentence virtually impossible to read. If we had used a hyphen in place of each dash two sentences ago, it would seem as though we had hyphenated two pairs of words in the sentence: "tablets-all" and "course-for," neither of which makes any sense.
 
