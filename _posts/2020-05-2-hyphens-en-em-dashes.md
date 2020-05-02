@@ -8,7 +8,7 @@ tags:
 
 > This is from a nice blog written by Nancy Tuten (see [here](https://getitwriteonline.com/articles/en-dashes-em-dashes/)) with my editing. This post is for my own record only. All credits go to the original post, and all mistakes remain mine.
 
-The hyphen, the em dash, and the en dash are all horizontal marks of varying lengths. Each functions differently from the others. Below we define each mark, explain when to use them, and provide instructions for typing them on both PCs and Macs. (View our new [mini-lesson video](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) on this topic.)
+The hyphen, the em dash, and the en dash are all horizontal marks of varying lengths. Each functions differently from the others. Below we define each mark, explain when to use them, and provide instructions for typing them on both PCs and Macs. (View [mini-lesson video](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) on this topic.)
 
 ### The Hyphen
 
