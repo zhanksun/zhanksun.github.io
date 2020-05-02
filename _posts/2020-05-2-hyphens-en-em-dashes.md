@@ -54,6 +54,13 @@ The latex commands are:
 
 With the latter two, you will likely want to append {}, because they swallow following space.
 
+Note that not all keyboards around the world are the same. Our readers outside the U.S. tell us that they don’t have the following shortcuts on their keyboards.  That said, here are guidelines for typing on many keyboards:
+
+* On both PCs and Macs, two hyphens (typed with no space before or after either of them) will convert to an em dash—the full-length one that most of us think of when we hear the word “dash.”
+* We can also choose en and em dashes from a menu of symbols that do not appear on the keyboard. In Microsoft Word, for example, we can pull down the “Insert” window, click on “Symbol,” and go to the “normal text” window. The en and em dashes appear on the bottom row.
+* In any software program that handles text, the em dash can be typed on an enhanced keyboard as Alt + 0151—that is, hold down the “alternate” key and, using the numerical pad on the right side of the keyboard, type the numbers 0151. The en dash can be typed as Alt + 0150.
+* Mac users also have another option: For an em dash, simultaneously press the shift, option, and minus keys. For an en dash, press the option and minus keys.
+
 ### British (and Canadian) Usage vs. American
 
 British/Canadian style guides seem wildly inconsistent on the issue of the em and en dash. Some say to use the en dash instead of the em dash, while others go so far as to advocate using the hyphen, advice that would lead to confusion for readers, as we have noted above. Our British and Canadian readers---and, indeed, any English-speaking reader outside the U.S.---should consult the [style manual](https://www.youtube.com/watch?v=PSiOINsrnpI&feature=youtu.be) to which they default. The esteemed Oxford University Press style guide explains how to use both the em and en dashes, so we can assume that at least this authoritative source advocates using both.
