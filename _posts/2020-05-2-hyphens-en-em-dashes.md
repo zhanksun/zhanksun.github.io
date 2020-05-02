@@ -28,7 +28,8 @@ Em Dashes, Parentheses, or Commas?
 A good rule of thumb is to reserve em dashes for those places where the comma simply doesn’t provide a strong enough break. If a comma (or a pair of them) works, use it.
 
 Parentheses tend to downplay an idea; they suggest that the information in them is helpful but not necessary. Em dashes draw attention to the information they enclose or set apart. Typically the writer is telling the reader that the information being set off by em dashes is important.
-The En Dash
+
+### The En Dash
 
 The en dash is slightly longer than the hyphen but not as long as the em dash. (A common myth holds that the en dash is, in fact, the width of a typesetter’s letter “N,” whereas the em dash is the width of the letter “M”—thus their names. In fact, an em is a typographical unit of measurement.)
 
