@@ -1,7 +1,7 @@
 ---
 title: 'Journal list'
-date: 2019-12-15
-permalink: /posts/2019/12/journal-list/
+date: 2029-12-15
+permalink: /posts/journal-list/
 tags:
   - review
   - journal
