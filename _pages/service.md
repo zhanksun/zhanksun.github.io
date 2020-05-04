@@ -17,10 +17,12 @@ author_profile: true
   * Pierskalla Best Paper Award - Health Applications Society (2019 DC)
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
-* Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
-* Session Chair: INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
-* Technical Committee Member for Queueing Theory and Network Applications
-* Discussant for SIG Healthcare Track, MSOM 2019
+
+## Others
+  * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
+  * Session Chair: INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
+  * Technical Committee Member for Queueing Theory and Network Applications
+  * Discussant for SIG Healthcare Track, MSOM 2019
 
 
 ## Contact
