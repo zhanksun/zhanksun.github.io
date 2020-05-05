@@ -17,10 +17,12 @@ author_profile: true
   * Pierskalla Best Paper Award - Health Applications Society (2019 DC)
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
-* Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
-* Session Chair: INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
-* Technical Committee Member for Queueing Theory and Network Applications
-* Discussant for SIG Healthcare Track, MSOM 2019
+
+## Others
+  * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
+  * Session Chair: INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
+  * Technical Committee Member for Queueing Theory and Network Applications
+  * Discussant for SIG Healthcare Track, MSOM 2019
 
 
 ## Contact
@@ -29,11 +31,16 @@ author_profile: true
 <br/> 83 Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="21"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at6.png" alt="Email" width="16"/>cityu.edu.hk
+<<<<<<< HEAD
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>
 
 <!--
 &nbsp;[<img style="float: center;" src="/images/emoji/wechat3.png" alt="WeChat QR" width="18"/>](/images/wechat-QR.jpg)
 󠁫󠁫󠁫-->
+=======
+<br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img src="/images/emoji/wechat6.png" alt="WeChat QR" width="18"/>](/images/wechat-QR.jpg)
+󠁫󠁫󠁫
+>>>>>>> 6d824d161c3b49b234ceaddc62222076365aa9db
 
 <!--
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="22"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="Email" width="24"/>cityu.edu.hk
