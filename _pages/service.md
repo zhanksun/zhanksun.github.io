@@ -36,11 +36,9 @@ author_profile: true
 
 <!--
 &nbsp;[<img style="float: center;" src="/images/emoji/wechat3.png" alt="WeChat QR" width="18"/>](/images/wechat-QR.jpg)
-󠁫󠁫󠁫-->
-=======
+󠁫
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img src="/images/emoji/wechat6.png" alt="WeChat QR" width="18"/>](/images/wechat-QR.jpg)
-󠁫󠁫󠁫
->>>>>>> 6d824d161c3b49b234ceaddc62222076365aa9db
+󠁫
 
 <!--
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="22"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="Email" width="24"/>cityu.edu.hk
