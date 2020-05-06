@@ -3,9 +3,9 @@ title: $\LaTeX$ Notes
 date: 2020-05-06
 permalink: /posts/latex-notes/
 tags:
-  - Writing
-  - Latex
-  - Paper
+  - writing
+  - latex
+  - paper
 ---
 
 This is some random notes for myself on $\LaTeX$.
