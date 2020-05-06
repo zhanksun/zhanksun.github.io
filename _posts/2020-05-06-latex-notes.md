@@ -19,4 +19,4 @@ The latex commands are:
 
 ### Math spacing
 
-有时候由TeX选择的空格不令人满意，可以插入一些特殊的空格控制命令来调整。空格由小到大依次为\,, \:, \;, \quad, \qquad
+Math spacing from smallest to greatest: \,, \\:, \;, \quad, \qquad
