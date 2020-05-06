@@ -1,6 +1,6 @@
 ---
-title: 'Notes on $\LaTeX$'
-date: 2020-05-02
+title: $\LaTeX$ Notes
+date: 2020-05-06
 permalink: /posts/latex-notes/
 tags:
   - Writing
@@ -8,7 +8,7 @@ tags:
   - Paper
 ---
 
-This is some random notes for myself on $\LaTeX$
+This is some random notes for myself on $\LaTeX$.
 
 ### The Hyphen
 
