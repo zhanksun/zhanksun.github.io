@@ -13,3 +13,4 @@ tags:
   4. At the end of February, the Yale President **convened a group of public health and medical experts to advise university decision-making and provide public health guidance to the Yale Community**.
   5. He **took particular aim at what he called the “misleading” media for sowing division**. “I believe in free press. **I don’t mind opinionated press. I do, however, reject inaccurate or deliberately misleading press**,” he said in a statement.
   6. But the episode also **revealed some of the strange dynamics at play in the coronavirus era, at the intersection where health policy, geopolitics and international commerce meet**.
+  7. Of course, things didn’t **shake out that way. The best laid plans and all that**.
