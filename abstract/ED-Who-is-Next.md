@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Who's Next: Dynamic Patient Prioritization in an Emergency Department"
+title: "Who is Next: Patient Prioritization Under Emergency Department Blocking"
 permalink: /abstract/ED-Who-is-Next
 venue: by Wenhao Li, Zhankun Sun, Jeff L. Hong
 date: 2020
