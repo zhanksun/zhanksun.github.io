@@ -19,7 +19,8 @@ This is a list of papers that are of interest to me.
   * Zhang, Mengzhenyu, et al. "Data-driven pricing for a new product." [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGp1aWNoYW5jb3xneDo1ZTc1NWIzNzBhZWU4Yjli)
 
 ### Allocation indices
-  * Jake Clarkson, Kevin D. Glazebrook, Kyle Y. Lin. "[Fast or Slow: Search in Discrete Locations with Two Search Modes](https://pubsonline.informs.org/doi/pdf/10.1287/opre.2019.1870)." [PDF](/files/opre.2019.1870.pdf)
+  * Jake Clarkson, Kevin D. Glazebrook, Kyle Y. Lin. "[Fast or Slow: Search in Discrete Locations with Two Search Modes](https://pubsonline.informs.org/doi/pdf/10.1287/opre.2019.1870)." _Operations Research_ [PDF](/files/opre.2019.1870.pdf)
+  * K. D. Glazebrook, C. Kirkbride, J. Ouenniche. (2009) "[Index Policies for the Admission Control and Routing of Impatient Customers to Heterogeneous Service Stations](https://doi.org/10.1287/opre.1080.0632)." _Operations Research_ 57(4) [PDF](/files/opre.1080.0632.pdf)
 
 ### Testing problems
   * Hrayer Aprahamian, Douglas R. Bish, Ebru K. Bish (2019) [Optimal Risk-Based Group Testing](https://doi.org/10.1287/mnsc.2018.3138). _Management Science_ 65(9):4365-4384. [PDF](/files/mnsc.2018.3138.pdf)
