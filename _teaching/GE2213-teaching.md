@@ -18,3 +18,5 @@ Issue Date | Title | Author(s) |
 :---: | :--- | :--- |
 2016 | Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures | Larsson, Johan; Lier, Sondre, Vanmaekelbergh, Cyriel |
 2017 | Is the air quality in Hong Kong becoming better or worse, 1997 to 2014? | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing |
+
+<img src="/images/OAPS.jpg" alt="drawing" style="width:200px;"/>
