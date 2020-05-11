@@ -1,7 +1,7 @@
 ---
 title: 'Interesting papers'
 date: 2025-01-01
-permalink: /posts/papers-of-interest/
+permalink: /posts/paper-of-interest/
 tags:  
   - academic
   - operations research
