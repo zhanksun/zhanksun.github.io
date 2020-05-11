@@ -14,9 +14,11 @@ This undergraduate course is part of CityU's initiative [_Gateway Education_](ht
 
 I taught this course for two years, 2016-2017 and 2017-2018. Each year, we have one group of students winning the Award of Outstanding Academic Papers by Students.
 
-Issue Date | Title | Author(s) |
-:---: | :--- | :--- |
+Issue Date | Title | Author(s) | Programs |
+:---: | :--- | :--- | :--- |
 2016 | [Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures](http://dspace.cityu.edu.hk/handle/2031/8815) | Larsson, Johan; Lier, Sondre, Vanmaekelbergh, Cyriel |
 2017 | [Is the air quality in Hong Kong becoming better or worse, 1997 to 2014?](http://dspace.cityu.edu.hk/handle/2031/102) | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing |
 
-<img src="/images/OAPS.jpg" alt="drawing" style="width:200px;"/>
+<img src="/images/OAPS2016.jpg" alt="drawing" style="width:1200px;"/>
+
+<img style="float: center;" src="/images/OAPS2016.jpg" alt="AT" width="121"/>
