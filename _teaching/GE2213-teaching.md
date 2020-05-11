@@ -21,4 +21,4 @@ Issue Date | Title | Author(s) | Programs |
 
 
 ### OAPS Certificate Awarding Ceremony, April 2017
-<img src="/images/oaps2016_small.jpg" alt="drawing" style="width:400px;" Title="OAPS Certificate Awarding Ceremony, April 2017" class="center"/>
+<img src="/images/oaps2016_small.jpg" alt="drawing" style="width:400px;" Title="OAPS Certificate Awarding Ceremony, April 2017" align="center"/>
