@@ -16,7 +16,7 @@ I taught this course for two years, 2016-2017 and 2017-2018. Each year, we have 
 
 Issue Date | Title | Author(s) |
 :---: | :--- | :--- |
-2016 | Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures | Larsson, Johan; Lier, Sondre, Vanmaekelbergh, Cyriel |
-2017 | Is the air quality in Hong Kong becoming better or worse, 1997 to 2014? | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing |
+2016 | [Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures](http://dspace.cityu.edu.hk/handle/2031/8815) | Larsson, Johan; Lier, Sondre, Vanmaekelbergh, Cyriel |
+2017 | [Is the air quality in Hong Kong becoming better or worse, 1997 to 2014?](http://dspace.cityu.edu.hk/handle/2031/102) | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing |
 
 <img src="/images/OAPS.jpg" alt="drawing" style="width:200px;"/>
