@@ -15,6 +15,6 @@ This undergraduate course is part of CityU's initiative [_Gateway Education_](ht
 I taught this course for two years, 2016-2017 and 2017-2018. Each year, we have one group of students winning the Award of Outstanding Academic Papers by Students.
 
 Issue Date | Title | Author(s) |
-:---: | :---: | :---: |
-2016 | Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures | Larsson, Johan; Lier, Sondre; Vanmaekelbergh, Cyriel |
-2017 | Is the air quality in Hong Kong becoming better or worse, 1997 to 2014? | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing | 
+:---: | :--- | :--- |
+2016 | Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures | Larsson, Johan; Lier, Sondre, Vanmaekelbergh, Cyriel |
+2017 | Is the air quality in Hong Kong becoming better or worse, 1997 to 2014? | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing |
