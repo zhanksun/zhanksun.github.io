@@ -19,6 +19,4 @@ Issue Date | Title | Author(s) | Programs |
 2016 | [Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures](http://dspace.cityu.edu.hk/handle/2031/8815) | Larsson, Johan; Lier, Sondre, Vanmaekelbergh, Cyriel |
 2017 | [Is the air quality in Hong Kong becoming better or worse, 1997 to 2014?](http://dspace.cityu.edu.hk/handle/2031/102) | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing |
 
-<img src="/images/OAPS2016.jpg" alt="drawing" style="width:1200px;"/>
-
-<img style="float: center;" src="/images/OAPS2016.jpg" alt="AT" width="121"/>
+<img src="/images/OAPS2016.jpg" alt="drawing" style="width:600px;" Title="At OAPS Award Ceremony, April 2017"/>
