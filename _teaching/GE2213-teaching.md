@@ -16,5 +16,5 @@ I taught this course for two years, 2016-2017 and 2017-2018. Each year, we have 
 
 Issue Date | Title | Author(s) |
 :---: | :---: | :---: |
-2016 | Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures | **6.71** | **5.91** | **5.95**
-2017 | Is the air quality in Hong Kong becoming better or worse, 1997 to 2014? | **6.30** | **5.91** | **5.95**
+2016 | Lecture length at City University of Hong Kong - too long or too short? a study among student's opinion about the length of the lectures | Larsson, Johan; Lier, Sondre; Vanmaekelbergh, Cyriel |
+2017 | Is the air quality in Hong Kong becoming better or worse, 1997 to 2014? | Narramore, Benjamin; Li, Chun; Wu, Tsz Wing | 
