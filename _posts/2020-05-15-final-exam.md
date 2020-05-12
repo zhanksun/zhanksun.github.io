@@ -9,8 +9,11 @@ tags:
 
 ### Time: 6:30 -- 9:30pm
 
-1. Exam paper can be downloaded here: [download](/exam/)
+### Please submit through [Canvas](https://canvas.cityu.edu.hk/){:target="_blank"}
 
+### Exam paper can be downloaded here: [download](/exam/)
+
+### Data files can be downloaded here:
 
 ### Join the Zoom meeting and keep your camera open
 
