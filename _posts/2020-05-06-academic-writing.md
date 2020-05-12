@@ -1,5 +1,5 @@
 ---
-title: 'Academic Writing Notes'
+title: 'Academic writing notes'
 date: 2020-05-06
 permalink: /posts/academic-writing-notes/
 tags:
