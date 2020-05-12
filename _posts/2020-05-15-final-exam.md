@@ -9,8 +9,7 @@ tags:
 
 ### Time: 6:30 -- 9:30pm
 
-* Question 2: [R Studio knitr author website](https://yihui.org/cn/vitae/)
-
+1. Exam paper can be downloaded here: [download](/exam/)
 
 
 ### Join the Zoom meeting and keep your camera open
