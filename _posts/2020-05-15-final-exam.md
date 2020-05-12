@@ -7,9 +7,9 @@ tags:
   - exam
 ---
 
-### Time: 6:30 -- 9:30pm
+### Exam Time: 6:30 -- 9:30pm
 
-### Please submit through [Canvas](https://canvas.cityu.edu.hk/){:target="_blank"}
+### Please submit through [Canvas](https://canvas.cityu.edu.hk/){:target="_blank" rel="noopener"} by _9:30pm_.
 
 ### Exam paper can be downloaded here: [download](/exam/)
 
