@@ -13,29 +13,10 @@ tags:
 
 
 
-## Join the Zoom meeting and keep your camera open
-### Zoom Meeting – First choice
+### Join the Zoom meeting and keep your camera open
 
-:--- | :--- |
-Dr. Kevin Zhankun Sun邀请您参加预先安排的 Zoom 会议。
-
-主题：MS5318 Final Exam
-时间：2020年5月15日 06:00下午香港
-
-加入 Zoom 会议
-https://cityu.zoom.us/j/95320033115?pwd=ZjloYkdHWTBBeGNxVzdOV2pMWXpLQT09
-
-会议 ID：953 2003 3115
-密码：7r05q4
-| Dr. Kevin Zhankun Sun邀請您參加預先安排的 Zoom 會議。
-
-主題：MS5318 Final Exam
-時間：2020年5月15日 06:00下午香港
-
-加入 Zoom 會議
-https://cityu.zoom.us/j/95320033115?pwd=ZjloYkdHWTBBeGNxVzdOV2pMWXpLQT09
-
-會議 ID：953 2003 3115
-密碼：7r05q4
-| 
-2017-2018 | [Is the air quality in Hong Kong becoming better or worse, 1997 to 2014?](http://dspace.cityu.edu.hk/handle/2031/102) |
+Provider | Meeting ID | Password | Click to join |
+:--- | :--- | :--- | :--- |
+Zoom | 953 2003 3115 | 7r05q4 | [Zoom link](https://cityu.zoom.us/j/95320033115?pwd=ZjloYkdHWTBBeGNxVzdOV2pMWXpLQT09)
+Google Meet | N.A. | N.A. | [Google link](http://dspace.cityu.edu.hk/handle/2031/102) |
+Tencent Meeting | 549 765 239 | 5318 | [Tencent link](https://meeting.tencent.com/s/HNEtHVhLJuys)
