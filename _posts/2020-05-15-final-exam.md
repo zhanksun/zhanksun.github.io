@@ -14,7 +14,7 @@ tags:
 
 ### 3. Exam paper can be downloaded here: [download](/exam/phantom.png). Data files can be downloaded here: [Question2](/exam/phantom.png) [Question3](/exam/phantom.png) [Question4](/exam/phantom.png)
 
-### 4. Join the Zoom meeting and keep your camera open
+### 4. Join the Zoom meeting and keep your camera open. In case Zoom system breaks down, join one of the two backup systems immediately.
 
 Provider | Account? | Meeting ID | Password | Click to join |
 :--- | :--- | :--- | :--- | :--- |
