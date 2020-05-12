@@ -16,10 +16,10 @@ tags:
 
 ### 4. Join the Zoom meeting and keep your camera open
 
-Provider | Meeting ID | Password | Click to join |
-:--- | :--- | :--- | :--- |
-Zoom | 953 2003 3115 | 7r05q4 | [Zoom link](https://cityu.zoom.us/j/95320033115?pwd=ZjloYkdHWTBBeGNxVzdOV2pMWXpLQT09){:target="blank" rel="noopener"}
-Google Meet | N.A. | N.A. | [Google link](https://meet.google.com/ane-inwe-ysv){:target="blank" rel="noopener"} |
-Tencent Meeting | 549 765 239 | 5318 | [Tencent link](https://meeting.tencent.com/s/HNEtHVhLJuys){:target="blank" rel="noopener"}
+Provider | Account? | Meeting ID | Password | Click to join |
+:--- | :--- | :--- | :--- | :--- |
+Zoom | CityU email | 953 2003 3115 | 7r05q4 | [Zoom link](https://cityu.zoom.us/j/95320033115?pwd=ZjloYkdHWTBBeGNxVzdOV2pMWXpLQT09){:target="blank" rel="noopener"}
+Google Meet | Not required | N.A. | N.A. | [Google link](https://meet.google.com/ane-inwe-ysv){:target="blank" rel="noopener"} |
+Tencent Meeting | Register in advance | 549 765 239 | 5318 | [Tencent link](https://meeting.tencent.com/s/HNEtHVhLJuys){:target="blank" rel="noopener"}
 
 ### 5. In case of emergency, contact me at +852 3442-8650. The departmental hotline is +852 3442-8325.
