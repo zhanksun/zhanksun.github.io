@@ -12,7 +12,7 @@ tags:
 ### 2. Please submit through [Canvas](https://canvas.cityu.edu.hk/){:target="blank" rel="noopener"} by _9:30pm_. If Canvas doesn't work for you, send it to me at <mailto:zhankun.sun@cityu.edu.hk>
   * Late submission: 10% of your scores will be deducted. The exam submission link will be disabled at 9:45pm. Submission after that will not be accepted.
 
-### 3. Exam paper can be downloaded here: [download](/exam/MS5318_Final.docx). Data files can be downloaded here: [Question2](/exam/emerald_diamond.xls) [Question3](/exam/germancredit.csv)
+### 3. Exam paper can be downloaded here: [download](/exam/MS5318_Final.docx). Data files can be downloaded here: [Question2](/exam/emerald_diamonds.xls) [Question3](/exam/germancredit.csv)
 
 ### 4. Join the Zoom meeting and keep your camera open. In case Zoom system breaks down, join one of the two backup systems immediately.
 
