@@ -19,3 +19,5 @@ tags:
 1. [Don't fall asleep at work!](https://www.facebook.com/FirstResponsePhotography/videos/505550817000094/) A call center example
 1. [武漢戰疫全景紀錄片——《英雄之城》](https://www.facebook.com/MFAofficeHK/videos/170527003950822/UzpfSTE1NjQ2ODYyNzgzNDU1ODoxNjk5MTQ3NTgwMjMzMzE0/)
 1. [Dim sum dough magic](https://www.facebook.com/scmp/videos/2668404036729199)
+1. [Simpson's paradox](https://baike.baidu.com/item/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA)
+Another example:
