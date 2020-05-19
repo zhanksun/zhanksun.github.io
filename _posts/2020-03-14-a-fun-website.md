@@ -28,7 +28,7 @@ tags:
 Hospital A |10,000 | 1,500 | 15%
 Hospital B |8,000 | 1,000 | 12.5%
 
-Include the lurking variable: severity
+Include the lurking variable: severity of patients
 
 &emsp; | Mortality rate for severe patients | Mortality rate for mild patients
 :--- | :--- | :--- |
