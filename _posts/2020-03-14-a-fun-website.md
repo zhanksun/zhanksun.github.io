@@ -20,8 +20,16 @@ tags:
 1. [武漢戰疫全景紀錄片——《英雄之城》](https://www.facebook.com/MFAofficeHK/videos/170527003950822/UzpfSTE1NjQ2ODYyNzgzNDU1ODoxNjk5MTQ3NTgwMjMzMzE0/)
 1. [Dim sum dough magic](https://www.facebook.com/scmp/videos/2668404036729199)
 1. [Simpson's paradox](https://baike.baidu.com/item/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA)
-Another example:
+
+### Another example for Simpson's paradox
  | Patients | Deaths | Mortality Rate
 :--- | :--- | :--- | :--- |
 Hospital A |10,000 | 1,500 | 15%
 Hospital B |8,000 | 1,000 | 12.5%
+
+Include the lurking variable: severity
+
+| Mortality rate for severe patients | Mortality rate for mild patients 
+:--- | :--- | :--- |
+Hospital A | 20% (1,400/10,000) | 3.3% (100/3,000)
+Hospital B | 30% (600/2,000) | 6.6% (400/6,000)
