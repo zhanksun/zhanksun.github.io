@@ -21,3 +21,7 @@ tags:
 1. [Dim sum dough magic](https://www.facebook.com/scmp/videos/2668404036729199)
 1. [Simpson's paradox](https://baike.baidu.com/item/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA)
 Another example:
+ | Patients | Deaths | Mortality Rate
+:--- | :--- | :--- | :--- |
+Hospital A |10,000 | 1,500 | 15%
+Hospital B |8,000 | 1,000 | 12.5%
