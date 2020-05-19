@@ -23,14 +23,14 @@ tags:
 
 ### Another example for Simpson's paradox
 
- | Patients | Deaths | Mortality Rate
+ &emsp; | Patients | Deaths | Mortality Rate
 :--- | :--- | :--- | :--- |
 Hospital A |10,000 | 1,500 | 15%
 Hospital B |8,000 | 1,000 | 12.5%
 
 Include the lurking variable: severity
 
- | Mortality rate for severe patients | Mortality rate for mild patients
+&emsp; | Mortality rate for severe patients | Mortality rate for mild patients
 :--- | :--- | :--- |
 Hospital A | 20% (1,400/10,000) | 3.3% (100/3,000)
 Hospital B | 30% (600/2,000) | 6.6% (400/6,000)
