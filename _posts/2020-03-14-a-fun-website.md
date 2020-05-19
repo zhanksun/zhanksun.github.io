@@ -28,7 +28,7 @@ tags:
 Hospital A |10,000 | 1,500 | 15%
 Hospital B |8,000 | 1,000 | 12.5%
 
-Include the lurking variable: severity of patients
+It seems that Hospital A is superior than Hospital B with a lower mortality rate. However, if we include the lurking variable: severity of patients
 
 &emsp; | Mortality rate for severe patients | Mortality rate for mild patients
 :--- | :--- | :--- |
