@@ -34,8 +34,6 @@ author_profile: true
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>
 
 
-<kbd>3</kbd><kbd>4</kbd><kbd>4</kbd><kbd>2</kbd> <kbd>8</kbd><kbd>6</kbd><kbd>5</kbd><kbd>0</kbd>
-
 <!--
 &nbsp;[<img style="float: center;" src="/images/emoji/wechat3.png" alt="WeChat QR" width="18"/>](/images/wechat-QR.jpg)
 󠁫
