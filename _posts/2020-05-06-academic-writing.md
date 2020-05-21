@@ -32,6 +32,8 @@ Math spacing from smallest to greatest: \,, \\:, \;, \quad, \qquad
   6. But the episode also **revealed some of the strange dynamics at play in the coronavirus era, at the intersection where health policy, geopolitics and international commerce meet**.
   7. Of course, things didn’t **shake out that way. The best laid plans and all that**.
   8. The question now arises as to whether we can utilise the structure of these policies to develop heuristics for the original routing problem, which is our main concern.
+  9. A stationary policy is a rule for choosing between a and b at each decision epoch in the light of the current state.
+
 
 ### Capitalization in Titles: Which Words??
 
