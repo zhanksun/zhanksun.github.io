@@ -35,6 +35,8 @@ Math spacing from smallest to greatest: \,, \\:, \;, \quad, \qquad
   9. A stationary policy is a rule for choosing between a and b at each decision epoch in the light of the current state.
   10. Plainly, the system state process evolving under stationary policy $u$ is Markov.
 
+  
+
 ### Capitalization in Titles: Which Words??
 
   Headings, chapter titles, book titles, movie titles……these titles all require proper capitalization. Which words are capitalized in a title, anyway? Or, which words are not?
