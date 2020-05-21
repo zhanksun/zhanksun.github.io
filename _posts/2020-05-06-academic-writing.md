@@ -31,7 +31,7 @@ Math spacing from smallest to greatest: \,, \\:, \;, \quad, \qquad
   5. He **took particular aim at what he called the “misleading” media for sowing division**. “I believe in free press. **I don’t mind opinionated press. I do, however, reject inaccurate or deliberately misleading press**,” he said in a statement.
   6. But the episode also **revealed some of the strange dynamics at play in the coronavirus era, at the intersection where health policy, geopolitics and international commerce meet**.
   7. Of course, things didn’t **shake out that way. The best laid plans and all that**.
-
+  8. The question now arises as to whether we can utilise the structure of these policies to develop heuristics for the original routing problem, which is our main concern.
 
 ### Capitalization in Titles: Which Words??
 
