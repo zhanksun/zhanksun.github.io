@@ -14,7 +14,7 @@ author_profile: true
 5. Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Semi-Orthogonal Non-Negative Matrix Factorization with an Application in Text Mining</q>. _Journal of the American Statistical Association, 2nd round review_. [\[Abstract\]](/abstract/ED-Text-Mining) [\[pdf\]](https://www.researchgate.net/profile/Jack_Yutong_Li/publication/325008975_Semi-Orthogonal_Non-Negative_Matrix_Factorization_with_an_Application_in_Text_Mining/links/5d1274f7458515c11cf88761/Semi-Orthogonal-Non-Negative-Matrix-Factorization-with-an-Application-in-Text-Mining.pdf)
 6. Wenhao Li, **Zhankun Sun**, Jeff L. Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Submitted_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle.pdf)
 7. Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>Routing Under Congestion: An Empirical Study of Triage Drift in Emergency Departments</q>. _Working paper_.
-8. Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Emergency Departments: A Data-Driven Approach</q>. _Working paper_.
+8. Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Emergency Departments: A Data-Driven Approach</q>. _Working paper_. 
 
 
 ## Working in Progress
