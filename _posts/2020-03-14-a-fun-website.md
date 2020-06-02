@@ -21,6 +21,9 @@ tags:
 1. [Dim sum dough magic](https://www.facebook.com/scmp/videos/2668404036729199)
 1. [Simpson's paradox](https://baike.baidu.com/item/%E8%BE%9B%E6%99%AE%E6%A3%AE%E6%82%96%E8%AE%BA)
 
+### 中文阅读
+1. [自我成长的力量](https://weread.qq.com/web/appreader/f43322f05dfad2f43e8dcc3?wfrom=app&wtheme=white&wvid=2736164)
+
 ### Another example for Simpson's paradox
 
  &emsp; | Patients | Deaths | Mortality Rate
