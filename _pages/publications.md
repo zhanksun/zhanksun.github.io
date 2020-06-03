@@ -19,13 +19,19 @@ author_profile: true
 
 ## Working in Progress
 
+* <q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.
+* <q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.
+* <q>Priority Scheduling when Job Type Information is not Free</q>, with H. Ouyang.
+* <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.
+
+<!---
 <ol start="9">
     <li><q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.</li>
     <li><q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.</li>
     <li><q>Priority Scheduling when Job Type Information is not Free</q>, with H. Ouyang.</li>
     <li><q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.</li>
 </ol>
-
+--->
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href=</q>{{author.googlescholar}}</q>>my Google Scholar profile</a>.</u>
