@@ -21,6 +21,8 @@ This is a list of papers that are of interest to me.
 ### Optimal control
   * Zhang, Mengzhenyu, et al. "Data-driven pricing for a new product." [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGp1aWNoYW5jb3xneDo1ZTc1NWIzNzBhZWU4Yjli)
 
+  * Susan H. Xu and Y. Quennel Zhao (1996) "[Dynamic Routing and Jockeying Controls in a Two-Station Queueing System.](https://www.jstor.org/stable/1428170?seq=1&cid=pdf-reference)" Advances in Applied Probability 28(4): 1201-1226. [PDF](/files/Dynamic routing and jockeying controls in a two-station queueing.pdf)
+
 ### Allocation indices and ADP
   * Jake Clarkson, Kevin D. Glazebrook, Kyle Y. Lin. "[Fast or Slow: Search in Discrete Locations with Two Search Modes](https://pubsonline.informs.org/doi/pdf/10.1287/opre.2019.1870)." _Operations Research_ 68(2) pp. 552-571. [PDF](/files/opre.2019.1870.pdf)
   * K. D. Glazebrook, C. Kirkbride, J. Ouenniche. (2009) "[Index Policies for the Admission Control and Routing of Impatient Customers to Heterogeneous Service Stations](https://doi.org/10.1287/opre.1080.0632)." _Operations Research_ 57(4) pp. 975-989. [PDF](/files/opre.1080.0632.pdf)
