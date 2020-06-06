@@ -17,8 +17,8 @@ author_profile: true
 
 ## Awards
 
-* Outstanding Reviewer, European Journal of Operational Research, April 2017
-* Excellence in Teaching Award, the University of North Carolina at Chapel Hill, December 2013
+* [Outstanding Reviewer](/files/OutstandingAward-EJOR.pdf), European Journal of Operational Research, April 2017
+* [Excellence in Teaching Award](/files/UNC-Teaching-Award.pdf), the University of North Carolina at Chapel Hill, December 2013
 * Nominated and selected for the INFORMS 2012 Future Academician Colloquium.
 * George E. Nicholson Award, the University of North Carolina at Chapel Hill, 2010.
 * Chery $21$<sup>st</sup> Century Son of East Scholarship, Tsinghua University, 2007.
