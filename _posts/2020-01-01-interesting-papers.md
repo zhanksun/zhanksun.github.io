@@ -18,10 +18,12 @@ This is a list of papers that are of interest to me.
 
   * Huiyin Ouyang, Nilay Tanık Argon, Serhan Ziya (2020) "[Allocation of Intensive Care Unit Beds in Periods of High Demand.](https://doi.org/10.1287/opre.2019.1876)" Operations Research 68(2):591-608. [PDF](/files/opre.2019.1876.pdf)
 
-### Optimal control
+### Queueing control
   * Zhang, Mengzhenyu, et al. "Data-driven pricing for a new product." [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGp1aWNoYW5jb3xneDo1ZTc1NWIzNzBhZWU4Yjli)
 
   * Susan H. Xu and Y. Quennel Zhao (1996) "[Dynamic Routing and Jockeying Controls in a Two-Station Queueing System.](https://www.jstor.org/stable/1428170?seq=1&cid=pdf-reference)" Advances in Applied Probability 28(4): 1201-1226. [PDF](/files/Dynamic routing and jockeying controls in a two-station queueing.pdf)
+
+  * Stidham, S., Weber, R. (1993) "[A survey of Markov decision models for control of networks of queues.](https://doi.org/10.1007/BF01158935)" Queueing Systems 13, 291–314. [PDF](/files/Stidham-Weber-1993.pdf)
 
 ### Allocation indices and ADP
   * Jake Clarkson, Kevin D. Glazebrook, Kyle Y. Lin. "[Fast or Slow: Search in Discrete Locations with Two Search Modes](https://pubsonline.informs.org/doi/pdf/10.1287/opre.2019.1870)." _Operations Research_ 68(2) pp. 552-571. [PDF](/files/opre.2019.1870.pdf)
