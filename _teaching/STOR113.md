@@ -15,7 +15,7 @@ This is an undergraduate course offered by the Department of Statistics and Oper
 Year | 2011 Fall | 2012 Spring | 2012 Summer
 :---: | :---: | :---: | :---: | :---:
 My Rating <sup>\*</sup> | **4.0** | **4.2** | **4.5** <sup>\#</sup>
-Department Avg. | **4.0** | **4.2** | **4.5**
+Department Avg. | **3.9** | **3.9** | **4.0**
 
 \*: scores based on a 5-point rating system. <br>
 \#: This is the first course I ever taught. I taught this course for three semesters. My teaching skills improved steadily, recognized by the Excellence in Teaching Award from UNC Chapel Hill.
