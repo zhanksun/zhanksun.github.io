@@ -9,7 +9,7 @@ author_profile: true
   * [Management Science](https://mc.manuscriptcentral.com/ms), [Operations Research](https://mc.manuscriptcentral.com/opre), [MSOM](https://mc.manuscriptcentral.com/msom), [POM](https://mc.manuscriptcentral.com/poms)
   * [IJOC](https://mc.manuscriptcentral.com/ijoc), [NRL](https://mc.manuscriptcentral.com/nrl), [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions), [EJOR](https://www.editorialmanager.com/EJOR/default.aspx?pg=mainpage.html), [OMEGA](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4), [IJF](https://mc.manuscriptcentral.com/ijf), [IJPR](https://mc.manuscriptcentral.com/tprs)
   * [IIE Transactions on Healthcare Systems Engineering](https://mc.manuscriptcentral.com/uhse)
-  * [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://mc.manuscriptcentral.com/systems)
+  * IEEE Transactions on Systems, Man, and Cybernetics: Systems
 
 ## Judge
   * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)
