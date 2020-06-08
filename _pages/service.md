@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 ## Reviewer
-  * [Management Science](https://mc.manuscriptcentral.com/ms), [Operations Research](https://mc.manuscriptcentral.com/opre), [MSOM](https://mc.manuscriptcentral.com/msom), [POM](https://mc.manuscriptcentral.com/poms)
-  * [IJOC](https://mc.manuscriptcentral.com/ijoc), [NRL](https://mc.manuscriptcentral.com/nrl), [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions), [EJOR](https://www.editorialmanager.com/EJOR/default.aspx?pg=mainpage.html), OMEGA, IJF, IJPR
+  * Management Science, Operations Research, MSOM, POM
+  * IJOC, NRL, IISE Transactions, EJOR, OMEGA, IJF, IJPR
   * IIE Transactions on Healthcare Systems Engineering
   * IEEE Transactions on Systems, Man, and Cybernetics: Systems
 
