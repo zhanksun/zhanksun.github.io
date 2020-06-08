@@ -39,9 +39,7 @@ author_profile: true
 <!--
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="22"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at.png" alt="Email" width="24"/>cityu.edu.hk
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.png" alt="WeChat QR Code" width="22"/>](/images/wechat-QR.jpg)
-
-<br/>☎️ **+** 8️⃣5️⃣2️⃣&nbsp;3️⃣4️⃣4️⃣2️⃣&nbsp;8️⃣6️⃣5️⃣0️⃣&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.png" alt="WeChat QR Code" width="20"/>](/images/wechat-QR.jpg)
-
+-->
 
 
 *[MSOM]: Manufacturing & Service Operations Management
