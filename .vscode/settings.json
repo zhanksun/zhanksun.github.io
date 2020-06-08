@@ -1,0 +1,15 @@
+{
+    "ltex.ignoreRuleInSentence": [
+        {
+            "rule": "UPPERCASE_SENTENCE_START",
+            "sentence": "^\\Qlayout: archive\ntitle: Service and Contact\npermalink: /service/\nauthor_profile: true\\E$"
+        },
+        {
+            "rule": "WHITESPACE_RULE",
+            "sentence": "^\\QContact\n268, 7/F, Lau Ming Wai Academic Building  City University of Hong Kong  83 Tat Chee Ave, Kowloon Tong  Hong Kong  zhankun.suncityu.edu.hk\\E$"
+        }
+    ],
+    "ltex.disabledRules": [
+        "WHITESPACE_RULE"
+    ]
+}

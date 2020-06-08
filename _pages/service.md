@@ -34,11 +34,6 @@ author_profile: true
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="21"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at6.png" alt="Email" width="16"/>cityu.edu.hk
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>
 
-
-<!--
-&nbsp;[<img style="float: center;" src="/images/emoji/wechat3.png" alt="WeChat QR" width="18"/>](/images/wechat-QR.jpg)
-󠁫
-<br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img src="/images/emoji/wechat6.png" alt="WeChat QR" width="18"/>](/images/wechat-QR.jpg)
 󠁫
 
 <!--
@@ -46,10 +41,6 @@ author_profile: true
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="18"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp; <img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.png" alt="WeChat QR Code" width="22"/>](/images/wechat-QR.jpg)
 
 <br/>☎️ **+** 8️⃣5️⃣2️⃣&nbsp;3️⃣4️⃣4️⃣2️⃣&nbsp;8️⃣6️⃣5️⃣0️⃣&nbsp;[<img style="float: center;" src="/images/emoji/wechat5.png" alt="WeChat QR Code" width="20"/>](/images/wechat-QR.jpg)
-
-
-<br/>☎️ **+** <img src="/images/emoji/keycap-digit-eight-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-five-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-two-microsoft.png" width="20"/>&nbsp; <img src="/images/emoji/keycap-digit-three-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-four-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-four-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-two-microsoft.png" width="20"/> &nbsp; <img src="/images/emoji/keycap-digit-eight-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-six-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-five-microsoft.png" width="20"/><img src="/images/emoji/keycap-digit-zero-microsoft.png" width="20"/> &nbsp;**([<img style="float: center;" src="/images/emoji/WeChat1.png" alt="WeChat" width="20"/>](https://zhanksun.github.io/images/wechat.jpg))**
--->
 
 
 
