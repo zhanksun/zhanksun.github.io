@@ -28,7 +28,8 @@ This is a Markov transition diagram for queueing system.
 \begin{document}
 
     \begin{tikzpicture}[font=\sffamily\small]
-        % Add the states
+        
+        % Add states for those in service
         \node[state,
               text=black,
               draw=blue] (s1) {1};
@@ -55,7 +56,7 @@ This is a Markov transition diagram for queueing system.
             (s2) edge[loop right]             node {$p_{22}$} (s2);
         \draw[black] ($(s1)+(-1.7,-1.5)$) rectangle (4.1,1.5) node[xshift=-5.2cm,yshift=-.3cm]{Service};
        
-       % Plot for queue
+       % Add states for those waiting in queue
         \node[state,
               right=2.5cm of s2,
               text=black, 
