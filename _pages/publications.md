@@ -19,7 +19,7 @@ author_profile: true
 
 ## Working in Progress
 
-* <q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.
+* <q>Allocation of Intensive Care Unit Beds with Patient Abandonment and Readmission</q>, with H. Ouyang.
 * <q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.
 * <q>Priority Scheduling when Job Type Information is not Free</q>, with H. Ouyang.
 * <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.
