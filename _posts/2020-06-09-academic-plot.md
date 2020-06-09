@@ -12,7 +12,7 @@ This is some random notes for myself on academic writing and $\LaTeX$.
 
 ### Markov Transition Diagram
 
-```
+```latex
 \documentclass{standalone}
 \usepackage{tikz}
 \usetikzlibrary{automata,positioning,calc}
