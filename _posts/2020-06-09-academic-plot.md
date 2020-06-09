@@ -13,7 +13,16 @@ This is some random notes for myself on academic writing and $\LaTeX$.
 ### Markov Transition Diagram
 
 ```
-\begin{tikzpicture}[font=\sffamily]
+\documentclass{standalone}
+\usepackage{tikz}
+\usetikzlibrary{automata,positioning,calc}
+\usepackage{color}
+\definecolor{gray97}{gray}{.97}
+\definecolor{gray75}{gray}{.75}
+\definecolor{gray45}{gray}{.45}
+\begin{document}
+
+    \begin{tikzpicture}[font=\sffamily\small]
         % Add the states
         \node[state,
               text=black,
@@ -21,11 +30,11 @@ This is some random notes for myself on academic writing and $\LaTeX$.
         \node[draw=none, below=.6cm of s1]   (s1exit)   {$p_{10}$};
         \node[state,
               right=1.5cm of s1,
-              text=black,
-              draw=blue,
+              text=black, 
+              draw=blue, 
               fill=none] (s2) {2};
         \node[draw=none, below=.6cm of s2]   (s2exit)   {$p_{20}$};
-
+              
         % Connect the states with arrows
         \draw[every loop,
         auto=none,
@@ -40,21 +49,21 @@ This is some random notes for myself on academic writing and $\LaTeX$.
             (s1) edge[loop left]             node {$p_{11}$} (s1)
             (s2) edge[loop right]             node {$p_{22}$} (s2);
         \draw[black] ($(s1)+(-1.7,-1.5)$) rectangle (4.1,1.5) node[xshift=-5.2cm,yshift=-.3cm]{Service};
-
+       
        % Plot for queue
         \node[state,
               right=2.5cm of s2,
-              text=black,
-              draw=black,
+              text=black, 
+              draw=black, 
               fill=gray75] (q1) {1};
         \node[draw=none, below=.6cm of q1]   (q1exit)   {$q_{10}$};
         \node[state,
               right=1.5cm of q1,
-              text=black,
-              draw=black,
+              text=black, 
+              draw=black, 
               fill=gray75] (q2) {2};
         \node[draw=none, below=.6cm of q2]   (q2exit)   {$q_{20}$};
-
+        
         % Connect the states with arrows
         \draw[every loop,
         auto=none,
@@ -69,6 +78,7 @@ This is some random notes for myself on academic writing and $\LaTeX$.
             (q1) edge[loop left]             node {$q_{11}$} (q1)
             (q2) edge[loop right]             node {$q_{22}$} (q2);
         \draw[black] ($(q1)+(4.2,-1.5)$) rectangle (4.1,1.5) node[xshift=.6cm,yshift=-.3cm]{Queue};
-\end{tikzpicture}
+    \end{tikzpicture}
 
+\end{document}
 ```
