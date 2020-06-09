@@ -18,8 +18,7 @@ This is a Markov transition diagram for queueing system.
 <img src="/images/ICU.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-
-*[comment]: ![Drag Racing](/images/ICU.png)
+     
 
 ### Codes
 
