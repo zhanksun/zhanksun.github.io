@@ -10,13 +10,18 @@ tags:
 This is some random notes for myself on academic writing and $\LaTeX$.
 
 
-### Markov Transition Diagram
+## Markov Transition Diagram
+
+### Plot
 
 This is a Markov transition diagram for queueing system. 
 <img src="/images/ICU.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" 
-/>
+     style="float: left; margin-right: 10px;" />
+
+![Drag Racing](/images/ICU.png)
+
+### Codes
 
 ```latex
 \documentclass{standalone}
