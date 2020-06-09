@@ -1,5 +1,5 @@
 ---
-title: 'Make Plots in Academic Papers'
+title: 'Make plots in academic papers'
 date: 2020-06-09
 permalink: /posts/academic-plots/
 tags:
