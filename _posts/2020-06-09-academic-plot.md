@@ -18,7 +18,7 @@ This is a Markov transition diagram for queueing system.
 <img src="/images/ICU.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
-     
+
 
 ### Codes
 
@@ -93,3 +93,6 @@ This is a Markov transition diagram for queueing system.
 
 \end{document}
 ```
+
+
+## ED Patient Flow 
