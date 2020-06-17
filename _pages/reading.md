@@ -1,11 +1,9 @@
 ---
 layout: archive #archive
-title: Reading Notes
-permalink: /reading/
+title: Literature on Queueing Routing
+permalink: /routing/
 author_profile: true
 ---
-
-# Literature on routing
 
 ## Exact Analysis
 
