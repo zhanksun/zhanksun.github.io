@@ -24,7 +24,7 @@ We present an introductory review of recent work on the control of open queueing
 
 This paper studies dynamic routing in a parallel server queueing network with a single Poisson arrival process and two servers with exponential processing times of different rates. Each customer must be routed at the time of arrival to one of the two queues in the network. We establish that this system operating under a threshold policy can be well approximated by a one-dimensional reflected Brownian motion when the arrival rate to the network is close to the processing capacity of the two servers. As the heavy traffic limit is approached, thresholds which grow at a logarithmic rate are critical in determining the behavior of the limiting system. We provide necessary and sufficient conditions on the growth rate of the threshold for (i) approximation of the network by a reflected Brownian motion (ii) positive recurrence of the limiting Brownian diffusion and (iii) asymptotic optimality of the threshold policy.
 
-![](/image/research/Teh-Ward-routing.png)
+![](/images/research/Teh-Ward-routing.png)
 
 **Summary**
 > 0. Asymptotic analysis
