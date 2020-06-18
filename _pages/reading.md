@@ -23,12 +23,20 @@ We present an introductory review of recent work on the control of open queueing
 #### 2. Teh, Y., Ward, A.R. Critical Thresholds for Dynamic Routing in Queueing Networks. Queueing Systems 42, 297–316 (2002).
 
 This paper studies dynamic routing in a parallel server queueing network with a single Poisson arrival process and two servers with exponential processing times of different rates. Each customer must be routed at the time of arrival to one of the two queues in the network. We establish that this system operating under a threshold policy can be well approximated by a one-dimensional reflected Brownian motion when the arrival rate to the network is close to the processing capacity of the two servers. As the heavy traffic limit is approached, thresholds which grow at a logarithmic rate are critical in determining the behavior of the limiting system. We provide necessary and sufficient conditions on the growth rate of the threshold for (i) approximation of the network by a reflected Brownian motion (ii) positive recurrence of the limiting Brownian diffusion and (iii) asymptotic optimality of the threshold policy.
+![](/research/Teh-Ward-routing.png)
+
+**Summary**
+> 0. Asymptotic analysis
 
 #### 3. Stolyar, A. (2005). OPTIMAL ROUTING IN OUTPUT-QUEUED FLEXIBLE SERVER SYSTEMS. Probability in the Engineering and Informational Sciences, 19(2), 141-189. 
 
-We consider a queuing system with multitype customers and nonhomogeneous flexible servers, in the heavy traffic asymptotic regime and under a complete resource pooling (CRP) condition. For the input-queued (IQ) version of such a system (with customers being queued at the system “entrance,” one queue per each type), it was shown in the work of Mandelbaum and Stolyar that a simple parsimonious Gcμ scheduling rule is optimal in that it asymptotically minimizes the system customer workload and some strictly convex queuing costs. In this article, we consider a different—output-queued (OQ)—version of the model, where each arriving customer must be assigned to one of the servers immediately upon arrival. (This constraint can be interpreted as immediate routing of each customer to one of the “output queues,” one queue per each server.) Consequently, the space of controls allowed for an OQ system is a subset of that for the corresponding IQ system.
+We consider a queuing system with multitype customers and nonhomogeneous flexible servers, in the heavy traffic asymptotic regime and under a complete resource pooling (CRP) condition. For the input-queued (IQ) version of such a system (with customers being queued at the system “entrance,” one queue per each type), it was shown in the work of Mandelbaum and Stolyar that a simple parsimonious $Gc\mu$ scheduling rule is optimal in that it asymptotically minimizes the system customer workload and some strictly convex queuing costs. In this article, we consider a different—output-queued (OQ)—version of the model, where each arriving customer must be assigned to one of the servers immediately upon arrival. We introduce the MinDrift routing rule for OQ systems (which is as simple and parsimonious as Gcμ) and show that this rule, in conjunction with arbitrary work-conserving disciplines at the servers, has asymptotic optimality properties analogous to those Gcμ rule has for IQ systems. A key element of the analysis is the notion of system server workload, which, in particular, majorizes customer workload. We show that (1) the MinDrift rule asymptotically minimizes server workload process among all OQ-system disciplines and (2) this minimal process matches the minimal possible customer workload process in the corresponding IQ system. As a corollary, MinDrift asymptotically minimizes customer workload among all disciplines in either the OQ or IQ system.
 
-We introduce the MinDrift routing rule for OQ systems (which is as simple and parsimonious as Gcμ) and show that this rule, in conjunction with arbitrary work-conserving disciplines at the servers, has asymptotic optimality properties analogous to those Gcμ rule has for IQ systems. A key element of the analysis is the notion of system server workload, which, in particular, majorizes customer workload. We show that (1) the MinDrift rule asymptotically minimizes server workload process among all OQ-system disciplines and (2) this minimal process matches the minimal possible customer workload process in the corresponding IQ system. As a corollary, MinDrift asymptotically minimizes customer workload among all disciplines in either the OQ or IQ system.
+**Summary**
+> 0. Asymptotic analysis
+> 1. $I$ types of customers; $J$ nonhomogeneous flexible servers; service rate $\mu_{ij}$, depends on **both customer type and server**
+> 2. Cost function: strictly convex $C_{j}(\cdot)$
+> 3. Main results: optimality of the MinDrift Rule
 
 ## Heuristics
 #### 1. Argon, N. T., Ding, L., Glazebrook, K. D., & Ziya, S. (2009). Dynamic routing of customers with general delay costs in a multiserver queuing system. Probability in the Engineering and Informational Sciences, 23(2), 175-203.
@@ -37,7 +45,7 @@ We consider a network of parallel service stations each modeled as a single-serv
 
 **Summary**
 > 1. Multiple parallel M/M/1 queues with genetic and dedicated customers
-> 2. General holding cost function, dependent on the server and  the number of customers in the queue, but NOT on the customer's type
+> 2. General holding cost function, dependent on the server and  the number of customers in the queue, **NOT on the customer's type**.
 > 3. Objective: minimize long-run average waiting cost by optimally routing an incoming genetic customer to one of the parallel queues
 > 4. Contribution: two heuristics, single-step policy improvement and Lagrangian relaxation
 > 5. Future direction: Another direction for future research would be to consider multiple types of generic customers each differing in their waiting costs. Such a generalization would be of particular interest to call centers that serve a heterogeneous group of users and seek ways of providing a better service for their more “valuable” customers. It would also be of interest in health care operations, for which patients have significantly different waiting cost structures depending on their health conditions.
@@ -46,6 +54,14 @@ We consider a network of parallel service stations each modeled as a single-serv
 
 We propose a general Markovian model for the optimal control of admissions and subsequent routing of customers for service provided by a collection of heterogeneous stations. Queue-length information is available to inform all decisions. Admitted customers will abandon the system if required to wait too long for service. The optimisation goal is the maximisation of reward rate earned from service completions, net of the penalties paid whenever admission is denied, and the costs incurred upon every customer loss through impatience. We show that the system is indexable under mild conditions on model parameters and give an explicit construction of an index policy for admission control and routing founded on a proposal of Whittle for restless bandits. We are able to gain insights regarding the strength of performance of the index policy from the nature of solutions to the Lagrangian relaxation used to develop the indices. These insights are strengthened by the development of performance bounds. Although we are able to assert the optimality of the index heuristic in a range of asymptotic regimes, the performance bounds are also able to identify instances where its performance is relatively weak. Numerical studies are used to illustrate and support the theoretical analyses.
 
+**Summary**
+> 1. SMDP model: admission control and routing impatient customers for service
+> 2. Each new customer must be either refused admission or routed to one of the $M$ stations; **customers are homogeneous**.
+> 3. Station $m$: service rate $\mu_{m,n}$, loss rate $\theta_{m,n}$, both depend on the number of customers $n$. 
+> 4. A service completion at station $m$ generates a reward $R_m$, a loss incurs a penalty $C_m$, and a rejection incurs a penalty $D$.
+> 5. Objective: maximize the average net reward per unit of time over an infinite horizon.
+> 6. Index heuristic and performance bound.
+
 
 #### 3. Ding, L., Glazebrook, K.D. Dynamic routing in distinguishable parallel queues: an application of product returns for remanufacturing. OR Spectrum 35, 585–608 (2013).
 
@@ -53,4 +69,4 @@ This paper deals with the dynamic routing of product returns in distinguishable 
 
 **Summary**
 
-> 1. 
+> This paper studies an application of the index policies; heuristic plus simulation.
