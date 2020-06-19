@@ -8,10 +8,13 @@ author_profile: true
 ## Exact Analysis
 
 
-#### Susan H. Xu and Y. Quennel Zhao (1996) Dynamic Routing and Jockeying Controls in a Two-Station Queueing System. Advances in Applied Probability 28(4): 1201-1226.
+#### 1. Susan H. Xu and Y. Quennel Zhao (1996) Dynamic Routing and Jockeying Controls in a Two-Station Queueing System. Advances in Applied Probability 28(4): 1201-1226.
 
 This paper studies optimal routing and jockeying policies in a two-station parallel queueing system. It is assumed that jobs arrive to the system in a Poisson stream with rate $\lambda$ and are routed to one of two parallel stations. Each station has a single server and a buffer of infinite capacity. The service times are exponential with server-dependent rates, $\mu_1$ and $\mu_2$. Jockeying between stations is permitted. The jockeying cost is cij when a job in station $i$ jockeys to station $j$, $i\ne j$. There is no cost when a new job joins either station. The holding cost in station $j$ is $h_j$, $h_1\leq h_2$, per job per unit time. We characterize the structure of the dynamic routing and jockeying policies that minimize the expected total (holding plus jockeying) cost, for both discounted and long-run average cost criteria. We show that the optimal routing and jockeying controls are described by three monotonically non-decreasing functions. We study the properties of these control functions, their relationships, and their asymptotic behavior. We show that some well-known queueing control models, such as optimal routing to symmetric and asymmetric queues, preemptive or non-preemptive scheduling on homogeneous or heterogeneous servers, are special cases of our system.
   
+#### 2. 
+
+
 
 ## Heavy Traffic Analysis
 
@@ -28,7 +31,7 @@ We present an introductory review of recent work on the control of open queueing
     * However, Whitt showed that JSQ is not optimal for general service times even with Poisson arrival process. **Intuition**:  there exists a service time distribution such that when the difference between the numbers in the two queues is small, the longer queue is likely to have a sudden series of departures and hence be a better choice.
     * **Other interesting results**: In heavy traffic, the two-server system behaves like a pooled system.
 > 2. SED rule: join the queue with the shorter expected delay. Whitt showed that it is not optimal in general even for Poisson arrival and exponential service times. However, Houck showed via simulation that it is close to being optimal in many cases.
-> 3. ff
+> 3. Reiman, heavy traffic analysis
 <img src="/images/research/Reiman-routing.png" width="400">
 
 
