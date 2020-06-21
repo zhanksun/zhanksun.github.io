@@ -11,6 +11,9 @@ author_profile: true
 
 This paper studies theadmission andscheduling control problem in an $M/M/2$ queueing system with nonidentical processors. Admission control renders when a newly arrived job should be accepted, whereas scheduling control determines when an available processor should be utilized. The system received a rewardR when a job completes its service and pays a unit holding costC while a job is in the system. The main goal of the paper is to obtain the admission/scheduling policy that maximizes the expected discounted and long-run average profits (reward minus cost). We convert the system into its dual, a stochastically identical system subject toexpulsion/scheduling control, and prove that the individually optimal policy in the dual system is socially optimal in the original system. In contrast with the dynamic programming (DP) technique which considers the system as a whole, we adopt the viewpoint of an individual job and analyze the impact of its behavior on the social outcome. The key properties which simplify the analysis are that under the individually optimal policy the profit of a job under the preemptive last-come first-priority service discipline (LCFP-P) is independent of jobs arrived earlier than itself and that the system is insensitive to service discipline imposed. The former makes possible to bypass complex dynamic programming analyses and the latter serves as a vehicle in connecting the social and individual optimality. We also exploit system operational characteristics under LCFP-P to obtain simple and close approximations of the optimal thresholds.
 
+**Summary**
+> 1. 
+
 
 
 #### 2. 
