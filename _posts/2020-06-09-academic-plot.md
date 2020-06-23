@@ -7,7 +7,7 @@ tags:
   - academic
 ---
 
-This is some random notes for myself on academic writing and $\LaTeX$.
+This is example plots by $\LaTeX$ package **tikz**.
 
 
 ## Markov Transition Diagram
