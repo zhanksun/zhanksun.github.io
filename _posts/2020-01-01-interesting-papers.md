@@ -18,6 +18,8 @@ This is a list of papers that are of interest to me.
 
   * Huiyin Ouyang, Nilay Tanık Argon, Serhan Ziya (2020) [Allocation of Intensive Care Unit Beds in Periods of High Demand](https://doi.org/10.1287/opre.2019.1876). Operations Research 68(2):591-608. [PDF](/files/opre.2019.1876.pdf)
 
+  * Liu, Nan, Serhan Ziya, and Vidyadhar G. Kulkarni. [Dynamic scheduling of outpatient appointments under patient no-shows and cancellations](https://pubsonline.informs.org/doi/abs/10.1287/msom.1090.0272) Manufacturing & Service Operations Management 12.2 (2010): 347-364. [PDF](/files/msom.1090.0272.pdf)
+
 ### Queueing control
   * Zhang, Mengzhenyu, et al. Data-driven pricing for a new product. [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGp1aWNoYW5jb3xneDo1ZTc1NWIzNzBhZWU4Yjli)
 
