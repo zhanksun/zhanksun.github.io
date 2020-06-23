@@ -9,7 +9,10 @@ author_profile: true
   * Management Science, Operations Research, MSOM, POM
   * IJOC, NRL, IISE Transactions, EJOR, OMEGA, IJF, IJPR
   * IIE Transactions on Healthcare Systems Engineering
-  * IEEE Transactions on Systems, Man, and Cybernetics: Systems
+
+  <!--
+  IEEE Transactions on Systems, Man, and Cybernetics: Systems
+  -->
 
 ## Judge
   * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)
