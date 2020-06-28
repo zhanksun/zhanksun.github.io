@@ -38,6 +38,10 @@ This is a list of papers that are of interest to me.
   * Hrayer Aprahamian, Douglas R. Bish, Ebru K. Bish (2019) [Optimal Risk-Based Group Testing](https://doi.org/10.1287/mnsc.2018.3138). _Management Science_ 65(9):4365-4384. [PDF](/files/mnsc.2018.3138.pdf)
   * Lawrence M. Wein and  Stefanos A. Zenios (1996) [Pooled Testing for HIV Screening: Capturing the Dilution Effect](https://doi.org/10.1287/opre.44.4.543). _Operations Research_ 44(4) pp. 543-569. [PDF](/files/opre.44.4.543.pdf)
 
+### Counter-Terrorism Strategy
+  *  Kaplan, Edward H. [Terror queues](https://doi.org/10.1287/opre.1100.0831). Operations Research 58.4-part-1 (2010): 773-784. [PDF](/files/opre.1100.0831.pdf)
+
+
 ### Data science
   * William S. Cleveland. [An Action Plan for Expanding the Technical Areas of the Field of Statistics](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00477.x). [PDF](/files/DataScience.pdf)
 
