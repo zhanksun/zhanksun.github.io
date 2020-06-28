@@ -39,7 +39,7 @@ This is a list of papers that are of interest to me.
   * Lawrence M. Wein and  Stefanos A. Zenios (1996) [Pooled Testing for HIV Screening: Capturing the Dilution Effect](https://doi.org/10.1287/opre.44.4.543). _Operations Research_ 44(4) pp. 543-569. [PDF](/files/opre.44.4.543.pdf)
 
 ### Counter-Terrorism Strategy
-  *  Kaplan, Edward H. [Terror queues](https://doi.org/10.1287/opre.1100.0831). Operations Research 58.4-part-1 (2010): 773-784. [PDF](/files/opre.1100.0831.pdf)
+  *  Kaplan, Edward H. [Terror queues](https://doi.org/10.1287/opre.1100.0831). Operations Research 58.4 (2010): 773-784. [PDF](/files/opre.1100.0831.pdf)
 
 
 ### Data science
