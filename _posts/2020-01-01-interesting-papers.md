@@ -40,7 +40,7 @@ This is a list of papers that are of interest to me.
 
 ### Counter-Terrorism Strategy
   *  Kaplan, Edward H. [Terror queues](https://doi.org/10.1287/opre.1100.0831). Operations Research 58.4 (2010): 773-784. [PDF](/files/opre.1100.0831.pdf)
-
+  * Atkinson, Michael, Moshe Kress, and Rutger-Jan Lange. [When is information sufficient for action? Search with unreliable yet informative intelligence](https://doi.org/10.1287/opre.2016.1488). Operations Research 64.2 (2016): 315-328. [PDF](/files/opre.2016.1488.pdf)
 
 ### Data science
   * William S. Cleveland. [An Action Plan for Expanding the Technical Areas of the Field of Statistics](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2001.tb00477.x). [PDF](/files/DataScience.pdf)
