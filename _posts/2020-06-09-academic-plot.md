@@ -128,18 +128,12 @@ pics/Room/.style args={#1}{
     \draw [very thick] (0.7,0) -- (0.7,-0.5);
     \node[draw=none, thick, minimum width=8mm, minimum height=5mm] () at (0.6,-0.25) {#1};
   }},
-dots/.style 2 args=
-{decorate,decoration={shape backgrounds,shape=circle,shape size=#1,shape sep=#2}}
+dots/.style 2 args={decorate,decoration={shape backgrounds,shape=circle,shape size=#1,shape sep=#2}}
 }
 
 \begin{document}
 
 \begin{tikzpicture}[auto, very thick, node distance=2cm, font=\sffamily\small]
-% grid:
-% \draw[help lines,step=5mm,gray] (0,0) grid (16,3);
-% \draw[help lines,step=5mm,gray] (0,0) grid (16,-3);
-\draw[step=5mm,draw=none] (0,0) grid (16,3);
-\draw[step=5mm,draw=none] (0,0) grid (16,-3);
 
 \draw
     node [order](triage){triage}
