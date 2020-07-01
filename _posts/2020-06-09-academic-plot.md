@@ -95,7 +95,7 @@ fill=none]
 ## ED Patient Flow 
 ### Plot
 
-This is a Markov transition diagram for queueing system. 
+This is a plot of patient flow in hospital emergency department.
 <img src="/images/ED.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
