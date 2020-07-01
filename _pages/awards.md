@@ -7,7 +7,7 @@ author_profile: true
 
 ## Funding
 
-* General Research Fund, The Hong Kong Research Grants Council, 2020-2022, $651,380.
+* General Research Fund, The Hong Kong Research Grants Council, 2020-2022, $651,380[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11504620&old_proj_id=null&proj_title=&isname=&ioname=&institution=CityU&subject=B&pages=2&year=2020&theSubmit=11504620)
 * General Research Fund (Early Career Scheme), The Hong Kong Research Grants Council, 2018-2020, $483,340.
 * Teaching Start-Up Grant, City University of Hong Kong, 2017-2018.
 * Start-Up grant, City University of Hong Kong, 2016-2018, $300,000.
