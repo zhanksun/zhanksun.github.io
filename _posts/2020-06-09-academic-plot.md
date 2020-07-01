@@ -156,7 +156,6 @@ dots/.style 2 args=
     node [block, below of=assess, yshift=1cm](test){test}
     node [block, below right of=next, xshift=16mm, yshift=-1mm](assessN){assess}
     node [order, right of=assessN](N){N}
-    
     node [block, below of=assessN, yshift=1cm](testN){test}
     node [block, fill=buff, above right of=assessN, align=center, inner sep=3pt, minimum height=1cm, xshift=3.8cm, yshift=-6.5mm, font=\sffamily\small](boarding){ED \\ boarding}
 ;
