@@ -203,8 +203,7 @@ dots/.style 2 args=
 ;
 \end{scope}
 
-%\node[above,font=\sffamily\bfseries] at (current bounding box.north) {Figure 2 \hspace{3mm} The general patient flow in an emergency department.};
-
 \end{tikzpicture}
+
 \end{document}
 ```
