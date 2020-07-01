@@ -8,7 +8,7 @@ author_profile: true
 ## Funding
 
 * General Research Fund, The Hong Kong Research Grants Council, 2020-2022
-* PI: "Prediction and Optimal Control of Triage Nurse Ordering: A Data-Driven Approach to Improve Patient Flow in Hospital Emergency Departments", Early Career Scheme - The Hong Kong Research Grants Council , Amount: 483,340 (2018-2020), Zhankun Sun
+* PI: "Prediction and Optimal Control of Triage Nurse Ordering: A Data-Driven Approach to Improve Patient Flow in Hospital Emergency Departments", Early Career Scheme - The Hong Kong Research Grants Council, Amount: 483,340 (2018-2020), Zhankun Sun
 * Teaching Start-Up Grant, City University of Hong Kong, 2017-2018
 * Start-Up grant, City University of Hong Kong, 2016-2018
 * O'Brien Institute for Public Health Research Catalyst Funds, 2016-2017
