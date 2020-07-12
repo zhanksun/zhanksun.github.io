@@ -14,7 +14,7 @@ I hold a bachelor degree in Industrial Engineering from [Tsinghua University](ht
 
 My research interests are within the area of modeling, analysis, and control of stochastic systems. I am particularly interested in applications that arise from healthcare operations, such as emergency response management in the aftermath of mass-casualty events and patient flow management in hospital emergency departments. I am exploring applications in the filed of smart city operations.
 
-I am recruting motivated PhD students now.
+I am recruting motivated PhD students now. Feel free to contact me if you are interested.
 
 [comment]: # (Here is my Curriculum Vitae [\[PDF\]](https://www.dropbox.com/s/afbiukkav30uuko/CV_Zhankun_v2.pdf?dl=0).)
 <!---
