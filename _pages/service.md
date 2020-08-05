@@ -20,7 +20,7 @@ author_profile: true
   * Pierskalla Best Paper Award - Health Applications Society (2019 DC)
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
-  * MSOM Healthcare SIG Workshop (2020 Banff) 
+  * MSOM Healthcare SIG Workshop (2020 Banff)
 
 ## Others
   * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
@@ -31,7 +31,7 @@ author_profile: true
 
 
 ## Contact
-268, 7/F, Lau Ming Wai Academic Building
+266, 7/F, Lau Ming Wai Academic Building
 <br/> City University of Hong Kong
 <br/> 83 Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
