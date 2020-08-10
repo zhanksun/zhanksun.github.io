@@ -10,6 +10,12 @@ author_profile: true
 
 ### Aug 10, 2020
 
-  1. ff
-  1. 2ff
-  1. fff
+  1. POM paper with Nilay: finish the revision
+    * Mostly done with the theoretical part; how to revise the structure of the paper;
+    * Start working on the simulation part: what to include
+  1. Paper with Yuqian: finish soon
+    * Simulation
+  1. Paper with Cheng: finish soon
+    * Mainly editing work
+  1. POM paper with Marco and Farzad: revision
+  2. 
