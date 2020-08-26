@@ -12,6 +12,8 @@ author_profile: true
 
   1. POM paper with Nilay: finish the revision
     - [x] Mostly done with the theoretical part; how to revise the structure of the paper; <span style="color:red"> **Due date: Aug 31, 2020** </span>
+      1. Write down the optimality equations for the long-run average cost model with general triage service times and non-preemptive service discipline
+      2. Show it is suboptimal to triage when $x_0=1,x_2\geq 2.$ Perhaps, we can use sample path argument.
     - [ ] Start working on the simulation part: what to include <span style="color:red"> **Due date: Aug 31, 2020** </span>
   1. Paper with Yuqian: finish soon
     - [ ] Simulation <span style="color:red"> **Due date: Aug 21, 2020** </span>
