@@ -20,6 +20,7 @@ A list of journals that I have served as a reviewer, or I have submitted at leas
 
 ### Other journals in Operations Research
 
+  * [Queueing Systems](https://www.editorialmanager.com/ques/Default.aspx)
   * [Naval Research Logistics](https://mc.manuscriptcentral.com/nrl)
   * [IIE Transactions on Healthcare Systems Engineering](https://mc.manuscriptcentral.com/uhse)
   * [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions)
