@@ -22,6 +22,7 @@ A list of journals that I have served as a reviewer, or I have submitted at leas
 
   * [Queueing Systems](https://www.editorialmanager.com/ques/Default.aspx)
   * [Naval Research Logistics](https://mc.manuscriptcentral.com/nrl)
+  * [Decision Sciences](https://mc.manuscriptcentral.com/dsj)
   * [IIE Transactions on Healthcare Systems Engineering](https://mc.manuscriptcentral.com/uhse)
   * [IISE Transactions](https://mc.manuscriptcentral.com/iietransactions)
   * [European Journal of Operational Research](https://www.editorialmanager.com/EJOR/default.aspx?pg=mainpage.html)
