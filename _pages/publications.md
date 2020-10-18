@@ -14,7 +14,7 @@ author_profile: true
 <!--
 (Former title: Semi-Orthogonal Non-Negative Matrix Factorization with an Application in Text Mining)
 -->
-* Farzad Zaerpour, Marco Bijvank, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _In revision_. [\[Abstract\]](/abstract/ED-Physician-Scheduling) [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3519625)
+* Farzad Zaerpour, Marco Bijvank, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _In revision_. [\[Abstract\]](/abstract/ED-Physician-Scheduling)
 <!--
 * Farzad Zaerpour, Marco Bijvank, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, in revision_. [\[Abstract\]](/abstract/ED-Physician-Scheduling) [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3519625)-->
 * Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Under review_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle.pdf)
