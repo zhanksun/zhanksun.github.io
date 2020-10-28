@@ -20,7 +20,7 @@ author_profile: true
 * Farzad Zaerpour, Marco Bijvank, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, in revision_. [\[Abstract\]](/abstract/ED-Physician-Scheduling) [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3519625)
 -->
 
-* Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Under review_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle.pdf)
+* Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _In Revision_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle.pdf)
 * Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
 * Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
 
