@@ -9,6 +9,7 @@ author_profile: true
   * Management Science, Operations Research, MSOM, POM
   * IJOC, NRL, IISE Transactions, EJOR, OMEGA, IJF, IJPR
   * IIE Transactions on Healthcare Systems Engineering
+  * Decision Sciences
 
   <!--
   IEEE Transactions on Systems, Man, and Cybernetics: Systems
@@ -20,7 +21,7 @@ author_profile: true
   * Pierskalla Best Paper Award - Health Applications Society (2019 DC)
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
-  * MSOM Healthcare SIG Workshop (2020 Banff) 
+  * MSOM Healthcare SIG Workshop (2020 Banff)
 
 ## Others
   * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
