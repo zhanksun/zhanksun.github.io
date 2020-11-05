@@ -11,7 +11,7 @@ author_profile: true
 * Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, 3rd round review_. [\[Abstract\]](/abstract/MS-Self-Replicating) [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3345311)
 * Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, in revision_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle.pdf)
 * **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management, in revision_. [\[Abstract\]](/abstract/When-to-Triage) [\[pdf\]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3346173)
-* Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Topic Modeling on Triage Notes with Semi-Orthogonal Non-negative Matrix Factorization</q>. _Journal of the American Statistical Association, 2nd round review_. [\[Abstract\]](/abstract/ED-Text-Mining) [\[pdf\]](https://arxiv.org/abs/1805.02306)
+* Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Topic Modeling on Triage Notes with Semi-Orthogonal Non-negative Matrix Factorization</q>. _Journal of the American Statistical Association, minor revision_. [\[Abstract\]](/abstract/ED-Text-Mining) [\[pdf\]](https://arxiv.org/abs/1805.02306)
 <!--
 (Former title: Semi-Orthogonal Non-Negative Matrix Factorization with an Application in Text Mining)
 -->
