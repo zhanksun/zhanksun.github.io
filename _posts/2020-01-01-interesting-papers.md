@@ -2,7 +2,7 @@
 title: 'Interesting papers'
 date: 2025-01-01
 permalink: /posts/paper-of-interest/
-tags:  
+tags:
   - academic
   - operations research
 ---
@@ -10,6 +10,9 @@ tags:
 This is a list of papers that are of interest to me.
 
 ## Paper List:
+
+### Smart City Operations
+  * Shone, Rob, Kevin Glazebrook, and Konstantinos G. Zografos. [Applications of stochastic modeling in air traffic management: Methods, challenges and opportunities for solving air traffic problems under uncertainty](https://www.sciencedirect.com/science/article/pii/S0377221720309164). _European Journal of Operational Research_ (2020). [PDF](/files/EJOR-stochastic-modeling-air-traffic-management.pdf)
 
 ### Healthcare
   * Mu, Liying, et al. [Milking the quality test: Improving the milk supply chain under competing collection intermediaries](https://doi.org/10.1287/mnsc.2015.2171). _Management Science_ 62.5 (2016): 1259-1277. [PDF](/files/mnsc.2015.2171.pdf)
