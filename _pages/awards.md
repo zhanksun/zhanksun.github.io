@@ -13,7 +13,9 @@ author_profile: true
 * **PI** - Teaching Start-Up Grant, City University of Hong Kong, 2017-2018, HK$41,862.
 * **PI** - Start-Up Grant, City University of Hong Kong, 2016-2018, HK$300,000.
 * Research Catalyst Funds, O'Brien Institute for Public Health, Canada, 2016-2017.
+<!--
 * Eyes High Postdoctoral Fellowship, University of Calgary, 2014.
+-->
 * Graduate Student Transportation Grant, the University of North Carolina at Chapel Hill, 2013.
 * Graduate Student Fellowship, Statistical and Applied Mathematical Sciences Institute (SAMSI), 2012.
 
