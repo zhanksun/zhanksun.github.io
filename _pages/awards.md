@@ -12,7 +12,7 @@ author_profile: true
 * **PI** - General Research Fund (ECS), The Hong Kong Research Grants Council, 2018-2020, HK$483,340[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=21500517&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=21500517)
 * **PI** - Teaching Start-Up Grant, City University of Hong Kong, 2017-2018, HK$41,862.
 * **PI** - Start-Up Grant, City University of Hong Kong, 2016-2018, HK$300,000.
-* Research Catalyst Funds, O'Brien Institute for Public Health, Canada, 2016-2017.
+* Research Catalyst Funds, O'Brien Institute for Public Health, Alberta, Canada, 2016-2017.
 <!---
 * Eyes High Postdoctoral Fellowship, University of Calgary, 2014.
 --->
