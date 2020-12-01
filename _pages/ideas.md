@@ -1,7 +1,7 @@
 ---
 layout: archive #archive
 title: Literature on Queueing Routing
-permalink: /research-next-step/
+permalink: /ideas/
 author_profile: true
 ---
 
