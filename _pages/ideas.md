@@ -13,7 +13,12 @@ author_profile: true
 
 ## Next step
 1. ED patient prioritization
-    2. Choice model: waiting for room (patient chosen by nurses)
-    3. Choice model: initial assessment (patient chosen by physicians)
-    4. Non-aligned objectives might lead to inefficiency
+    1. Choice model: waiting for room (patient chosen by nurses)
+    1. Choice model: initial assessment (patient chosen by physicians)
+    1. Non-aligned objectives might lead to inefficiency
 2. ED double bottlenecks: Bed + Physicians
+    2. Stochastic modeling (SOQN, Jia and Heragu 2009, Operations Research)
+    2. Fluid model (MMFQ, Carmen et al. 2018, EJOR)
+    2. Perturbation analysis
+    2. So-what: ED surging plan
+3. ED specialist: stochastic clearing system [PDF](/files/He-StochasticClearingSystem.pdf)
