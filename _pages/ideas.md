@@ -5,8 +5,8 @@ permalink: /ideas/
 author_profile: true
 ---
 
-## Ongoing
+## Ongoing work
 
 
 
-## Next Step
+## Next step
