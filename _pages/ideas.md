@@ -1,6 +1,6 @@
 ---
 layout: archive #archive
-title: Research Plan
+title: Research Ideas
 permalink: /ideas/
 author_profile: true
 ---
@@ -12,8 +12,8 @@ author_profile: true
 3.
 
 ## Next step
-Project 1. ED patient prioritization
+1. ED patient prioritization
     2. Choice model: waiting for room (patient chosen by nurses)
     3. Choice model: initial assessment (patient chosen by physicians)
     4. Non-aligned objectives might lead to inefficiency
-Project 2. ED double bottlenecks: Bed + Physicians
+2. ED double bottlenecks: Bed + Physicians
