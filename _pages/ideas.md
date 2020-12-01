@@ -5,8 +5,8 @@ permalink: /ideas/
 author_profile: true
 ---
 
-## Ongoing work
+## Ongoing
 
-
+1. FT routing paper: writing, new simulation, conclusion 
 
 ## Next step
