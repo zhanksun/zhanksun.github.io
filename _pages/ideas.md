@@ -5,11 +5,17 @@ permalink: /ideas/
 author_profile: true
 ---
 
+## Tasks
+
+* Cheng's paper editing
+* OR Letter paper editing
+* EJOR paper editing
+* Chinook paper
+
 ## Ongoing
 
 1. FT routing paper: writing, new simulation, conclusion **submit by early January 2021**
 2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT)
-3. Two small papers
 4. Medical paper: the impact of ED census on ED decision making
 
 ## Next step
@@ -24,4 +30,4 @@ author_profile: true
     2. So-what: ED surging plan
 3. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
 4. Data from Cathy Pacific: optimize then predict
-5. Clear energy
+5. Clean energy
