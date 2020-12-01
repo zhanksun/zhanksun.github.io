@@ -22,6 +22,6 @@ author_profile: true
     2. Fluid model (MMFQ, Carmen et al. 2018, EJOR)
     2. Perturbation analysis
     2. So-what: ED surging plan
-3. ED specialist: stochastic clearing system [\[PDF\](/files/He-StochasticClearingSystem.pdf)
+3. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
 4. Data from Cathy Pacific: optimize then predict
 5. Clear energy
