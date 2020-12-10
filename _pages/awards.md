@@ -8,7 +8,6 @@ author_profile: true
 ## Funding
 
 * **PI** - General Research Fund, The Hong Kong Research Grants Council, 2020-2022, HK$651,380[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11504620&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11504620)
-
 <!---
 * **PI** - Strategic Research Grant, City University of Hong Kong, 2019-2021, HK$100,000.
 --->
