@@ -22,6 +22,7 @@ author_profile: true
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
   * MSOM Healthcare SIG Workshop (2020 Banff)
+
 <!---
 ## Others
   * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
