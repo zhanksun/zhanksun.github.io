@@ -3,7 +3,7 @@ layout: archive
 title: Topic Modeling on Triage Notes with Semi-Orthogonal Non-negative Matrix Factorization
 permalink: /abstract/ED-Text-Mining
 venue: by Y. Li, R. Zhu, Annie Qu, H. Ye, Z. Sun
-date: 2019
+date: 2020
 author_profile: true
 ---
 
