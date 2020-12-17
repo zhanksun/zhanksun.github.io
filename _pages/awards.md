@@ -28,7 +28,3 @@ author_profile: true
 * George E. Nicholson Award[,](/files/UNC-Nicholson-Award.pdf) the University of North Carolina at Chapel Hill, 2010.
 * Chery 21<sup>st</sup> Century Son of East Scholarship, Tsinghua University, 2007.
 * First prize in Physics Olympiad, China, 2003.
-
-[download](/files/Exam1.docx)
-
-[download](https://zhanksun.github.io/files/Exam1.docx)
