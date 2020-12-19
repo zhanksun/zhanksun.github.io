@@ -1,5 +1,5 @@
 ---
-title: 'Discrete Choice Model'
+title: 'Paper Reading Notes'
 date: 2030-03-14
 permalink: /posts/2030/03/paper-reading-notes/
 tags:
