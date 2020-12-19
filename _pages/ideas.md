@@ -14,7 +14,7 @@ author_profile: true
 
 ## Ongoing
 
-1. FT routing paper: writing, new simulation, conclusion **submit by early January 2021**
+1. FT routing paper: writing, new simulation, conclusion **submit by January 2021**
 2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT)
 4. Medical paper: the impact of ED census on ED decision making
 
