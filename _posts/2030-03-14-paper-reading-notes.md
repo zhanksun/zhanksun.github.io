@@ -17,7 +17,7 @@ Although discrete-choice statistical techniques have been used with increasing r
 
 #### 2. Chen, Wanyi, et al. "The effects of emergency department crowding on triage and hospital admission decisions." The American journal of emergency medicine 38.4 (2020): 774-779.
 
-Conclusion: Increased ED occupancy was found to be associated with more patients being classifiedas higher acuity as well as higher hospital admission rates. As an example, for a commonly observed patient category, ourmodel predicts that as the ED occupancy increases from 25 to 75 patients, the probability of a patient beingtriaged as high acuity increases by about 50% and the probability of a patient being categorized as admit increasesby around 25%.
+>Conclusion: Increased ED occupancy was found to be associated with more patients being classifiedas higher acuity as well as higher hospital admission rates. As an example, for a commonly observed patient category, ourmodel predicts that as the ED occupancy increases from 25 to 75 patients, the probability of a patient beingtriaged as high acuity increases by about 50% and the probability of a patient being categorized as admit increasesby around 25%.
 
 ED census refers tothe total number of patients in the ED, i.e., the number of patients in thewaiting room and those occupying a bed.
 
