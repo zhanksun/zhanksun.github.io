@@ -8,8 +8,8 @@ author_profile: true
 ## Funding
 
 * **co-PI** - Collaborative Research Fund (CRF), The Hong Kong Research Grants Council, 2020-2022, HK$3,952,247[.](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/20-21.html)
-* **PI** - General Research Fund, The Hong Kong Research Grants Council, 2020-2022, HK$651,380[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11504620&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11504620)
-* **PI** - General Research Fund (ECS), The Hong Kong Research Grants Council, 2018-2020, HK$483,340[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=21500517&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=21500517)
+* **PI** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2020-2022, HK$651,380[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11504620&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11504620)
+* **PI** - General Research Fund (GRF/ECS), The Hong Kong Research Grants Council, 2018-2020, HK$483,340[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=21500517&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=21500517)
 * **PI** - Teaching Start-Up Grant, City University of Hong Kong, 2017-2018, HK$41,862.
 * **PI** - Start-Up Grant, City University of Hong Kong, 2016-2018, HK$300,000.
 * Research Catalyst Funds, O'Brien Institute for Public Health, Alberta, Canada, 2016-2017.
