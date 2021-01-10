@@ -13,7 +13,7 @@ author_profile: true
 * Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, in revision_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle.pdf)
 * **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management, under 2nd round review_. [\[Abstract\]](/abstract/When-to-Triage) [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
 * Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, under 2nd round review_. [\[Abstract\]](/abstract/ED-Physician-Scheduling) [\[pdf\]](/files/Physician_Rostering_v4.pdf)
-* Junyang Wang, Huiyin Ouyang, **Zhankun Sun**, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
+* Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 * Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
   - Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 * Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
