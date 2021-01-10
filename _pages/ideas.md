@@ -4,9 +4,15 @@ title: Research Ideas
 permalink: /ideas/
 author_profile: true
 ---
+## Researchers of interest
+* Prof. Nan Liu [(website)](https://sites.google.com/site/nanliuacademic/research)
+* Prof. Armann Ingolfsson [(website)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ)
+* Prof. Serhan Ziya [(website)](https://scholar.google.com/citations?hl=en&user=EFUfwAMAAAAJ&view_op=list_works&sortby=pubdate)
+* Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
 
 ## Tasks
 
+* Queueing paper: value of information
 * Cheng's paper editing
 * OR Letter paper editing
 * EJOR paper editing
@@ -29,5 +35,7 @@ author_profile: true
     2. Perturbation analysis
     2. So-what: ED surging plan
 3. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
-4. Data from Cathy Pacific: optimize then predict
+4. With Lishuai:
+    * Drone delivery
+    * Data from Cathy Pacific: optimize then predict
 5. Clean energy
