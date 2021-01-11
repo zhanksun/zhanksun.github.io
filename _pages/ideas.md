@@ -22,7 +22,9 @@ author_profile: true
 
 1. FT routing paper: writing, new simulation, conclusion **submit by January 2021**
 2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT)
+    * **Perhanps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability.
 4. Medical paper: the impact of ED census on ED decision making
+5. ED staffing with PPH: waiting time estimation
 
 ## Next step
 1. ED patient prioritization
@@ -38,4 +40,4 @@ author_profile: true
 4. With Lishuai:
     * Drone delivery
     * Data from Cathy Pacific: optimize then predict
-5. Clean energy
+5. Clean energy with Xiaowei
