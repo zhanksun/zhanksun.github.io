@@ -14,8 +14,6 @@ I received my bachelor's degree in Industrial Engineering from [Tsinghua Univers
 
 My research interests are within the area of modeling, analysis, and control of stochastic systems. I am particularly interested in applications that arise from healthcare operations, such as emergency response management in the aftermath of mass-casualty events and patient flow management in hospital emergency departments. I am also interested and exploring applications in the field of smart city operations, including urban transportation and green energy.
 
-I am accepting motivated Ph.D. students. Feel free to contact me if you are interested.
-
 <!---
 I am also a big fan of North Carolina Tar Heels ([GoHeels](https://twitter.com/GoHeels)). My favorite sports are badminton, hiking, and soccer.
 --->
