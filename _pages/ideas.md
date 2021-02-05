@@ -20,11 +20,12 @@ author_profile: true
 
 ## Ongoing
 
-1. FT routing paper: writing, new simulation, conclusion **submit by January 2021**
+1. FT routing paper: writing, new simulation, conclusion **submit by February 2021**
 2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT)
     * **Perhanps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability.
-4. Medical paper: the impact of ED census on ED decision making
+4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients)
 5. ED staffing with PPH: waiting time estimation
+6. Waiting time prediction with patient prioritization
 
 ## Next step
 1. ED patient prioritization
