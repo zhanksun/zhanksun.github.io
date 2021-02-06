@@ -24,17 +24,13 @@ author_profile: true
 
 * Michele Foster, **Zhankun Sun**, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Association of Emergency Physicians Annual Conference_. Edmonton, 2015. [\[Abstract\]](https://cumming.ucalgary.ca/sites/default/files/teams/127/abs.%20optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf) [\[pdf\]](/files/abs. optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
 
+
+<!---
 ## Working in Progress
 
 * <q>Allocation of Intensive Care Unit Beds with Patient Abandonment and Readmission</q>, with H. Ouyang.
 * <q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.
 * <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.
-
-<!---
-
-* <q>Priority Scheduling when Job Type Information is not Free</q>, with H. Ouyang.
-
-* <q>Dynamic Appointment Scheduling With Partial Patient Cancellation Information</q>, with Frank Y. Chen, et al.
 
 <ol start="9">
     <li><q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.</li>
