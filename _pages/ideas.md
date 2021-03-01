@@ -8,6 +8,7 @@ author_profile: true
 * Prof. Nan Liu [(website)](https://sites.google.com/site/nanliuacademic/research)
 * Prof. Armann Ingolfsson [(website)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ)
 * Prof. Serhan Ziya [(website)](https://scholar.google.com/citations?hl=en&user=EFUfwAMAAAAJ&view_op=list_works&sortby=pubdate)
+* Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports)
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
 
 ## Tasks
