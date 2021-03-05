@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of [Management Sciences](https://www.cb.cityu.edu.hk/staff/zhanksun/) in the College of Business[,](https://www.cb.cityu.edu.hk/) City University of Hong Kong since July 2016.
+I am an Assistant Professor of [Management Sciences](https://www.cb.cityu.edu.hk/staff/zhanksun/) in the College of Business, City University of Hong Kong since July 2016.
 
 I received my bachelor's degree in Industrial Engineering from [Tsinghua University](https://en.wikipedia.org/wiki/Tsinghua_University) in 2009, and Ph.D. in Statistics and Operations Research from [UNC Chapel Hill](https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill) in 2014[.](/files/PhD-Degree.pdf) I was an Eyes High scholar in the Haskayne School of Business from 2014 to 2016, during which I work closely with [Alberta Health Services](https://www.albertahealthservices.ca/) and emergency departments in Alberta, Canada.
 
