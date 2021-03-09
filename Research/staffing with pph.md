@@ -8,7 +8,7 @@ tags:
   - Covid-19
 ---
 
-### Modeling Time-Varying Productivity with Applications in Physician Staffing in Emergency Departments
+### Modeling Time-Varying Productivity and Its Applications in Physician Staffing in Emergency Departments
 
 #### Stochastic modeling of a single physician
 * $R(t)$: the number of reassess patients; $R(0)=R_0$
@@ -28,4 +28,4 @@ tags:
 
 
 #### Statistical modeling (Poisson regression)
-We can also apply statistical models to estimate the PPH: we can control MD ID, workload, learners, handovers taken,
+We can also apply statistical models to estimate the PPH: we can control MD ID, workload, learners, handovers taken, current number of patients signed up,
