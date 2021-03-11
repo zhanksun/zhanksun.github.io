@@ -29,3 +29,15 @@ tags:
 
 #### Statistical modeling (Poisson regression)
 We can also apply statistical models to estimate the PPH: we can control MD ID, workload, learners, handovers taken, current number of patients signed up,
+
+
+### OM Literature
+Zaerpour, Farzad, et al. "Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments." Available at SSRN 3519625 (2019).
+
+Our paper's plot (**can we plot it with 30-minute resolution?**):
+<img src="/Research/PPH_POM_Paper.png" width="800">
+
+### Medical Literature
+Wang, Biao, et al. "Physician shift behavior and its impact on service performances in an emergency department." 2013 Winter Simulations Conference (WSC). IEEE, 2013.
+
+A plot from the above reference:

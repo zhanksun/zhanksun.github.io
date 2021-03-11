@@ -30,16 +30,6 @@ ED census refers tothe total number of patients in the ED, i.e., the number of p
 
 ff
 
-f
 
-f
-
-f
-
-f
-f
-f
-f
-f
 f
 f
