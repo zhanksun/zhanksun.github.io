@@ -1,8 +1,8 @@
 ---
-title: 'Useful websites for COVID-19 research'
-date: 2021-03-11
+title: 'Modeling Time-Varying Productivity and Its Applications in Physician Staffing in Emergency Departments'
+date: 2021-03-12
 author: Zhankun Sun
-permalink: /posts/2020/04/Covid-19/
+permalink: /posts/2021/03/PPH/
 tags:
   - Research
   - Covid-19
