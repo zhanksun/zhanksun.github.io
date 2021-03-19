@@ -8,7 +8,7 @@ author_profile: true
 ## Publications & Working Papers
 
 * **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. _Management Science_, 64(10):4471-4489, 2018. [\[Abstract\]](/abstract/Mass-Casualty-Triage) [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) [\[Online Supplement\]](/files/mnsc.2017.2855-sm.pdf) (Former title: Priority scheduling of jobs with unknown types)
-* Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, forthcoming_. [\[Abstract\]](/abstract/MS-Self-Replicating) [\[pdf\]](/files/MS-replication-final.pdf)
+* Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, forthcoming_. [\[Abstract\]](/abstract/MS-Self-Replicating) [\[pdf\]](/files/replication_Final.pdf)
 * Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Topic Modeling on Triage Notes With Semiorthogonal Nonnegative Matrix Factorization</q>. _Journal of the American Statistical Association_, 1-45, 2020. [\[Abstract\]](/abstract/ED-Text-Mining) [\[pdf\]](https://arxiv.org/abs/1805.02306)
 * Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, under 2nd round review_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle Revised.pdf)
 * **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management, under 2nd round review_. [\[Abstract\]](/abstract/When-to-Triage) [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
