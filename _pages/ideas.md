@@ -35,7 +35,7 @@ author_profile: true
 ## Next step
 1. ED double bottlenecks: Bed + Physicians
     1. Stochastic modeling (SOQN, Jia and Heragu 2009, Operations Research)
-    1. Fluid model (MMFQ, Carmen et al. 2018, EJOR); refer to Chan's OR paper; maybe we could perform similar analysis
+    1. Fluid model (MMFQ, Carmen et al. 2018, EJOR); refer to Chan's OR paper; maybe we could perform similar analysis.
     1. Perturbation analysis
     1. So-what: ED surging plan
 3. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
