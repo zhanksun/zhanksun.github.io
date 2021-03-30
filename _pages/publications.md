@@ -15,10 +15,13 @@ author_profile: true
 * Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, under 2nd round review_. [\[Abstract\]](/abstract/ED-Physician-Scheduling) [\[pdf\]](/files/Physician_Rostering_v4.pdf)
 * Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
   - Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
+
+<!---
 * Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
 * Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 * Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Impact of Classification Accuracy for Scheduling Jobs with Unknown Types in Service Systems</q>. _Working paper_.
 * Huiyin Ouyang, **Zhankun Sun**, <q>On Scheduling a Two-Class Queue with Concave Waiting Cost</q>. _Working paper_.
+--->
 
 ## Conference
 
@@ -35,7 +38,6 @@ author_profile: true
 <ol start="9">
     <li><q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.</li>
     <li><q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.</li>
-    <li><q>Priority Scheduling when Job Type Information is not Free</q>, with H. Ouyang.</li>
     <li><q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.</li>
 </ol>
 --->
