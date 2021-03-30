@@ -23,7 +23,7 @@ author_profile: true
 
 1. FT routing paper: writing, new simulation, conclusion (Target: **Management Sciecne**)
 2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
-    * **Perhanps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
+    * **Perhaps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
 4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients) (Target: **Medical journal**)
 5. ED staffing with PPH: waiting time estimation; modeling the time-varying PPH (Target: **Operations Research**)
 7. ED patient prioritization (Target: **Management Sciecne**)
