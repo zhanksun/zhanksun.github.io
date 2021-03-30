@@ -42,4 +42,3 @@ author_profile: true
 4. With Lishuai:
     * Drone delivery
     * Data from Cathy Pacific: optimize then predict
-5. Clean energy with Xiaowei
