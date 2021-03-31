@@ -16,12 +16,10 @@ author_profile: true
 * Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
   - Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 
-<!---
 * Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
 * Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 * Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Impact of Classification Accuracy for Scheduling Jobs with Unknown Types in Service Systems</q>. _Working paper_.
 * Huiyin Ouyang, **Zhankun Sun**, <q>On Scheduling a Two-Class Queue with Concave Waiting Cost</q>. _Working paper_.
---->
 
 ## Conference
 
