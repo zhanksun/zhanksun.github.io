@@ -10,6 +10,7 @@ author_profile: true
 * Prof. Serhan Ziya [(website)](https://scholar.google.com/citations?hl=en&user=EFUfwAMAAAAJ&view_op=list_works&sortby=pubdate)
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
+* Prof. Raik Stolletz[(website)](https://scholar.google.com/citations?user=moQsvVoAAAAJ&hl=en)
 
 ## Small papers
 
