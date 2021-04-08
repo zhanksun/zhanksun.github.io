@@ -7,7 +7,7 @@ author_profile: true
 ## Researchers of interest
 * Prof. Nan Liu [(website)](https://sites.google.com/site/nanliuacademic/research)
 * Prof. Armann Ingolfsson [(website)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ)
-* Prof. Serhan Ziya [(website)](https://scholar.google.com/citations?hl=en&user=EFUfwAMAAAAJ&view_op=list_works&sortby=pubdate)
+* Prof. Serhan Ziya [(website)](https://ziya.web.unc.edu/publications/)
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
 * Prof. Raik Stolletz[(website)](https://scholar.google.com/citations?user=moQsvVoAAAAJ&hl=en)
