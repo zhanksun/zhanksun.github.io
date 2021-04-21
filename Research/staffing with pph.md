@@ -36,7 +36,7 @@ Zaerpour, Farzad, et al. "Scheduling of Physicians with Time-Varying Productivit
 
 Our paper's plot (**can we plot it with 30-minute resolution?**):
 <img src="/Research/PPH_POM_Paper.png" width="800">
-
+<img src="/Research/PPH_by_shiftlength.png" width="800">
 ### Medical Literature
 Wang, Biao, et al. "Physician shift behavior and its impact on service performances in an emergency department." 2013 Winter Simulations Conference (WSC). IEEE, 2013.
 
@@ -45,3 +45,7 @@ A plot from the above reference:
 
 ### Empirical plots
 <img src="/Research/Dist_MD_activity.png" width="800">
+<img src="/Research/MD_activity_6.png" width="800">
+<img src="/Research/MD_activity_7.png" width="800">
+<img src="/Research/MD_activity_FT.png" width="800">
+<img src="/Research/MD_activity_8.png" width="800">
