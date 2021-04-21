@@ -41,3 +41,7 @@ Our paper's plot (**can we plot it with 30-minute resolution?**):
 Wang, Biao, et al. "Physician shift behavior and its impact on service performances in an emergency department." 2013 Winter Simulations Conference (WSC). IEEE, 2013.
 
 A plot from the above reference:
+
+
+### Empirical plots
+<img src="/Research/Dist_MD_activity.png" width="800">
