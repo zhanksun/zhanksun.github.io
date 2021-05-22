@@ -18,15 +18,19 @@ author_profile: true
 * Cheng's paper editing
 * OR Letter paper editing
 * EJOR paper editing
-* Chinook paper
+
+## Working papers
+1. FT routing paper: writing, new simulation, conclusion (Target: **Management Science**)
+2. ED staffing with PPH: waiting time estimation; modeling the time-varying PPH (Target: **Operations Research**)
+    * Extension 1: consider priority in waitint time estimation
+    * Extension 2: consider network effect
+4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients) (Target: **Medical journal**)
 
 ## Ongoing
 
-1. FT routing paper: writing, new simulation, conclusion (Target: **Management Science**)
-2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
+
+1. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
     * **Perhaps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
-4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients) (Target: **Medical journal**)
-5. ED staffing with PPH: waiting time estimation; modeling the time-varying PPH (Target: **Operations Research**)
 7. ED patient prioritization (Target: **Management Science**)
     1. Choice model: waiting for room (patient chosen by nurses)
     1. Choice model: initial assessment (patient chosen by physicians)
