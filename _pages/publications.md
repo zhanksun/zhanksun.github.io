@@ -10,7 +10,7 @@ author_profile: true
 * **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. _Management Science_, 64(10):4471-4489, 2018. [\[Abstract\]](/abstract/Mass-Casualty-Triage) [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) [\[Online Supplement\]](/files/mnsc.2017.2855-sm.pdf) (Former title: Priority scheduling of jobs with unknown types)
 * Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, forthcoming_, 2020. [\[Abstract\]](/abstract/MS-Self-Replicating) [\[pdf\]](/files/replication_Final.pdf)
 * Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Topic Modeling on Triage Notes With Semiorthogonal Nonnegative Matrix Factorization</q>. _Journal of the American Statistical Association_, 1-45, 2020. [\[Abstract\]](/abstract/ED-Text-Mining) [\[pdf\]](https://arxiv.org/abs/1805.02306)
-* **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management, accepted_, 2021. [\[Abstract\]](/abstract/When-to-Triage) [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
+* **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management_, 2021. [\[Abstract\]](/abstract/When-to-Triage) [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
 * Zhuang Zheng, **Zhankun Sun**, Jia Pan, Xiaowei Luo, <q>An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses With Photovoltaic-Battery Systems</q>. _Applied Energy_, 2021.
 
 ## Working Papers
