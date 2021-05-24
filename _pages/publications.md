@@ -11,6 +11,9 @@ author_profile: true
 * Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, forthcoming_, 2020. [\[Abstract\]](/abstract/MS-Self-Replicating) [\[pdf\]](/files/replication_Final.pdf)
 * Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Topic Modeling on Triage Notes With Semiorthogonal Nonnegative Matrix Factorization</q>. _Journal of the American Statistical Association_, 1-45, 2020. [\[Abstract\]](/abstract/ED-Text-Mining) [\[pdf\]](https://arxiv.org/abs/1805.02306)
 * **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management, accepted_, 2021. [\[Abstract\]](/abstract/When-to-Triage) [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
+* Zhuang Zheng, **Zhankun Sun**, Jia Pan, Xiaowei Luo, <q>An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses With Photovoltaic-Battery Systems</q>. _Applied Energy, accepted_, 2021.
+
+## Working Papers
 * Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, under 2nd round review_. [\[Abstract\]](/abstract/ED-Who-is-Next) [\[pdf\]](/files/Waiting Time Puzzle Revised.pdf)
 * Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, under 2nd round review_. [\[Abstract\]](/abstract/ED-Physician-Scheduling) [\[pdf\]](/files/Physician_Rostering_v4.pdf)
 * Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
