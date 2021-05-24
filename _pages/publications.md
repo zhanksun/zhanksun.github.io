@@ -1,11 +1,11 @@
 ---
 layout: archive #archive
-title: Research
-permalink: /research/
+title: Publications
+permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+## Journal Publications
 
 * **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. _Management Science_, 64(10):4471-4489, 2018. [\[Abstract\]](/abstract/Mass-Casualty-Triage) [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) [\[Online Supplement\]](/files/mnsc.2017.2855-sm.pdf) (Former title: Priority scheduling of jobs with unknown types)
 * Bin Hu, **Zhankun Sun**, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science, forthcoming_, 2020. [\[Abstract\]](/abstract/MS-Self-Replicating) [\[pdf\]](/files/replication_Final.pdf)
