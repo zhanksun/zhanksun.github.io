@@ -14,8 +14,8 @@ author_profile: true
 1. Zhuang Zheng, **Zhankun Sun**, Jia Pan, Xiaowei Luo, <q>An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses With Photovoltaic-Battery Systems</q>. _Applied Energy_, 2021.
 
 ## Working Papers
-6. Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, second round revision_. [\[pdf\]](/files/Waiting Time Puzzle Revised.pdf)
-6. Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, under 2nd round review_. [\[pdf\]](/files/Physician_Rostering_v4.pdf)
+6. Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, under 2nd round review_. [\[pdf\]](/files/Waiting Time Puzzle Revised.pdf)
+6. Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, second round revision_. [\[pdf\]](/files/Physician_Rostering_v4.pdf)
 6. Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
   ** Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 6. Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
