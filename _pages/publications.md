@@ -14,7 +14,7 @@ author_profile: true
 * Zhuang Zheng, **Zhankun Sun**, Jia Pan, Xiaowei Luo, <q>An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses With Photovoltaic-Battery Systems</q>. _Applied Energy_, 2021.
 
 ## Working Papers
-* Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, under 2nd round review_. [\[pdf\]](/files/Waiting Time Puzzle Revised.pdf)
+* Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who is Next: Patient Prioritization Under Emergency Department Blocking</q>. _Operations Research, second round revision_. [\[pdf\]](/files/Waiting Time Puzzle Revised.pdf)
 * Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, under 2nd round review_. [\[pdf\]](/files/Physician_Rostering_v4.pdf)
 * Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
   - Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
