@@ -22,7 +22,7 @@ author_profile: true
 ## Working papers
 1. FT routing paper: writing, new simulation, conclusion (Target: **Management Science**)
 2. ED staffing with PPH: waiting time estimation; modeling the time-varying PPH (Target: **Operations Research**)
-    * Extension 1: consider priority in waitint time estimation
+    * Extension 1: consider priority in waiting time estimation
     * Extension 2: consider network effect
 4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients) (Target: **Medical journal**)
 
@@ -35,7 +35,7 @@ author_profile: true
     1. Choice model: waiting for room (patient chosen by nurses)
     1. Choice model: initial assessment (patient chosen by physicians)
     1. Non-aligned objectives might lead to inefficiency
-    2. The impact on patient outcome (LOS, revisit)
+    2. The impact on patient outcome (LOS, revisit, LWBS)
 6. Waiting time prediction with patient prioritization (Target: perhanps **MSOM**)
 
 ## Next step
