@@ -35,6 +35,7 @@ author_profile: true
     1. Choice model: waiting for room (patient chosen by nurses)
     1. Choice model: initial assessment (patient chosen by physicians)
     1. Non-aligned objectives might lead to inefficiency
+    2. The impact on patient outcome (LOS, revisit)
 6. Waiting time prediction with patient prioritization (Target: perhanps **MSOM**)
 
 ## Next step
