@@ -7,7 +7,7 @@ author_profile: true
 ## Researchers of interest
 * Prof. Steven Lippman, UCLA [(website)](http://personal.anderson.ucla.edu/policy.area/faculty/lippman/lipppub.htm)
 * Prof. Nan Liu [(website)](https://sites.google.com/site/nanliuacademic/research)
-* Prof. Armann Ingolfsson [(website)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ)
+* Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ)
 * Prof. Serhan Ziya [(website)](https://ziya.web.unc.edu/publications/)
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
