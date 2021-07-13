@@ -8,7 +8,7 @@ author_profile: true
 * Prof. Steven Lippman, UCLA [(website)](http://personal.anderson.ucla.edu/policy.area/faculty/lippman/lipppub.htm)
 * Prof. Nan Liu [(website)](https://sites.google.com/site/nanliuacademic/research)
 * Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ)
-* Prof. Serhan Ziya [(website)](https://ziya.web.unc.edu/publications/)
+* Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/)
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
 * Prof. Raik Stolletz[(website)](https://scholar.google.com/citations?user=moQsvVoAAAAJ&hl=en)
