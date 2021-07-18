@@ -29,7 +29,3 @@ ED census refers tothe total number of patients in the ED, i.e., the number of p
 #### 3. Ferrand, Yann B., et al. "Managing responsiveness in the emergency department: Comparing dynamic priority queue with fast track." Journal of Operations Management 58 (2018): 15-26.
 
 ff
-
-
-f
-f
