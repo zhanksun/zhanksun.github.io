@@ -22,9 +22,12 @@ author_profile: true
 
 ## Working papers
 1. FT routing paper: writing, new simulation, conclusion (Target: **Management Science**)
-2. ED staffing with PPH: waiting time estimation; modeling the time-varying PPH (Target: **Operations Research**)
-    * Extension 1: consider priority in waiting time estimation
-    * Extension 2: consider network effect
+2. Modeling the time-varying PPH (with H. Ouyang) (Target: **Management Science**)
+    * S1: waiting time estimation
+    * S2: consider priority estimation
+    * S3: consider LWBS
+    * S4: simulation optimization
+3. ED staffing with PPH; A time-varying queueing system; Uniformization (with SJTU) (Target: **Operations Research**)
 4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients) (Target: **Medical journal**)
 
 ## Ongoing
@@ -42,10 +45,14 @@ author_profile: true
 ## Next step
 1. ED double bottlenecks: Bed + Physicians
     1. Stochastic modeling (SOQN, Jia and Heragu 2009, Operations Research)
-    1. Fluid model (MMFQ, Carmen et al. 2018, EJOR); refer to Chan's OR paper; maybe we could perform similar analysis.
+    1. Fluid model (MMFQ, Carmen et al. 2018, EJOR, Chan's OR paper)
     1. Perturbation analysis
     1. So-what: ED surging plan
-3. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
-4. With Lishuai:
+2. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
+3. With Lishuai:
     * Drone delivery
     * Data from Cathy Pacific: optimize then predict
+    * Delay estimation in a airport network
+4. Patient LWBS in emergency departments:
+    * Doubly-censored data
+    * What are the driving factors? Of course, waiting time; but anything else?
