@@ -56,3 +56,4 @@ author_profile: true
 4. Patient LWBS in emergency departments:
     * Doubly-censored data
     * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
+    * From Larson 1087, Skips and Slips: At least three attributes other than queueing delay paly key roles in a customer's queueing experiene: social justice, queueing environment, and feedback about delays.
