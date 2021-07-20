@@ -55,4 +55,4 @@ author_profile: true
     * Delay estimation in a airport network
 4. Patient LWBS in emergency departments:
     * Doubly-censored data
-    * What are the driving factors? Of course, waiting time; but anything else?
+    * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
