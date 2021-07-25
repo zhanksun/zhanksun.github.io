@@ -15,12 +15,12 @@ author_profile: true
 ## Small papers
 
 * Queueing paper: value of information
-* Cheng's paper editing
 * OR Letter paper editing
 * EJOR paper editing
+* Cheng's paper editing
 
 ## Working papers
-1. FT routing paper: writing (Target: **Management Science**)
+1. FT routing paper (with Yuqian): writing (Target: **Management Science**)
 2. Modeling and insights from the time-varying PPH (with H. Ouyang) (Target: **Management Science**)
     * S1: waiting time estimation
     * S2: simulation optimization; shift extension/scheduling
