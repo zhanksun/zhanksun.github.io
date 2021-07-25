@@ -26,6 +26,7 @@ author_profile: true
 * Michele Foster, **Zhankun Sun**, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Association of Emergency Physicians Annual Conference_. Edmonton, 2015. [\[Abstract\]](https://cumming.ucalgary.ca/sites/default/files/teams/127/abs.%20optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
 
 
+{% if author.googlescholar %}
 <!---
 6. Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Impact of Classification Accuracy for Scheduling Jobs with Unknown Types in Service Systems</q>. _Working paper_.
 ## Working in Progress
@@ -40,8 +41,6 @@ author_profile: true
     <li><q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.</li>
 </ol>
 --->
-
-{% if author.googlescholar %}
   You can also find my articles on <u><a href=</q>{{author.googlescholar}}</q>>my Google Scholar profile</a>.</u>
 {% endif %}
 
