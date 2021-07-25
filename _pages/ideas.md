@@ -20,12 +20,14 @@ author_profile: true
 * EJOR paper editing
 
 ## Working papers
-1. FT routing paper: writing, new simulation, conclusion (Target: **Management Science**)
-2. Modeling the time-varying PPH (with H. Ouyang) (Target: **Management Science**)
+1. FT routing paper: writing (Target: **Management Science**)
+2. Modeling and insights from the time-varying PPH (with H. Ouyang) (Target: **Management Science**)
     * S1: waiting time estimation
-    * S2: consider priority estimation
-    * S3: consider LWBS
-    * S4: simulation optimization
+    * S2: simulation optimization; shift extension/scheduling
+2. Models and simulation of complex systems (with H. Ouyang) (Target: **Operations Research**)
+  * S1: perturbation theory, mean-field method, diffusion approximation
+  * S2: consider LWBS, priority estimation
+  * S3: show how does the scaling parameter affect the accuracy
 3. ED staffing with PPH; A time-varying queueing system; Uniformization (with SJTU) (Target: **Operations Research**)
 4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients) (Target: **Medical journal**)
 
