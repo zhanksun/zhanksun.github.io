@@ -12,7 +12,7 @@ author_profile: true
 1. Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, **Zhankun Sun**, <q>Topic Modeling on Triage Notes With Semiorthogonal Nonnegative Matrix Factorization</q>. _Journal of the American Statistical Association_, 1-16, 2020. [\[pdf\]](https://arxiv.org/abs/1805.02306)
 1. **Zhankun Sun**, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management_, 2021. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
 1. Zhuang Zheng, **Zhankun Sun**, Jia Pan, Xiaowei Luo, <q>An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems</q>. _Applied Energy_, 2021. [\[pdf\]](/files/SHEM_applied_energy.pdf)
-6. Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who Is Next: Patient Prioritization under Emergency Department Blocking</q>. _Operations Research, accepted_. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
+6. Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who Is Next: Patient Prioritization under Emergency Department Blocking</q>. _Operations Research, accepted_, 2021. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 6. Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, 3rd round review_. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
 6. Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>ED Triage: An Empirical Study of Fast-Track Admission</q>. _Working paper_.
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
