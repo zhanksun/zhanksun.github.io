@@ -51,9 +51,9 @@ author_profile: true
     1. So-what: ED surging plan
 2. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
 3. With Lishuai:
-    * Drone delivery
+    * Urban air mobility (UAM)
     * Data from Cathy Pacific: optimize then predict
-    * Delay estimation in a airport network
+    * Delay estimation in a airport network (mean field theory)
 4. Patient LWBS in emergency departments:
     * Doubly-censored data
     * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
