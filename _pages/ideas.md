@@ -44,10 +44,9 @@ author_profile: true
 6. Waiting time prediction with patient prioritization (Target: perhanps **MSOM**)
 
 ## Next step
-1. ED double bottlenecks: Bed + Physicians
+1. ED dual-bottlenecks: Bed + Physicians
     1. Stochastic modeling (SOQN, Jia and Heragu 2009, Operations Research)
     1. Fluid model (MMFQ, Carmen et al. 2018, EJOR, Chan's OR paper)
-    1. Perturbation analysis
     1. So-what: ED surging plan
 2. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
 3. With Lishuai:
@@ -58,3 +57,4 @@ author_profile: true
     * Doubly-censored data
     * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
     * From Larson 1087, Skips and Slips: At least three attributes other than queueing delay paly key roles in a customer's queueing experiene: social justice, queueing environment, and feedback about delays.
+5. Healthcare referal system: an optimal control framework
