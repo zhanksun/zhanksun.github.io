@@ -16,7 +16,7 @@ author_profile: true
 6. Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, 3rd round review_. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
 6. Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>Emergency Care Access vs. Quality: An Empirical Analysis of Fast-Track Routing Decisions</q>. _Working paper_.
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
-6. H. Ouyang, **Zhankun Sun**, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
+6. H. Ouyang, **Zhankun Sun**, Junyan Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 6. Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
 7. H. Ouyang, **Zhankun Sun**, <q>Models and Insights from Time-Varying Physician Productivity in Emergency Departments</q>. _Working paper_.
 
