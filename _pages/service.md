@@ -22,7 +22,7 @@ author_profile: true
   * POMS CHOM Best Paper Competition (2020 Minneapolis)
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
   * MSOM Healthcare SIG Workshop (2020 Banff)
-  * INFORMS Undergraduate Operations Research Prize
+  * INFORMS Undergraduate Operations Research Prize (2021)
 
 <!---
 ## Others
