@@ -14,17 +14,16 @@ author_profile: true
 1. Zhuang Zheng, **Zhankun Sun**, Jia Pan, Xiaowei Luo, <q>An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems</q>. _Applied Energy_, 2021. [\[pdf\]](/files/SHEM_applied_energy.pdf)
 6. Wenhao Li, **Zhankun Sun**, L. Jeff Hong, <q>Who Is Next: Patient Prioritization under Emergency Department Blocking</q>. _Operations Research, accepted_, 2021. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 6. Farzad Zaerpour, Marco Bijvank, Huiyin Ouyang, **Zhankun Sun**, <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, 3rd round review_. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
-6. Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>An Empirical Study of Fast-Track Routing Policies in Emergency Departments</q>. _Working paper_.
+6. Shuai Hao, **Zhankun Sun**, Yuqian Xu, <q>Emergency Care Access vs. Quality: An Empirical Analysis of Fast-Track Routing Decisions</q>. _Working paper_.
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 6. H. Ouyang, **Zhankun Sun**, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 6. Cheng Zhu, Beste Kucukyazici, **Zhankun Sun**,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
 7. H. Ouyang, **Zhankun Sun**, <q>Models and Insights from Time-Varying Physician Productivity in Emergency Departments</q>. _Working paper_.
 
 
-## Conference
-
-* Michele Foster, **Zhankun Sun**, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Association of Emergency Physicians Annual Conference_. Edmonton, 2015. [\[Abstract\]](https://cumming.ucalgary.ca/sites/default/files/teams/127/abs.%20optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
-
+## Medical Publications
+* Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209-P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
+* H. Ouyang, Junyan Wang, Zhankun Sun, Eddy Lang, <q>The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcome</q>. _Academic Emergency Medicine, under review_. 2021.
 
 {% if author.googlescholar %}
 <!---
