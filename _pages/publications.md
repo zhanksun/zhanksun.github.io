@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Publications
 
-1. Zhankun Sun, Nilay T. Argon, Serhan Ziya, <q>Patient Triage and Prioritization Under Austere Conditions</q>. _Management Science_, 64(10):4471-4489, 2018. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) [\[e-companion\]](/files/mnsc.2017.2855-sm.pdf) (Former title: Priority scheduling of jobs with unknown types)
+1. Zhankun Sun, Nilay T. Argon, Serhan Ziya, <q>[Patient Triage and Prioritization Under Austere Conditions](https://doi.org/10.1287/mnsc.2017.2855)</q>. _Management Science_, 64(10):4471-4489, 2018. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) [\[e-companion\]](/files/mnsc.2017.2855-sm.pdf) (Former title: Priority scheduling of jobs with unknown types)
 1. Bin Hu, Zhankun Sun, <q>Managing Self-Replicating Innovative Goods</q>. _Management Science_, 2020. [\[pdf\]](/files/replication_Final.pdf)
 1. Yutong Li, Ruoqing Zhu, Annie Qu, Han Ye, Zhankun Sun, <q>Topic Modeling on Triage Notes with Semiorthogonal Nonnegative Matrix Factorization</q>. _Journal of the American Statistical Association_, 1-16, 2020. [\[pdf\]](https://arxiv.org/abs/1805.02306)
 1. Zhankun Sun, Nilay T. Argon, Serhan Ziya, <q>When to Triage in Service Systems with Hidden Customer Class Identities?</q>. _Production and Operations Management_, 2021. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
