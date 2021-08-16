@@ -7,6 +7,7 @@ author_profile: true
 ## Researchers of interest
 * Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ)
 * Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/), very interesting research!
+* Willcox Research Group [(website)](https://kiwi.oden.utexas.edu/index.php)
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Steven Lippman, UCLA [(website)](http://personal.anderson.ucla.edu/policy.area/faculty/lippman/lipppub.htm)
