@@ -9,6 +9,7 @@ author_profile: true
 * Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/), very interesting research!
 * Willcox Research Group [(website)](https://kiwi.oden.utexas.edu/index.php)
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en)
+* Tianyi Li [(website)](https://timothyli123.github.io/website/)
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Steven Lippman, UCLA [(website)](http://personal.anderson.ucla.edu/policy.area/faculty/lippman/lipppub.htm)
 * Prof. Raik Stolletz[(website)](https://scholar.google.com/citations?user=moQsvVoAAAAJ&hl=en)
@@ -54,7 +55,7 @@ author_profile: true
     * Urban air mobility (UAM)
     * Data from Cathy Pacific: optimize then predict
     * Delay estimation in a airport network (mean field theory)
-4. Patient LWBS in emergency departments [\[PDF\]](/files/MS_2013_Aksin_Ata_Emadi_Su_Structural estimation.pdf) [\[PDF\]](/files/NONLINEAR PROGRAMMING METHOD FOR DYNAMIC PROGRAMMING.pdf) 
+4. Patient LWBS in emergency departments [\[PDF\]](/files/MS_2013_Aksin_Ata_Emadi_Su_Structural estimation.pdf) [\[PDF\]](/files/NONLINEAR PROGRAMMING METHOD FOR DYNAMIC PROGRAMMING.pdf)
     * Doubly-censored data
     * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
     * From Larson 1087, Skips and Slips: At least three attributes other than queueing delay paly key roles in a customer's queueing experiene: social justice, queueing environment, and feedback about delays.
