@@ -55,9 +55,11 @@ author_profile: true
     * Urban air mobility (UAM)
     * Data from Cathy Pacific: optimize then predict
     * Delay estimation in a airport network (mean field theory)
-4. Patient LWBS in emergency departments [\[PDF\]](/files/MS_2013_Aksin_Ata_Emadi_Su_Structural estimation.pdf) [\[PDF\]](/files/NONLINEAR PROGRAMMING METHOD FOR DYNAMIC PROGRAMMING.pdf)
+4. Patient LWBS in emergency departments [\[PDF\]](/files/NONLINEAR PROGRAMMING METHOD FOR DYNAMIC PROGRAMMING.pdf)
     * Doubly-censored data
     * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
     * From Larson 1087, Skips and Slips: At least three attributes other than queueing delay paly key roles in a customer's queueing experiene: social justice, queueing environment, and feedback about delays.
     * A discrete choice dynamic programming model [\[PDF\]](https://web.stanford.edu/~chand04/papers/eos_paper.pdf)
+    * Structural Estimation of Callers' Delay Sensitivity in Call
+Centers [\[PDF\]](/files/MS_2013_Aksin_Ata_Emadi_Su_Structural estimation.pdf)
 5. Healthcare referal system: an optimal control framework
