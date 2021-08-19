@@ -19,7 +19,7 @@ author_profile: true
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 9. H. Ouyang, Zhankun Sun, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 10. Cheng Zhu, Beste Kucukyazici, Zhankun Sun,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
-11. H. Ouyang, Zhankun Sun, <q>Models and Insights from Time-Varying Physician Productivity in Emergency Departments</q>. _Working paper_.
+11. H. Ouyang, Zhankun Sun, <q>Modeling Time-Varying Physician Productivity with Applications to Emergency Department Staffing</q>. _Working paper_.
 
 ## Medical Papers
 12. Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
