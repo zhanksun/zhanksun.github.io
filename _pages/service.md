@@ -8,8 +8,7 @@ author_profile: true
 ## Reviewer
   * Management Science, Operations Research, MSOM, POM
   * IJOC, NRL, IISE Transactions, EJOR, OMEGA, IJF, IJPR
-  * IIE Transactions on Healthcare Systems Engineering
-  * Decision Sciences
+  * IISE Transactions on Healthcare Systems Engineering, Decision Sciences
 
   <!--
   IEEE Transactions on Systems, Man, and Cybernetics: Systems
