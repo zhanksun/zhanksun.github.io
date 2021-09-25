@@ -37,7 +37,7 @@ author_profile: true
 <br/> City University of Hong Kong
 <br/> 83 Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
-<br/>Email: zhankun.sun AT cityu DOT edu.hk
+<br/> Email: zhankun.sun AT cityu DOT edu.hk
 
 <!---
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="21"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at6.png" alt="Email" width="16"/>cityu.edu.hk
