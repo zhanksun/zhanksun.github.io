@@ -16,7 +16,7 @@ author_profile: true
 6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2021. <q>Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments</q>. _Production and Operations Management, Accepted_. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
 7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. <a href="https://doi.org/10.1016/j.apenergy.2021.117159" style="color: inherit; text-decoration: underline;text-decoration-style: solid;text-decoration-color:initial;">An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems</a>. _Applied Energy_.
 8. H. Ouyang, Zhankun Sun, <q>Modeling Time-Varying Physician Productivity with Applications to Emergency Department Staffing</q>. _Working paper_.
-9. Shuai Hao, Zhankun Sun, Yuqian Xu, <q>Emergency Care Access vs. Quality: An Empirical Study of Fast-Track Routing Decisions</q>. _Working paper_.
+9. Shuai Hao, Zhankun Sun, Yuqian Xu, <q>Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. _Working paper_.
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 10. H. Ouyang, Zhankun Sun, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 11. Cheng Zhu, Beste Kucukyazici, Zhankun Sun,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.

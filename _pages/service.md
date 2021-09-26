@@ -8,8 +8,7 @@ author_profile: true
 ## Reviewer
   * Management Science, Operations Research, MSOM, POM
   * IJOC, NRL, IISE Transactions, EJOR, OMEGA, IJF, IJPR
-  * IIE Transactions on Healthcare Systems Engineering
-  * Decision Sciences
+  * IISE Transactions on Healthcare Systems Engineering, Decision Sciences
 
   <!--
   IEEE Transactions on Systems, Man, and Cybernetics: Systems
@@ -38,9 +37,12 @@ author_profile: true
 <br/> City University of Hong Kong
 <br/> 83 Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
+<br/> Email: zhankun.sun AT cityu DOT edu.hk
+
+<!---
 <br/><img style="float: center;" src="/images/emoji/email-iOS.png" alt="AT" width="21"/> zhankun.sun<img style="float: center;" src="/images/emoji/email-at6.png" alt="Email" width="16"/>cityu.edu.hk
 <br/><img style="float: center;" src="/images/emoji/phone-iOS.png" alt="AT" width="22"/><img src="/images/emoji/heavy-plus-sign-softbank.png" width="17"/><img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-three-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-four-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-two-facebook.png" width="18"/>&nbsp;<img src="/images/emoji/keycap-digit-eight-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-six-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-five-facebook.png" width="18"/><img src="/images/emoji/keycap-digit-zero-facebook.png" width="18"/>
-
+-->
 
 
 *[xxx]: Manufacturing & Service Operations Management
