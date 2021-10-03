@@ -22,15 +22,15 @@ author_profile: true
   * POMS-Hong Kong Best Student Paper Competition (2020 HKU)
   * MSOM Healthcare SIG Workshop (2020 Banff)
   * INFORMS Undergraduate Operations Research Prize (2021 INFORMS)
-
-
+-->
+<!--
 ## Others
   * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
   * Session Chair: INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
   * Technical Committee Member for Queueing Theory and Network Applications
   * Discussant for SIG Healthcare Track, MSOM 2019
   * Elected board member, College of Business, City University of Hong Kong
-  -->
+-->
 
 ## Contact
 266, 7/F, Lau Ming Wai Academic Building
