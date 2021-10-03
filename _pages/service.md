@@ -13,7 +13,7 @@ author_profile: true
   <!--
   IEEE Transactions on Systems, Man, and Cybernetics: Systems
   -->
-<!---
+<!--
 ## Judge
   * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)
   * POMS International Conference Best Student Paper Competition (2019 Tianjin)
