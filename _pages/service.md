@@ -13,7 +13,7 @@ author_profile: true
   <!--
   IEEE Transactions on Systems, Man, and Cybernetics: Systems
   -->
-
+<!---
 ## Judge
   * MSOM SIG Conference – Healthcare Operations Track (2019 Singapore)
   * POMS International Conference Best Student Paper Competition (2019 Tianjin)
@@ -23,7 +23,7 @@ author_profile: true
   * MSOM Healthcare SIG Workshop (2020 Banff)
   * INFORMS Undergraduate Operations Research Prize (2021 INFORMS)
 
-<!---
+
 ## Others
   * Committee Chair: the 10th POMS-Hong Kong Best Student Paper Competition
   * Session Chair: INFORMS Annual Meeting, MSOM, POMS, POMS-Hong Kong
