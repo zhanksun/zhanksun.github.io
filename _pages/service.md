@@ -33,7 +33,7 @@ author_profile: true
 -->
 
 ## Contact
-266, 7/F, Lau Ming Wai Academic Building
+7/F, Lau Ming Wai Academic Building
 <br/> City University of Hong Kong
 <br/> 83 Tat Chee Ave, Kowloon Tong
 <br/> Hong Kong
