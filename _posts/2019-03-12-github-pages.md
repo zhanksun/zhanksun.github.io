@@ -10,6 +10,10 @@ tags:
 
 Just to make some notes on how to build my personal website using GitHub Pages. Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file.
 
+### Change colors on AcademicPages
+
+See this [page](https://jayrobwilliams.com/posts/2020/07/customizing-website/)
+
 ### Create a GitHub page as your personal website
 
 1. Get a [GitHub](https://github.com/) account; create a repository; get a URL for your website;
