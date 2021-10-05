@@ -30,7 +30,7 @@ author_profile: true
 -->
 <ol start="12">
     <li> Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. <i>Canadian Journal of Emergency Medicine</i>. P209, 2015. </li>
-    <li>H. Ouyang, Junyan Wang, Zhankun Sun, Eddy Lang, <q>The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcome</q>. <i>Under revision</i>. 2021.</li>
+    <li>H. Ouyang, Junyan Wang, Zhankun Sun, Eddy Lang, <q>The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcome</q>. <i>American Journal of Emergency Medicine, under revision</i>. 2021.</li>
 </ol>
 
 
