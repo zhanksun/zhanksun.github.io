@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Publications
 
-1. Sun, Z., Argon, N.T., and Ziya, S., 2018. <a href="https://doi.org/10.1287/mnsc.2017.2855" style="color: inherit; text-decoration: none;text-decoration-style: solid;">Patient Triage and Prioritization Under Austere Conditions</a>. _Management Science_, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
+1. Sun, Z., Argon, N.T., and Ziya, S., 2018. <a href="https://doi.org/10.1287/mnsc.2017.2855" style="color: inherit; text-decoration: none;text-decoration-style: solid;">Patient Triage and Prioritization Under Austere Conditions</a>. _**Management Science**_, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
   * Featured by <a href="https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions" style="color: inherit;">Management Science Review</a>
 2. Hu, B. and Sun, Z., 2020. <a href="https://doi.org/10.1287/mnsc.2020.3936" style="color: inherit; text-decoration: none;text-decoration-style: solid;text-decoration-color:initial;">Managing Self-Replicating Innovative Goods</a>. _Management Science_. [\[pdf\]](/files/MS-replication-final.pdf)
 3. Li, Y., Zhu, R., Qu, A., Ye, H., and Sun, Z., 2020. <a href="https://doi.org/10.1080/01621459.2020.1862667" style="color: inherit; text-decoration: none;text-decoration-style: solid;text-decoration-color:initial;">Topic Modeling on Triage Notes with Semiorthogonal Nonnegative Matrix Factorization</a>. _Journal of the American Statistical Association_, 1-16.
