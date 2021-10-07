@@ -16,7 +16,7 @@ author_profile: true
 	* Special Issue on Behavioral Queueing Science
 	* Finalist, INFORMS Service Science Best Cluster Paper Award, 2021.
 6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2021. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). **Production and Operations Management**. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
-7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). _Applied Energy_.
+7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). **Applied Energy**.
 8. H. Ouyang, Zhankun Sun, <q>Modeling Time-Varying Physician Productivity with Applications to Emergency Department Staffing</q>. _Working paper_.
 9. Shuai Hao, Zhankun Sun, Yuqian Xu, <q>Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. _Working paper_.
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
