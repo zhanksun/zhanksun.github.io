@@ -7,16 +7,16 @@ author_profile: true
 
 ## Journal Publications
 
-1. Sun, Z., Argon, N.T., and Ziya, S., 2018. [Patient Triage and Prioritization Under Austere Conditions](https://doi.org/10.1287/mnsc.2017.2855). **Management Science**, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
+1. Sun, Z., Argon, N.T., and Ziya, S., 2018. [Patient Triage and Prioritization Under Austere Conditions](https://doi.org/10.1287/mnsc.2017.2855). _Management Science_, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
   * Featured by <a href="https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions" style="color: inherit;">Management Science Review</a>
-2. Hu, B. and Sun, Z., 2020. [Managing Self-Replicating Innovative Goods](https://doi.org/10.1287/mnsc.2020.3936). **Management Science**. [\[pdf\]](/files/MS-replication-final.pdf)
-3. Li, Y., Zhu, R., Qu, A., Ye, H., and Sun, Z., 2020. [Topic Modeling on Triage Notes with Semiorthogonal Nonnegative Matrix Factorization](https://doi.org/10.1080/01621459.2020.1862667). **Journal of the American Statistical Association**, 1-16.
-4. Sun, Z., Argon, N.T., and Ziya, S., 2021. [When to Triage in Service Systems with Hidden Customer Class Identities?](https://doi.org/10.1111/poms.13494). **Production and Operations Management**. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
-5. Li, W., Sun, Z., and Hong, L.J., 2021. [Who Is Next: Patient Prioritization under Emergency Department Blocking](https://zhanksun.github.io/publications/). **Operations Research**, _accepted_. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
+2. Hu, B. and Sun, Z., 2020. [Managing Self-Replicating Innovative Goods](https://doi.org/10.1287/mnsc.2020.3936). _Management Science_. [\[pdf\]](/files/MS-replication-final.pdf)
+3. Li, Y., Zhu, R., Qu, A., Ye, H., and Sun, Z., 2020. [Topic Modeling on Triage Notes with Semiorthogonal Nonnegative Matrix Factorization](https://doi.org/10.1080/01621459.2020.1862667). _Journal of the American Statistical Association_, 1-16.
+4. Sun, Z., Argon, N.T., and Ziya, S., 2021. [When to Triage in Service Systems with Hidden Customer Class Identities?](https://doi.org/10.1111/poms.13494). _Production and Operations Management_. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
+5. Li, W., Sun, Z., and Hong, L.J., 2021. [Who Is Next: Patient Prioritization under Emergency Department Blocking](https://zhanksun.github.io/publications/). _Operations Research_, _accepted_. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 	* Special Issue on Behavioral Queueing Science
 	* Finalist, INFORMS Service Science Best Cluster Paper Award, 2021.
-6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2021. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). **Production and Operations Management**. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
-7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). **Applied Energy**.
+6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2021. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). _Production and Operations Management_. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
+7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). _Applied Energy_.
 8. H. Ouyang, Zhankun Sun, <q>Modeling Time-Varying Physician Productivity with Applications to Emergency Department Staffing</q>. _Working paper_.
 9. Shuai Hao, Zhankun Sun, Yuqian Xu, <q>Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. _Working paper_.
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
