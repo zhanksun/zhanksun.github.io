@@ -7,7 +7,7 @@ author_profile: true
 ## Researchers of interest
 * Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ), a very solid researcher
 * Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/), very interesting research!
-* Prof. Christos G. Cassandras and Dr. Wei Xiao [(website)](https://sites.google.com/view/xiaowei2021)
+* Prof. [Christos G. Cassandras](https://christosgcassandras.org/articles/) and Dr. [Wei Xiao](https://sites.google.com/view/xiaowei2021/publications?authuser=0)
 * Prof. Guanrong Chen [(Scientific Writing)](https://www.ee.cityu.edu.hk/~gchen/pdf/Writing.pdf) [(Chaos)](https://www.ee.cityu.edu.hk/~gchen/pdf/CHAOS_stories.pdf)
 * Willcox Research Group [(website)](https://kiwi.oden.utexas.edu/index.php): dimensionality reduction!
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en): mean field method
