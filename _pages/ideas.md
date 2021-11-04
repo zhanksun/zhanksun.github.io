@@ -38,10 +38,10 @@ author_profile: true
 1. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
     * **Perhaps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
 7. ED patient prioritization (Target: **Management Science**)
-    1. Choice model: waiting for room (patient chosen by nurses)
+    1. Choice model: waiting for room (patient chosen by nurses): Chicago booth group has a similar study
     1. Choice model: initial assessment (patient chosen by physicians)
-    1. Non-aligned objectives might lead to inefficiency
     2. The impact on patient outcome (LOS, revisit, LWBS)
+    3. An aggregated outcome of all lower-level mechanisms: slips
 6. Waiting time prediction with patient prioritization (Target: perhanps **MSOM**)
 
 ## Next step
