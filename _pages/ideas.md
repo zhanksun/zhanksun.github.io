@@ -24,7 +24,6 @@ author_profile: true
 * Cheng's paper editing
 
 ## Working papers
-1. FT routing paper (with Yuqian): writing (Target: **Management Science**)
 2. Modeling and insights from the time-varying PPH (with H. Ouyang) (Target: **Management Science**)
     * S1: waiting time estimation
     * S2: simulation optimization; shift extension/scheduling
