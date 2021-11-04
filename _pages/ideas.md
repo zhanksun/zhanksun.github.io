@@ -5,6 +5,7 @@ permalink: /ideas/
 author_profile: true
 ---
 ## Researchers of interest
+* Prof. Ilya O. Ryzhov [(website)](https://sites.google.com/umd.edu/iryzhov/publications?authuser=0) [(A book: Optimal Learning)](http://optimallearning.princeton.edu/)
 * Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ), a very solid researcher
 * Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/), very interesting research!
 * Prof. [Christos G. Cassandras](https://christosgcassandras.org/articles/) and Dr. [Wei Xiao](https://sites.google.com/view/xiaowei2021/publications?authuser=0)
@@ -14,7 +15,6 @@ author_profile: true
 * Tianyi Li [(website)](https://timothyli123.github.io/website/): I have shared interests in applying physics modeling in human behavior
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Steven Lippman, UCLA [(website)](http://personal.anderson.ucla.edu/policy.area/faculty/lippman/lipppub.htm)
-* Prof. Raik Stolletz [(website)](https://scholar.google.com/citations?user=moQsvVoAAAAJ&hl=en): one algorithm does not seem to work well.
 
 ## Small papers
 
