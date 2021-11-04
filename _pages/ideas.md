@@ -32,7 +32,6 @@ author_profile: true
   * S2: consider LWBS, priority estimation
   * S3: show how does the scaling parameter affect the accuracy
 3. ED staffing with PPH; A time-varying queueing system; Uniformization (with SJTU) (Target: **Operations Research**)
-4. Medical paper: the impact of ED census on ED decision making (consider different measures of blocking, such as boarding time of the previous $n$ patients) (Target: **Medical journal**)
 
 ## Ongoing
 
