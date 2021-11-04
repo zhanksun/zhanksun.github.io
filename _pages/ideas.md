@@ -19,7 +19,6 @@ author_profile: true
 ## Small papers
 
 * Queueing paper: value of information
-* OR Letter paper editing
 * EJOR paper editing
 * Cheng's paper editing
 
