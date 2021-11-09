@@ -43,6 +43,7 @@ author_profile: true
     2. The impact on patient outcome (LOS, revisit, LWBS)
     3. An aggregated outcome of all lower-level mechanisms: slips
 6. Waiting time prediction with patient prioritization (Target: perhanps **MSOM**)
+7. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
 
 ## Next step
 1. ED dual-bottlenecks: Bed + Physicians
