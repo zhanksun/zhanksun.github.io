@@ -46,7 +46,7 @@ author_profile: true
 7. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
 
 ## Next step
-1. ED dual-bottlenecks: Bed + Physicians
+1. ED dual-bottlenecks: Bed + Physicians [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11134-018-9578-x.pdf)
     1. Stochastic modeling (SOQN, Jia and Heragu 2009, Operations Research)
     1. Fluid model (MMFQ, Carmen et al. 2018, EJOR, Chan's OR paper)
     1. So-what: ED surging plan
