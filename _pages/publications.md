@@ -20,7 +20,7 @@ author_profile: true
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2021. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 9. Shuai Hao, Zhankun Sun, Yuqian Xu, 2021. [Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923955). _Under review_. [\[pdf\]](/files/FT_routing.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
-10. H. Ouyang, Ran Liu, Zhankun Sun, <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. _Submitted_. [\[pdf\]](/files/ED_Modeling_PPH.pdf)
+10. H. Ouyang, R. Liu, Sun, Z., Emergency Department Modeling and Staffing: Time-Varying Physician Productivity. _Submitted_. [\[pdf\]](/files/ED_Modeling_PPH.pdf)
 11. H. Ouyang, Zhankun Sun, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
 12. Cheng Zhu, Beste Kucukyazici, Zhankun Sun,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
 
