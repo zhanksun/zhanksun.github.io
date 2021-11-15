@@ -18,6 +18,7 @@ author_profile: true
 6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2021. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). _Production and Operations Management_. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
 7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). _Applied Energy_, 298: 117159.
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2021. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
+9. Wang, Z., Liu, R., Sun, Z., 2021. Physician Scheduling for Emergency Departments under Time-Varying Demand of Returning Patients. _IEEE Transactions on Automation Science and Engineering, in revision_.
 9. Shuai Hao, Zhankun Sun, Yuqian Xu, 2021. [Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923955). _Under review_. [\[pdf\]](/files/FT_routing.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 10. H. Ouyang, R. Liu, Sun, Z., Emergency Department Modeling and Staffing: Time-Varying Physician Productivity. _Submitted_. [\[pdf\]](/files/ED_Modeling_PPH.pdf)
