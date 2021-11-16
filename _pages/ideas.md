@@ -34,15 +34,15 @@ author_profile: true
 1. Simulation optimization
   * Bayesian optimization; IPA
   * Shift extension/scheduling
-2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
-    * **Perhaps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
-7. ED patient prioritization (Target: **Management Science**)
+2. ED patient prioritization (Target: **Management Science**)
     1. Choice model: waiting for room (patient chosen by nurses): Chicago booth group has a similar study
     1. Choice model: initial assessment (patient chosen by physicians)
     2. The impact on patient outcome (LOS, revisit, LWBS)
     3. An aggregated outcome of all lower-level mechanisms: slips
-6. Waiting time prediction with patient prioritization (Target: perhanps **MSOM**)
-7. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
+3. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
+4. Waiting time prediction with patient prioritization (Target: perhanps **MSOM**)
+5. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
+    * **Perhaps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
 
 ## Next step
 1. ED dual-bottlenecks: Bed + Physicians [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11134-018-9578-x.pdf)
