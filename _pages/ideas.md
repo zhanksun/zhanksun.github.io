@@ -23,9 +23,6 @@ author_profile: true
 * Cheng's paper editing
 
 ## Working papers
-2. Modeling and insights from the time-varying PPH (with H. Ouyang) (Target: **Management Science**)
-    * S1: waiting time estimation
-    * S2: simulation optimization; shift extension/scheduling
 2. Models and simulation of complex systems (with H. Ouyang) (Target: **Operations Research**)
   * S1: perturbation theory, mean-field method, diffusion approximation
   * S2: consider LWBS, priority estimation
@@ -34,8 +31,10 @@ author_profile: true
 
 ## Ongoing
 
-
-1. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
+1. Simulation optimization
+  * Bayesian optimization; IPA
+  * Shift extension/scheduling
+2. FT routing modeling paper: proof of results; try different patient classifications and compare their performances (by admit, LOS, chance of FT) (Target: with the redundancy modeling, we can try **Operations Research**)
     * **Perhaps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
 7. ED patient prioritization (Target: **Management Science**)
     1. Choice model: waiting for room (patient chosen by nurses): Chicago booth group has a similar study
