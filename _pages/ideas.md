@@ -30,7 +30,11 @@ author_profile: true
 3. ED staffing with PPH; A time-varying queueing system; Uniformization (with SJTU) (Target: **Operations Research**)
 
 ## Ongoing
-
+1. ED dual-bottlenecks: Bed + Physicians [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11134-018-9578-x.pdf)
+    1. Stochastic modeling (SOQN, Jia and Heragu 2009, Operations Research)
+    1. Fluid model (MMFQ, Carmen et al. 2018, EJOR, Chan's OR paper)
+    1. So-what: ED surging plan
+    1. [The Science Behind Proper Staffing](/files/The Science Behind Proper Staffing.pdf)
 1. Simulation optimization
   * Bayesian optimization; IPA
   * Shift extension/scheduling
@@ -45,10 +49,6 @@ author_profile: true
     * **Perhaps we can consider a shadow patient**, with a focus on CTAS3, or patients in the middle. Refer to two papers in Notability. This could be a nice queueing analysis.
 
 ## Next step
-1. ED dual-bottlenecks: Bed + Physicians [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11134-018-9578-x.pdf)
-    1. Stochastic modeling (SOQN, Jia and Heragu 2009, Operations Research)
-    1. Fluid model (MMFQ, Carmen et al. 2018, EJOR, Chan's OR paper)
-    1. So-what: ED surging plan
 2. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
 3. With Lishuai:
     * Urban air mobility (UAM)
