@@ -35,6 +35,7 @@ author_profile: true
     1. Fluid model (MMFQ, Carmen et al. 2018, EJOR, Chan's OR paper)
     1. So-what: ED surging plan
     1. [The Science Behind Proper Staffing](/files/The Science Behind Proper Staffing.pdf)
+    1. [Building a Smarter Staffing Model](/files/Building a Smarter Staffing Model.pdf)
 1. Simulation optimization
   * Bayesian optimization; IPA
   * Shift extension/scheduling
