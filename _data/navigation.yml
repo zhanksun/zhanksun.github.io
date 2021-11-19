@@ -9,5 +9,5 @@ main:
   - title: "Funding and Awards"
     url: /awards/
 
-#  - title: "Service"
-#    url: /service/
+  - title: "Service"
+    url: /service/
