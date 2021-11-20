@@ -22,8 +22,13 @@ author_profile: true
 10. Shuai Hao, Zhankun Sun, Yuqian Xu, 2021. [Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3923955). _Under review_. [\[pdf\]](/files/FT_routing.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 11. Ouyang, H., Liu, R., Sun, Z., 2021. [Emergency Department Modeling and Staffing: Time-Varying Physician Productivity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963226). _Submitted_. [\[pdf\]](/files/ED_Modeling_PPH.pdf)
-12. H. Ouyang, Zhankun Sun, Junyang Wang, <q>Priority Scheduling When Job Type Information Is Not Free</q>. _Working paper_.
-13. Cheng Zhu, Beste Kucukyazici, Zhankun Sun,  Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. _Working paper_.
+
+## Working Papers
+
+<ol start="12">
+    <li> H. Ouyang, Zhankun Sun, Junyang Wang, <q>Scheduling When Job Type Information Is Not Free</q>. </li>
+    <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
+</ol>
 
 ## Conference Papers
 <!--
