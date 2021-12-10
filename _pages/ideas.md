@@ -63,3 +63,6 @@ author_profile: true
     * Structural Estimation of Callers' Delay Sensitivity in Call
 Centers [\[PDF\]](/files/MS_2013_Aksin_Ata_Emadi_Su_Structural estimation.pdf)
 5. Healthcare referal system: an optimal control framework
+
+## Casual Reading
+1. An Exploration in the Theory of Optimum Income Taxation [\[PDF\]](/_reading/mirrlees71.pdf)
