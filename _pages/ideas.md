@@ -67,3 +67,4 @@ Centers [\[PDF\]](/files/MS_2013_Aksin_Ata_Emadi_Su_Structural estimation.pdf)
 ## Casual Reading
 1. An Exploration in the Theory of Optimum Income Taxation [\[PDF\]](/_reading/mirrlees71.pdf)
 2. A Restless Bandit Model for Resource Allocation, Competition, and Reservation [\[PDF\]](/_reading/opre_A Restless Bandit Model for Resource Allocation.pdf)
+3. A Min-Max Solution of an Inventory Problem [\[PDF\]](/_reading/scarf1958.pdf)
