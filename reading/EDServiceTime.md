@@ -35,8 +35,12 @@ In the literature, different definitions and measures of physician service times
 
 Two productivity measures used in the healthcare operations literature: (1) time to making a disposition decision (akin to discharge rate used in Song et al. 2015); (2) number of patients served (KC et al. 2020)
 
+A good discussion from this paper (they used both the patient volumn from KC et al. 2020 and the throughput time from Song et al. 2015): We use both measures of productivity since they complement each other. Considering only the number of patients served could be misleading because it does not capture _how long_ it took to serve the patients. In other words, serving more patients does not automatically translate to higher patient flow if they are not discharged or admitted in a timely manner. Likewise, considering average shift throughput time, alone, may not necessarily indicate higher productivity since it does not capture the number of patietns on whom the average is generated.
+
 ###### 2. The Diseconomies of Queue Pooling: An Empirical Investigation of Emergency Department Length of Stay, by Hummy Song, Anita Tucker [\[pdf\]](/files/The_Diseconomies_of_Queue_Pooling_An_Empirical_Inv.pdf)
 
-What is the measure of physician service time (or productivity)?
+What is the measure of physician service time (or productivity)? A patient throughput time, i.e., Disposition time - Roomed time, where disposition time is equivalent to the time of discharge decision for patients who are discharged, and time of bed request for patients who are admitted.
 
 ###### 3. Task Selection and Workload: A Focus on Completing Easy Tasks Hurts Performance, by Diwas S. KC, Bradley R. Staats, Maryam Kouchaki, Francesca Gino  [\[pdf\]](/files/ms_2020_KC_task_selection_and_workload.pdf)
+
+Productivity: Total volume of patients discharged by a physician during her shift
