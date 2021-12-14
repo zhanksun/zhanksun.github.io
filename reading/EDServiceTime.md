@@ -44,3 +44,9 @@ What is the measure of physician service time (or productivity)? A patient throu
 ###### 3. Task Selection and Workload: A Focus on Completing Easy Tasks Hurts Performance, by Diwas S. KC, Bradley R. Staats, Maryam Kouchaki, Francesca Gino  [\[pdf\]](/files/ms_2020_KC_task_selection_and_workload.pdf)
 
 Productivity: Total volume of patients discharged by a physician during her shift
+
+
+### Reassessments vs. Bed Time
+We could also use how many reassessments were requested and processed by physicians for a patient as the service time.
+
+Our descriptive data analysis shows that the average time that admit patients stay in ED beds is about 3 times of that for discharge patients for all acuity levels (see Table 1 in the revised paper). However, if the service times are measured by the number of interactions between physicians and patients, then our data tells a different story: within the same triage level, discharge patients have on average more interactions with physicians than admit patients. One explanation may be that physicians need more interactions with discharge patients to ensure that they are safe to be discharged home, whereas admit patients’ conditions are obviously serious and therefore they require less interactions with physicians to be diagnosed. Hence, it is unclear whether admit patients are more demanding or more difficult to diagnose than discharge patients.

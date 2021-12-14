@@ -1,7 +1,7 @@
 ---
 layout: archive #archive
 title: New Papers Related to Healthcare
-permalink: /new-papers/
+permalink: /notes/
 author_profile: true
 ---
 
@@ -14,12 +14,12 @@ We study the problem of predicting congestion risk in service systems in order t
 **Keywords**: Congestion; Queueing systems; Prediction; Service operation; Machine learning; Interpretability; ICU
 
 **Summary**
-> 1. 
+> 1.
 
 
 ## Triage Standing Order in Emergency Department
 
-#### 1. Saied Samiedaluie, Vera Tilson, and Armann Ingolfsson. Models of the Impact of Triage Nurse Standing Orders on Emergency Department Length of Stay. 
+#### 1. Saied Samiedaluie, Vera Tilson, and Armann Ingolfsson. Models of the Impact of Triage Nurse Standing Orders on Emergency Department Length of Stay.
 
 Standing orders allow triage nurses in emergency departments (EDs) to order tests for certain medical conditions before the patient sees a physician, which could reduce the patient’s length of stay (LOS). Several medical studies have documented a decrease in average ED LOS for a target patient population, resulting from the use of standing orders. We formulate models of the operational impact of standing orders and test several policies for whether to order tests at triage for individual target patients, as a function of ED congestion. We find that a threshold policy, with a threshold whose value can be estimated easily from model primitives, performs well across a wide range of parameter values. We demonstrate potential unintended consequences of the use of standing orders, including over testing and spillover effects on non-target patients.
 
@@ -31,3 +31,8 @@ Emergency departments are facing a worldwide problem that affects their performa
 
 
 #### 3. PhD Thesis: Advanced Triage Protocols in the Emergency Department, by Lijuan Zhao, Walden University, 2017.
+
+
+## Approximation: mean value analysis vs. mean field analysis
+
+What are their differences?
