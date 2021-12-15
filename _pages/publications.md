@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Papers
+## Journal Paper
 
 1. Sun, Z., Argon, N.T., and Ziya, S., 2018. [Patient Triage and Prioritization Under Austere Conditions](https://doi.org/10.1287/mnsc.2017.2855). _Management Science_, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
   * Featured by <a href="https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions" style="color: inherit;">Management Science Review</a>
@@ -23,14 +23,14 @@ author_profile: true
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 11. Ouyang, H., Liu, R., Sun, Z., 2021. [Emergency Department Modeling and Staffing: Time-Varying Physician Productivity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963226). _Under review_. [\[pdf\]](/files/ED_Modeling_PPH.pdf)
 
-## Working Papers
+## Working Paper
 
 <ol start="12">
     <li> H. Ouyang, Zhankun Sun, Junyang Wang, <q>Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 </ol>
 
-## Conference Papers
+## Conference Paper
 <!--
 12. Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
 -->
