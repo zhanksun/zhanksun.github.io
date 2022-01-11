@@ -23,11 +23,11 @@ author_profile: true
 * Cheng's paper editing
 
 ## Working papers
-2. Models and simulation of complex systems (with H. Ouyang) (Target: **Operations Research**)
+2. Models and simulation of complex systems (with C. Zou, H. Ouyang) (Target: **Operations Research**)
   * S1: perturbation theory, mean-field method, diffusion approximation
   * S2: consider LWBS, priority estimation
   * S3: show how does the scaling parameter affect the accuracy
-3. ED staffing with PPH; A time-varying queueing system; Uniformization (with SJTU) (Target: **Operations Research**)
+3. A time-varying queueing system; mixed preemption rule; uniformization with priority (with SJTU) (Target: **IJOC**)
 
 ## Ongoing
 1. ED dual-bottlenecks: Bed + Physicians [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11134-018-9578-x.pdf)
