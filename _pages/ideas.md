@@ -6,12 +6,13 @@ author_profile: true
 ---
 ## Researchers of interest
 * Prof. CAROLINA OSORIO, transportation [(website)](https://www.carolinaosorio.net/)
-* Prof. Ilya O. Ryzhov [(website)](https://sites.google.com/umd.edu/iryzhov/publications?authuser=0) [(A book: Optimal Learning)](http://optimallearning.princeton.edu/)
-* Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ), a very solid researcher
+* Willcox Research Group [(website)](https://kiwi.oden.utexas.edu/index.php): dimensionality reduction!
 * Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/), very interesting research!
 * Prof. [Christos G. Cassandras](https://christosgcassandras.org/articles/) and Dr. [Wei Xiao](https://sites.google.com/view/xiaowei2021/publications?authuser=0): related to my interests in Urban Air Mobility
+
+* Prof. Ilya O. Ryzhov [(website)](https://sites.google.com/umd.edu/iryzhov/publications?authuser=0) [(A book: Optimal Learning)](http://optimallearning.princeton.edu/)
+* Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ), a very solid researcher
 * Prof. Guanrong Chen [(Scientific Writing)](https://www.ee.cityu.edu.hk/~gchen/pdf/Writing.pdf) [(Chaos)](https://www.ee.cityu.edu.hk/~gchen/pdf/CHAOS_stories.pdf)
-* Willcox Research Group [(website)](https://kiwi.oden.utexas.edu/index.php): dimensionality reduction!
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en): mean field method
 * Tianyi Li [(website)](https://timothyli123.github.io/website/): I have shared interests in applying physics modeling in human behavior
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
