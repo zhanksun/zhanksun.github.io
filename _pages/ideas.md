@@ -5,6 +5,7 @@ permalink: /ideas/
 author_profile: true
 ---
 ## Researchers of interest
+* Prof. CAROLINA OSORIO, transportation [(website)](https://www.carolinaosorio.net/)
 * Prof. Ilya O. Ryzhov [(website)](https://sites.google.com/umd.edu/iryzhov/publications?authuser=0) [(A book: Optimal Learning)](http://optimallearning.princeton.edu/)
 * Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ), a very solid researcher
 * Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/), very interesting research!
