@@ -29,6 +29,7 @@ author_profile: true
 
 <ol start="13">
     <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
+    <li> Zou, C., Sun, Z., <q>Models and Simulation of Case Managers: A Singular Perturbation Approach</q>. </li>
 </ol>
 
 ## Conference Paper
