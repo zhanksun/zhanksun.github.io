@@ -23,7 +23,9 @@ author_profile: true
 --->
 
 ## Awards
-* Best Service Science Student Paper Award[,](/files/ICSS2020BestServiceScienceStudentPaperAward.pdf) INFORMS Conference on Service Science, December 2020.
+* Second-Place, Best Student Paper Competition, POMS-HK International Conference, 2022.
+* Finalist, INFORMS Service Science Best Cluster Paper Award, 2021.
+* Winner, Best Service Science Student Paper Award[,](/files/ICSS2020BestServiceScienceStudentPaperAward.pdf) INFORMS Conference on Service Science, 2020.
 * Outstanding Reviewer[,](/files/OutstandingAward-EJOR.pdf) European Journal of Operational Research, April 2017.
 * Excellence in Teaching Award[,](/files/UNC-Teaching-Award.pdf) the University of North Carolina at Chapel Hill, December 2013.
 * Nominated and selected for the INFORMS Future Academician Colloquium, 2012.
