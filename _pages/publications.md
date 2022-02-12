@@ -20,7 +20,7 @@ author_profile: true
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2022. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 9. Wang, Z., Liu, R., Sun, Z., 2021. Physician Scheduling for Emergency Departments Under Time-Varying Demand of Returning Patients. _IEEE Transactions on Automation Science and Engineering, 2nd round review_.
 10. Ouyang, H., Liu, R., Sun, Z., 2021. [Emergency Department Modeling and Staffing: Time-Varying Physician Productivity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3963226). _Under review_. [\[pdf\]](/files/ED_Modeling_PPH.pdf)
-11. Ouyang, H., Sun, Z., Wang, J., 2022. Priority Scheduling When Job Type Information Is Not Free. _Submitted_.
+11. Ouyang, H., Sun, Z., Wang, J., 2022. Priority Scheduling When Job Type Information Is Not Free. _Under review_.
 12. Hao, S., Sun, Z., Xu, Y., 2021. [Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://zhanksun.github.io/publications/).
 * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
@@ -29,7 +29,7 @@ author_profile: true
 
 <ol start="13">
     <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
-    <li> Zou, C., Sun, Z., <q>Models and Simulation of Case Managers: A Singular Perturbation Approach</q>. </li>
+    <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
 </ol>
 
 ## Conference Paper
