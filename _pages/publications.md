@@ -11,7 +11,7 @@ author_profile: true
   * Featured by <a href="https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions" style="color: inherit;">Management Science Review</a>
 2. Hu, B. and Sun, Z., 2021. [Managing Self-Replicating Innovative Goods](https://doi.org/10.1287/mnsc.2020.3936). _Management Science_, 68(1), 399-419. [\[pdf\]](/files/MS-replication-final.pdf)
 3. Li, Y., Zhu, R., Qu, A., Ye, H., and Sun, Z., 2021. [Topic Modeling on Triage Notes with Semiorthogonal Nonnegative Matrix Factorization](https://doi.org/10.1080/01621459.2020.1862667). _Journal of the American Statistical Association_, 116(536), 1609-1624. [\[pdf\]](/files/JASA_Triage_Notes.pdf)
-4. Sun, Z., Argon, N.T., and Ziya, S., 2021. [When to Triage in Service Systems with Hidden Customer Class Identities?](https://doi.org/10.1111/poms.13494). _Production and Operations Management_. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
+4. Sun, Z., Argon, N.T., and Ziya, S., 2021. [When to Triage in Service Systems with Hidden Customer Class Identities?](https://doi.org/10.1111/poms.13494). _Production and Operations Management_, 31(1), 172-193. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
 5. Li, W., Sun, Z., and Hong, L.J., 2021. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 	* Special Issue on Behavioral Queueing Science
 	* Finalist, INFORMS Service Science Best Cluster Paper Award, 2021.
