@@ -15,7 +15,7 @@ author_profile: true
 5. Li, W., Sun, Z., and Hong, L.J., 2021. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 	* Special Issue on Behavioral Queueing Science
 	* Finalist, INFORMS Service Science Best Cluster Paper Award, 2021.
-6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2021. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). _Production and Operations Management_. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
+6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2021. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). _Production and Operations Management_, 31(2), 645-667. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
 7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). _Applied Energy_, 298: 117159.
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2022. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 9. Wang, Z., Liu, R., Sun, Z., 2021. Physician Scheduling for Emergency Departments Under Time-Varying Demand of Returning Patients. _IEEE Transactions on Automation Science and Engineering,  Conditionally Accept_.
