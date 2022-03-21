@@ -10,10 +10,4 @@ author_profile: true
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ax_Xpj7-FEM44WGTyf9BO4Z4XFRkiYUvs7ZHhNaj8t4&cl=ffffff&w=a"></script>
 
 
-
-
-<a href="https://clustrmaps.com/site/1bnft"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=Ax_Xpj7-FEM44WGTyf9BO4Z4XFRkiYUvs7ZHhNaj8t4&cl=ffffff" /></a>
-
-
-
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Ax_Xpj7-FEM44WGTyf9BO4Z4XFRkiYUvs7ZHhNaj8t4"></script>
