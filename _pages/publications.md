@@ -38,11 +38,11 @@ author_profile: true
 <!--
 <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 12. Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
--->
+
 <ol start="15">
     <li> Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. <i>Canadian Journal of Emergency Medicine</i>. P209, 2015. <a href="https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[Abstract]</a></li>
 </ol>
-
+-->
 
 {% if author.googlescholar %}
 <!---
