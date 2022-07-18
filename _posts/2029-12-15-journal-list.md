@@ -17,6 +17,7 @@ A list of journals that I have served as a reviewer, or I have submitted at leas
   * [Manufacturing & Service Operations Management](https://mc.manuscriptcentral.com/msom)
   * [Production and Operations Management](https://mc.manuscriptcentral.com/poms)
   * [INFORMS Journal on Computing](https://mc.manuscriptcentral.com/ijoc)
+  * [Journal of Operations Management](https://mc.manuscriptcentral.com/joom)
 
 ### Other journals in Operations Research
 
