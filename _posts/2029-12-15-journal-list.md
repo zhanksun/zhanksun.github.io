@@ -21,6 +21,7 @@ A list of journals that I have served as a reviewer, or I have submitted at leas
 
 ### Other journals in Operations Research
 
+  * [Health Care Management Science ](https://www.editorialmanager.com/hcms/default1.aspx)
   * [Queueing Systems](https://www.editorialmanager.com/ques/Default.aspx)
   * [Naval Research Logistics](https://mc.manuscriptcentral.com/nrl)
   * [Decision Sciences](https://mc.manuscriptcentral.com/dsj)
