@@ -29,7 +29,7 @@ author_profile: true
 ## Working Paper
 
 <ol start="11">
-  <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
+    <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Ouyang, H., Liu, R., Sun, Z., <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
 </ol>
