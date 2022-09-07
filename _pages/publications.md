@@ -54,11 +54,6 @@ author_profile: true
 * <q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.
 * <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.
 
-<ol start="9">
-    <li><q>Allocation of Intensive Care Unit Beds with Readmission</q>, with H. Ouyang.</li>
-    <li><q>Admission Control under Imperfect Customer Information</q>, with H. Ouyang.</li>
-    <li><q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.</li>
-</ol>
 --->
   You can also find my articles on <u><a href=</q>{{author.googlescholar}}</q>>my Google Scholar profile</a>.</u>
 {% endif %}
