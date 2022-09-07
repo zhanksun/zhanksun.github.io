@@ -23,8 +23,6 @@ author_profile: true
 11. Hao, S., Sun, Z., Xu, Y., 2021. [Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://zhanksun.github.io/publications/).
 * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
-
-[\[pdf\]](/files/ED_Modeling_PPH.pdf)
 -->
 
 ## Working Paper
