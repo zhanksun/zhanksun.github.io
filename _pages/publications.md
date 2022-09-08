@@ -19,11 +19,6 @@ author_profile: true
 7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). _Applied Energy_, 298: 117159.
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2022. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 9. Wang, Z., Liu, R., Sun, Z., 2021. [Physician Scheduling for Emergency Departments Under Time-Varying Demand and Patient Return](https://doi.org/10.1109/TASE.2022.3163259). _IEEE Transactions on Automation Science and Engineering_.
-<!--
-11. Hao, S., Sun, Z., Xu, Y., 2021. [Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://zhanksun.github.io/publications/).
-* Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
-* Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
--->
 
 ## Working Paper
 
@@ -35,6 +30,9 @@ author_profile: true
 
 
 <!--
+11. Hao, S., Sun, Z., Xu, Y., 2021. [Emergency Care Access vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://zhanksun.github.io/publications/).
+* Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
+* Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
 <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 12. Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
 
