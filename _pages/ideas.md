@@ -29,7 +29,7 @@ author_profile: true
   * S1: perturbation theory, mean-field method, diffusion approximation
   * S2: consider LWBS, priority estimation
   * S3: show how does the scaling parameter affect the accuracy
-3. A time-varying queueing system; mixed preemption rule; uniformization with priority (with SJTU) (Target: **IJOC**)
+
 
 ## Ongoing
 1. ED dual-bottlenecks: Bed + Physicians [\[PDF\]](https://link.springer.com/content/pdf/10.1007/s11134-018-9578-x.pdf)
@@ -53,10 +53,6 @@ author_profile: true
 
 ## Next step
 2. ED specialist: stochastic clearing system [\[PDF\]](/files/He-StochasticClearingSystem.pdf)
-3. With Lishuai:
-    * Urban air mobility (UAM)
-    * Data from Cathy Pacific: optimize then predict
-    * Delay estimation in a airport network (mean field theory)
 4. Patient LWBS in emergency departments [\[PDF\]](/files/NONLINEAR PROGRAMMING METHOD FOR DYNAMIC PROGRAMMING.pdf)
     * Doubly-censored data
     * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
