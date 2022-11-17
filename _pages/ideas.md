@@ -14,7 +14,6 @@ author_profile: true
 * Prof. Armann Ingolfsson [(website)](https://sites.ualberta.ca/~aingolfs/Publications.htm) [(Google Scholar)](https://scholar.google.com/citations?hl=en&user=o--KHAQAAAAJ), a very solid researcher
 * Prof. Guanrong Chen [(Scientific Writing)](https://www.ee.cityu.edu.hk/~gchen/pdf/Writing.pdf) [(Chaos)](https://www.ee.cityu.edu.hk/~gchen/pdf/CHAOS_stories.pdf)
 * Prof. Lei Ying [(website)](https://scholar.google.com/citations?user=7f3HKI8AAAAJ&hl=en): mean field method
-* Tianyi Li [(website)](https://timothyli123.github.io/website/): I have shared interests in applying physics modeling in human behavior
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Steven Lippman, UCLA [(website)](http://personal.anderson.ucla.edu/policy.area/faculty/lippman/lipppub.htm)
 
