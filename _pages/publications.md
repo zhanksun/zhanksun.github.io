@@ -21,7 +21,7 @@ author_profile: true
 ## Working Paper
 
 <ol start="10">
-    <li>Hao, S., Sun, Z., Xu, Y., 2022. <q>Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. <a href="https://zhanksun.github.io/files/FT_routing.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li>
+    <li>Hao, S., Sun, Z., Xu, Y., 2022. <q>Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. <a href="https://zhanksun.github.io/files/FT_routing.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li> _Manufacturing & Service Operations Management, major revision_.
     <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Ouyang, H., Liu, R., Sun, Z., <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
