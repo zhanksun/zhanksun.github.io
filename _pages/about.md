@@ -12,7 +12,9 @@ I am an associate professor of [Management Sciences](https://www.cb.cityu.edu.hk
 
 My research interests are within the area of modeling, analysis, and control of stochastic systems. I am particularly interested in applications that arise from healthcare operations, such as patient flow management in hospital emergency departments and emergency response management in the aftermath of mass-casualty events.
 
-<!---
-I am also exploring applications in the field of smart-city operations, including urban transportation and green energy.
-I am also a big fan of North Carolina Tar Heels ([GoHeels](https://twitter.com/GoHeels)). My favorite sports are badminton, hiking, and soccer.
---->
+## Contact
+7/F, Lau Ming Wai Academic Building
+<br/> City University of Hong Kong
+<br/> 83 Tat Chee Ave, Kowloon Tong
+<br/> Hong Kong
+<br/> Email: zhankun.sun AT cityu DOT edu.hk
