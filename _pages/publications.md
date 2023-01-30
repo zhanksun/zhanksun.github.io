@@ -20,6 +20,7 @@ author_profile: true
 10. Hao, S., Sun, Z., Xu, Y., 2023. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _Manufacturing & Service Operations Management, major revision_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing.pdf)
 * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
 * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
+<!--
 11. Ouyang, H., Liu, R., Sun, Z., 2023. Emergency Department Modeling and Staffing: Time-Varying Physician Productivity. [\[pdf\]](/files/ED_Modeling_PPH.pdf)
 
 ## Working Paper
@@ -30,7 +31,7 @@ author_profile: true
 </ol>
 
 
-<!--
+
 <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a>
 <li>Hao, S., Sun, Z., Xu, Y., 2022. <q>Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. <a href="https://zhanksun.github.io/files/FT_routing.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li>
 <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
