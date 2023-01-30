@@ -25,7 +25,7 @@ author_profile: true
 
 <ol start="11">
     <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
-    <li> Ouyang, H., Liu, R., Sun, Z., <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. </li>
+    <li> Ouyang, H., Liu, R., Sun, Z., <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. [\[pdf\]](https://zhanksun.github.io/files/FT_routing.pdf) </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
 </ol>
 
