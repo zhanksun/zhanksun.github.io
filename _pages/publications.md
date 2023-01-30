@@ -25,7 +25,7 @@ author_profile: true
 
 <ol start="12">
     <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
-    <li> Ouyang, H., Liu, R., Sun, Z., 2023. <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</li>
+    <li> Ouyang, H., Liu, R., Sun, Z., 2023. <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="text-decoration: underline;">[pdf]</a></li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
 </ol>
 
