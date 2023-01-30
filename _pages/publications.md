@@ -25,12 +25,13 @@ author_profile: true
 
 <ol start="11">
     <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
-    <li> Ouyang, H., Liu, R., Sun, Z., <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li>
+    <li> Ouyang, H., Liu, R., Sun, Z., <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>.  <a href="https://www.w3schools.com">Visit W3Schools</a></li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
 </ol>
 
 
 <!--
+<a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a>
 <li>Hao, S., Sun, Z., Xu, Y., 2022. <q>Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. <a href="https://zhanksun.github.io/files/FT_routing.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li>
 <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 12. Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
