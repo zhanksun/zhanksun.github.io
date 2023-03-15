@@ -17,7 +17,7 @@ author_profile: true
 7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). _Applied Energy_, 298: 117159.
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2022. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 9. Wang, Z., Liu, R., Sun, Z., 2023. [Physician Scheduling for Emergency Departments Under Time-Varying Demand and Patient Return](https://doi.org/10.1109/TASE.2022.3163259). _IEEE Transactions on Automation Science and Engineering_, 20(1), 553-570.
-10. Hao, S., Sun, Z., Xu, Y., 2023. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _Manufacturing & Service Operations Management, major revision_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing.pdf)
+10. Hao, S., Sun, Z., Xu, Y., 2023. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _Under revision_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
   * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
 
