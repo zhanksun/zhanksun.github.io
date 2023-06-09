@@ -23,14 +23,14 @@ author_profile: true
 12. Ouyang, H., Liu, R., Sun, Z., 2023. Emergency Department Modeling and Staffing: Time-Varying Physician Productivity. _Under revision_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
 
 ## Working Paper
-
+<!--
 <ol start="12">
     <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
 </ol>
 
 
-<!--
+
 [\[pdf\]](/files/ED_Modeling_PPH.pdf)
 <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a>
 <li>Hao, S., Sun, Z., Xu, Y., 2022. <q>Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. <a href="https://zhanksun.github.io/files/FT_routing.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li>
