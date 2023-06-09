@@ -12,20 +12,20 @@ author_profile: true
 2. Hu, B. and Sun, Z., 2021. [Managing Self-Replicating Innovative Goods](https://doi.org/10.1287/mnsc.2020.3936). _Management Science_, 68(1), 399-419. [\[pdf\]](/files/MS-replication-final.pdf)
 3. Li, Y., Zhu, R., Qu, A., Ye, H., and Sun, Z., 2021. [Topic Modeling on Triage Notes with Semiorthogonal Nonnegative Matrix Factorization](https://doi.org/10.1080/01621459.2020.1862667). _Journal of the American Statistical Association_, 116(536), 1609-1624. [\[pdf\]](/files/JASA_Triage_Notes.pdf)
 4. Sun, Z., Argon, N.T., and Ziya, S., 2021. [When to Triage in Service Systems with Hidden Customer Class Identities?](https://doi.org/10.1111/poms.13494). _Production and Operations Management_, 31(1), 172-193. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
-5. Li, W., Sun, Z., and Hong, L.J., 2023. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_， 71(3), 821-842. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2022. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). _Production and Operations Management_, 31(2), 645-667. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
 7. Zheng, Z., Sun, Z., Pan, J., and Luo, X., 2021. [An Integrated Smart Home Energy Management Model Based on a Pyramid Taxonomy for Residential Houses with Photovoltaic-Battery Systems](https://doi.org/10.1016/j.apenergy.2021.117159). _Applied Energy_, 298: 117159.
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2022. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 9. Wang, Z., Liu, R., Sun, Z., 2023. [Physician Scheduling for Emergency Departments Under Time-Varying Demand and Patient Return](https://doi.org/10.1109/TASE.2022.3163259). _IEEE Transactions on Automation Science and Engineering_, 20(1), 553-570.
-10. Hao, S., Sun, Z., Xu, Y., 2023. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _Under revision_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing.pdf)
+10. Li, W., Sun, Z., and Hong, L.J., 2023. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_， 71(3), 821-842. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
+11. Hao, S., Sun, Z., Xu, Y., 2023. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _Under revision_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
   * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
+12. Ouyang, H., Liu, R., Sun, Z., 2023. Emergency Department Modeling and Staffing: Time-Varying Physician Productivity. _Under revision_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
 
 ## Working Paper
 
 <ol start="12">
     <li> Ouyang, H., Sun, Z., Wang, J., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
-    <li> Ouyang, H., Liu, R., Sun, Z.. <q>Emergency Department Modeling and Staffing: Time-Varying Physician Productivity</q>. <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="text-decoration: underline;">[pdf]</a></li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
 </ol>
 
@@ -35,7 +35,7 @@ author_profile: true
 <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a>
 <li>Hao, S., Sun, Z., Xu, Y., 2022. <q>Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. <a href="https://zhanksun.github.io/files/FT_routing.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li>
 <li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
-12. Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
+1.  Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
 
 ## Conference Paper
 <ol start="15">
