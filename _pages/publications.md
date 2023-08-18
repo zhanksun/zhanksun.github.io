@@ -9,7 +9,7 @@ author_profile: true
 
 1. Sun, Z., Argon, N.T., and Ziya, S., 2018. [Patient Triage and Prioritization Under Austere Conditions](https://doi.org/10.1287/mnsc.2017.2855). _Management Science_, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
   * Featured by <a href="https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions" style="color: inherit;">Management Science Review</a>
-2. Hu, B. and Sun, Z., 2021. [Managing Self-Replicating Innovative Goods](https://doi.org/10.1287/mnsc.2020.3936). _Management Science_, 68(1), 399-419. [\[pdf\]](/files/MS-replication-final.pdf)
+2. Hu, B. and Sun, Z., 2022. [Managing Self-Replicating Innovative Goods](https://doi.org/10.1287/mnsc.2020.3936). _Management Science_, 68(1), 399-419. [\[pdf\]](/files/MS-replication-final.pdf)
 3. Li, Y., Zhu, R., Qu, A., Ye, H., and Sun, Z., 2021. [Topic Modeling on Triage Notes with Semiorthogonal Nonnegative Matrix Factorization](https://doi.org/10.1080/01621459.2020.1862667). _Journal of the American Statistical Association_, 116(536), 1609-1624. [\[pdf\]](/files/JASA_Triage_Notes.pdf)
 4. Sun, Z., Argon, N.T., and Ziya, S., 2021. [When to Triage in Service Systems with Hidden Customer Class Identities?](https://doi.org/10.1111/poms.13494). _Production and Operations Management_, 31(1), 172-193. [\[pdf\]](/files/Sun-Argon-Ziya-Arrival-POM.pdf)
 6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2022. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). _Production and Operations Management_, 31(2), 645-667. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
