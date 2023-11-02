@@ -1,6 +1,6 @@
 ---
 layout: archive #archive
-title: Research Ideas
+title: Agenda
 permalink: /ideas/
 author_profile: true
 ---
