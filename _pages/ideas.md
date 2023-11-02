@@ -42,11 +42,11 @@ author_profile: true
     3. An aggregated outcome of all lower-level mechanisms: slips
 3. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
 
-## Researchers on healthcare operations
+## OM Researchers on healthcare operations
 * Harvard: Lina Song, Soroush Saghafian
 * UNC family:  Nan Liu, Serhan Ziya, Nilay Argon, Alex Mills, Eric Webb, Yuqian Xu
 * Canada: Yichuan Ding, Marco Bijvank, Cheng Zhu, Opher Baron
-* Hong Kong: Jin Qi, Yiwen Shen, Huiyin Ouyang, Haipeng Shen, Eric Park
+* Hong Kong: Jin Qi, Yiwen Shen, Huiyin Ouyang, Haipeng Shen, Eric Park, 
 * Singapore: Zhichao Zheng, Liang Xu (SMU)
 * New York: Mor Armony, Galit Yom-Tov, Carri Chan, Jing Dong
 * Medical decision making: Andrew Scheafer, 
