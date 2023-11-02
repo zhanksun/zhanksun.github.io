@@ -4,7 +4,7 @@ title: Research Ideas
 permalink: /ideas/
 author_profile: true
 ---
-## Researchers of interest
+## Interesting Research Groups
 * Prof. CAROLINA OSORIO, transportation [(website)](https://www.carolinaosorio.net/)
 * Willcox Research Group [(website)](https://kiwi.oden.utexas.edu/index.php): dimensionality reduction!
 * Prof. Weinan E [(website)](https://web.math.princeton.edu/~weinan/), very interesting research!
