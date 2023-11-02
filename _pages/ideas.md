@@ -32,15 +32,7 @@ author_profile: true
     1. So-what: ED surging plan
     1. [The Science Behind Proper Staffing](/files/The Science Behind Proper Staffing.pdf)
     1. [Building a Smarter Staffing Model](/files/Building a Smarter Staffing Model.pdf)
-1. Simulation optimization
-  * Bayesian optimization; IPA
-  * Shift extension/scheduling
-2. ED patient prioritization (Target: **Management Science**)
-    1. Choice model: waiting for room (patient chosen by nurses): Chicago booth group has a similar study
-    1. Choice model: initial assessment (patient chosen by physicians)
-    2. The impact on patient outcome (LOS, revisit, LWBS)
-    3. An aggregated outcome of all lower-level mechanisms: slips
-3. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
+2. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
 
 ## OM Researchers on healthcare operations
 * Harvard: Lina Song, Soroush Saghafian
