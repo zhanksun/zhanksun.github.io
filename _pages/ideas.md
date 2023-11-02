@@ -17,12 +17,14 @@ author_profile: true
 * Prof. Lawrence M. Wein [(website)](https://lwein.people.stanford.edu/published-papers-and-technical-reports): a series of works on manufacturing by Prof. David Yao, John Buzacott
 * Prof. Steven Lippman, UCLA [(website)](http://personal.anderson.ucla.edu/policy.area/faculty/lippman/lipppub.htm)
 
-
-## Working papers
-2. Models and simulation of complex systems (with C. Zou, H. Ouyang) (Target: **Operations Research**)
-  * S1: perturbation theory, mean-field method, diffusion approximation
-  * S2: consider LWBS, priority estimation
-  * S3: show how does the scaling parameter affect the accuracy
+## OM Researchers on healthcare operations
+* Harvard: Lina Song, Soroush Saghafian
+* UNC family:  Nan Liu, Serhan Ziya, Nilay Argon, Alex Mills, Eric Webb, Yuqian Xu
+* Canada: Yichuan Ding, Marco Bijvank, Cheng Zhu, Opher Baron
+* Hong Kong: Jin Qi, Yiwen Shen, Huiyin Ouyang, Haipeng Shen, Eric Park, 
+* Singapore: Zhichao Zheng, Liang Xu (SMU)
+* New York: Mor Armony, Galit Yom-Tov, Carri Chan, Jing Dong
+* Medical decision making: Andrew Scheafer, 
 
 
 ## Ongoing work
@@ -33,18 +35,7 @@ author_profile: true
     1. [The Science Behind Proper Staffing](/files/The Science Behind Proper Staffing.pdf)
     1. [Building a Smarter Staffing Model](/files/Building a Smarter Staffing Model.pdf)
 2. Low acuity patients delay high acuity patients [\[PDF\]](https://ssrn.com/abstract=3095039)
-
-## OM Researchers on healthcare operations
-* Harvard: Lina Song, Soroush Saghafian
-* UNC family:  Nan Liu, Serhan Ziya, Nilay Argon, Alex Mills, Eric Webb, Yuqian Xu
-* Canada: Yichuan Ding, Marco Bijvank, Cheng Zhu, Opher Baron
-* Hong Kong: Jin Qi, Yiwen Shen, Huiyin Ouyang, Haipeng Shen, Eric Park, 
-* Singapore: Zhichao Zheng, Liang Xu (SMU)
-* New York: Mor Armony, Galit Yom-Tov, Carri Chan, Jing Dong
-* Medical decision making: Andrew Scheafer, 
-
-## Next step
-1. Patient LWBS in emergency departments [\[PDF\]](/files/NONLINEAR PROGRAMMING METHOD FOR DYNAMIC PROGRAMMING.pdf)
+3. Patient LWBS in emergency departments [\[PDF\]](/files/NONLINEAR PROGRAMMING METHOD FOR DYNAMIC PROGRAMMING.pdf)
     * Doubly-censored data
     * What are the driving factors? Of course, waiting time; but what else? Social injustice? Chaotic environment?
     * From Larson 1087, Skips and Slips: At least three attributes other than queueing delay paly key roles in a customer's queueing experiene: social justice, queueing environment, and feedback about delays.
