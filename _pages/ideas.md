@@ -19,12 +19,15 @@ author_profile: true
 
 ## OM Researchers on healthcare operations
 * Harvard: Lina Song, Soroush Saghafian
-* UNC family:  Nan Liu, Serhan Ziya, Nilay Argon, Alex Mills, Eric Webb, Yuqian Xu
-* Canada: Yichuan Ding, Marco Bijvank, Cheng Zhu, Opher Baron
+* UNC family:  Nan Liu, Serhan Ziya, Nilay Argon, Alex Mills, Eric Webb, Yuqian Xu, 
+* Canada: Yichuan Ding, Marco Bijvank, Cheng Zhu, Opher Baron, Armann Ingolfsson
 * Hong Kong: Jin Qi, Yiwen Shen, Huiyin Ouyang, Haipeng Shen, Eric Park, 
-* Singapore: Zhichao Zheng, Liang Xu (SMU)
-* New York: Mor Armony, Galit Yom-Tov, Carri Chan, Jing Dong
+* Singapore: Zhichao Zheng, Liang Xu (SMU), Jingui Xie
+* Purdue: Pengyi Shi, Nan Kong
+* New York: Mor Armony, Galit Yom-Tov, Carri Chan, Jing Dong, Yue Hu, Linda Green
 * Medical decision making: Andrew Scheafer, 
+* Empirical groups: Elisa F. Long, Bob Batt, Nicos Savva, Brad Staats, KC Diwas, Hummy Song, Song-Hee Kim, Anita Carson
+* OT: Sergei Savin, Galit Yom-Tov, Avi Mandelbaum, Sarang Deo, Tinglong Dai
 
 
 ## Ongoing work
