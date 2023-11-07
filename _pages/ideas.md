@@ -22,7 +22,7 @@ author_profile: true
 * UNC family:  Nan Liu, Serhan Ziya, Nilay Argon, Alex Mills, Eric Webb, Yuqian Xu, 
 * Canada: Yichuan Ding, Marco Bijvank, Cheng Zhu, Opher Baron, Armann Ingolfsson
 * Hong Kong: Jin Qi, Yiwen Shen, Huiyin Ouyang, Haipeng Shen, Eric Park, 
-* Singapore: Zhichao Zheng, Liang Xu (SMU), Jingui Xie
+* Singapore: Joel Goh, Zhichao Zheng, Liang Xu (SMU), Jingui Xie
 * Purdue: Pengyi Shi, Nan Kong
 * New York: Mor Armony, Galit Yom-Tov, Carri Chan, Jing Dong, Yue Hu, Linda Green
 * Medical decision making: Andrew Scheafer, 
