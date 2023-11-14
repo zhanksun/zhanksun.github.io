@@ -27,7 +27,7 @@ author_profile: true
 * New York: Mor Armony, Galit Yom-Tov, Carri Chan, Jing Dong, Yue Hu, Linda Green
 * Medical decision making: Andrew Scheafer, 
 * Empirical groups: Elisa F. Long, Bob Batt, Nicos Savva, Brad Staats, KC Diwas, Hummy Song, Song-Hee Kim, Anita Carson, Maria Ibanez
-* OT: Sergei Savin, Galit Yom-Tov, Avi Mandelbaum, Sarang Deo, Tinglong Dai
+* OT: Sergei Savin, Galit Yom-Tov, Avi Mandelbaum, Sarang Deo, Tinglong Dai, Gabriel Zayas-Cabán
 
 
 ## Ongoing work
