@@ -24,6 +24,7 @@ author_profile: true
 --->
 
 ## Awards
+* College Research Excellence Awards, College of Business, City University of Hong Kong, December 2023.
 * Outstanding Teaching Performance (top 5% of teachers)[,](/files/CityU-Outstanding-Teaching.pdf) City University of Hong Kong, September 2023.
 * Second-Place, Best Student Paper Competition, POMS-HK International Conference, 2022.
 * Finalist, INFORMS Service Science Best Cluster Paper Award, 2021.
