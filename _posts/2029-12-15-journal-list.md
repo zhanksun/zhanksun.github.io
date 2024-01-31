@@ -33,9 +33,10 @@ A list of journals that I have served as a reviewer, or I have submitted at leas
   * [International Journal of Production Research](https://mc.manuscriptcentral.com/tprs)
   * [OMEGA](https://www.evise.com/profile/#/OMEGA/login?resourceUrl=%2Ffaces%2Fpages%2Fnavigation%2FNavController.jspx%3FJRNL_ACR%3DOMEGA%26_adf.ctrl-state%3D1ad1dpjkgz_4)
 
-### Energy
+### Energy and Transportation
 
   * [Applied Energy](https://www.editorialmanager.com/apen/Default.aspx)
+  * [Transportation Research Part C](https://www2.cloud.editorialmanager.com/trc/default2.aspx)
 
 ### Journals in Statistics, Forecasting, and Emergency Medicine
 
