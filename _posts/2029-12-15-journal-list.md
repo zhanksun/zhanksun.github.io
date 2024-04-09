@@ -46,3 +46,4 @@ A list of journals that I have served as a reviewer, or I have submitted at leas
   * [American Journal of Emergency Medicine](https://www.editorialmanager.com/AJEM/default.aspx)
   * [Canadian Journal of Emergency Medicine](https://mc.manuscriptcentral.com/cjem)
   * [Academic Emergency Medicine](https://mc.manuscriptcentral.com/aemj)
+  * [BMJ Health & Care Informatics](https://mc.manuscriptcentral.com/bmjhci)
