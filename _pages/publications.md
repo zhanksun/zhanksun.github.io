@@ -17,7 +17,7 @@ author_profile: true
 8. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2022. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 9. Wang, Z., Liu, R., Sun, Z., 2023. [Physician Scheduling for Emergency Departments Under Time-Varying Demand and Patient Return](https://doi.org/10.1109/TASE.2022.3163259). _IEEE Transactions on Automation Science and Engineering_, 20(1), 553-570.
 10. Li, W., Sun, Z., and Hong, L.J., 2023. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_, 71(3), 821-842. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
-11. Taiwo, E., Zaerpour, F., Menezes, M., Sun, Z., 2023. [A Complexity-Based Measure for Emergency Department Crowding](https://doi.org/10.1108/IJOPM-12-2022-0792). _International Journal of Operations and Production Management, Accepted_.
+11. Taiwo, E., Zaerpour, F., Menezes, M., Sun, Z., 2023. [A Complexity-Based Measure for Emergency Department Crowding](https://doi.org/10.1108/IJOPM-12-2022-0792). _International Journal of Operations and Production Management_, 44(4), 768-789.
 12. Hao, S., Sun, Z., Xu, Y., 2023. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _MSOM, minor revision_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing_revised.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
   * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
