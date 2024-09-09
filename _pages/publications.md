@@ -18,7 +18,7 @@ author_profile: true
 8. Wang, Z., Liu, R., Sun, Z., 2023. [Physician Scheduling for Emergency Departments Under Time-Varying Demand and Patient Return](https://doi.org/10.1109/TASE.2022.3163259). _IEEE Transactions on Automation Science and Engineering_, 20(1), 553-570.
 9.  Li, W., Sun, Z., and Hong, L.J., 2023. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_, 71(3), 821-842. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 10. Taiwo, E., Zaerpour, F., Menezes, M., Sun, Z., 2024. [A Complexity-Based Measure for Emergency Department Crowding](https://doi.org/10.1108/IJOPM-12-2022-0792). _International Journal of Operations and Production Management_, 44(4), 768-789.
-11. Hao, S., Sun, Z., Xu, Y., 2024. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _MSOM, accepted_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing_revised.pdf)
+11. Hao, S., Sun, Z., Xu, Y., 2024. Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions. _Manufacturing & Service Operations Management, accepted_. [\[pdf\]](https://zhanksun.github.io/files/FT_routing_revised.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
   * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
 12. Ouyang, H., Liu, R., Sun, Z., 2023. Emergency Department Modeling and Staffing: Time-Varying Physician Productivity. _MSOM, revised and resubmitted_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
