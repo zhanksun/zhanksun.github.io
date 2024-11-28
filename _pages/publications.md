@@ -22,7 +22,7 @@ author_profile: true
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
   * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
 12. He, X., Li, L., Mo, Y., Sun, Z., and Qin, S.J., 2024. [Air Corridor Planning for Urban Drone Delivery: Complexity Analysis and Comparison via Multi-Commodity Network Flow and Graph Search](https://doi.org/10.1016/j.tre.2024.103859). _Transportation Research Part E: Logistics and Transportation Review, forthcoming_.
-13. Ouyang, H., Liu, R., Sun, Z., 2023. Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing. _Manufacturing & Service Operations Management, revised and resubmitted_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
+13. Ouyang, H., Liu, R., Sun, Z., 2024. Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing. _Manufacturing & Service Operations Management, revised and resubmitted_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
 
 ## Working Paper
 
