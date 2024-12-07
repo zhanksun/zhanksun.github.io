@@ -10,6 +10,10 @@ tags:
 
 A list of journals that I have served as a reviewer, or I have submitted at least one manuscript.
 
+<div id="clustrmaps-widget">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TWgQiDWdn2LowzfnvOv8rZhc2rEzR_i2vxfFUbqaOr4&cl=ffffff&w=a"></script>
+</div>
+
 ### UTD journals
 
   * [Management Science](https://mc.manuscriptcentral.com/ms)
