@@ -11,7 +11,14 @@ tags:
 A list of journals that I have served as a reviewer, or I have submitted at least one manuscript.
 
 <div id="clustrmaps-widget">
+<!---
+  Publication site
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=TWgQiDWdn2LowzfnvOv8rZhc2rEzR_i2vxfFUbqaOr4&cl=ffffff&w=a"></script>
+-->
+<!---
+  Main page
+-->
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Ax_Xpj7-FEM44WGTyf9BO4Z4XFRkiYUvs7ZHhNaj8t4&cl=ffffff&w=a"></script>
 </div>
 
 ### UTD journals
