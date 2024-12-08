@@ -1,14 +1,12 @@
 ---
 title: 'Journal list'
-date: 2029-12-15
+date: 2025-12-15
 permalink: /posts/journal-list/
 tags:
   - review
   - journal
   - conference
 ---
-
-A list of journals that I have served as a reviewer, or I have submitted at least one manuscript.
 
 <div id="clustrmaps-widget">
 <!---
