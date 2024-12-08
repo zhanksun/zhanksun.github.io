@@ -1,5 +1,5 @@
 ---
-title: 'Interesting papers'
+title: 'Interesting Papers'
 date: 2025-01-01
 permalink: /posts/paper-of-interest/
 tags:
