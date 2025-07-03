@@ -23,21 +23,22 @@ author_profile: true
   * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
 12. He, X., Li, L., Mo, Y., Sun, Z., and Qin, S.J., 2025. [Air Corridor Planning for Urban Drone Delivery: Complexity Analysis and Comparison via Multi-Commodity Network Flow and Graph Search](https://doi.org/10.1016/j.tre.2024.103859). _Transportation Research Part E: Logistics and Transportation Review, forthcoming_.
 13. Ouyang, H., Liu, R., Sun, Z., 2024. Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing. _Manufacturing & Service Operations Management, revised and resubmitted_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
+14. Zou, C., Zhang, Y., Ouyang, H., Sun, Z., Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study. _under review_
 
 ## Working Paper
 
-<ol start="14">
-    <li> Zou, C., Zhang, Y., Ouyang, H., Sun, Z., <q>Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study</q>. </li>
+<ol start="15">
+    <li> Li, Z., Sun, Z., Yuan, Q., 2025 <q>Desig</q>. </li>
     <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
+    <li> Zhu, C., Kucukyazici, B., Sun, Z., 2025. <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 </ol>
 
 
 <!--
+<li> Zou, C., Zhang, Y., Ouyang, H., Sun, Z., <q>Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study</q>. </li>
 [\[pdf\]](/files/ED_Modeling_PPH.pdf)
 <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a>
-<li>Hao, S., Sun, Z., Xu, Y., 2022. <q>Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions</q>. <a href="https://zhanksun.github.io/files/FT_routing.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a></li>
-<li> Cheng Zhu, Beste Kucukyazici, Zhankun Sun, Rick Mah, <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 1.  Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
 
 ## Conference Paper
