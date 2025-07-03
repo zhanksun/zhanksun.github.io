@@ -27,9 +27,9 @@ author_profile: true
 ## Working Paper
 
 <ol start="14">
+    <li> Zou, C., Zhang, Y., Ouyang, H., Sun, Z., <q>Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study</q>. </li>
     <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
-    <li> Zou, C., Zhang, Y., Ouyang, H., Sun, Z., <q>On Waiting Time Prediction in Hospital Emergency Departments</q>. </li>
 </ol>
 
 
