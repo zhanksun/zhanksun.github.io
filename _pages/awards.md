@@ -8,6 +8,7 @@ author_profile: true
 ## Funding
 
 * **PI** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2025-2028, HK$908,000[.](https://zhanksun.github.io/awards/)
+* **co-PI** - HKU Shenzhen Research Institutes Theme-based Research Fund, Smart Healthcare – Accessibility, Quality and Affordability, 2023-2027, CNY5,000,000.
 * **co-I** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2023-2025, HK$644,872[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=17501022&old_proj_id=null&proj_title=&isname=&ioname=&institution=CityU&subject=B&pages=3&year=2021&theSubmit=11508921)
 * **PI** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2022-2024, HK$555,933[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11508921&old_proj_id=null&proj_title=&isname=&ioname=&institution=CityU&subject=B&pages=3&year=2021&theSubmit=11508921)
 * **PI** - Collaborative Research Fund (CRF), The Hong Kong Research Grants Council, 2021-2023, HK$3,952,247[.](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/20-21.html)
