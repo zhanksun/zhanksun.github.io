@@ -8,13 +8,13 @@ author_profile: true
 ## Funding
 
 * **PI** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2025-2028, HK$908,000[.](https://zhanksun.github.io/awards/)
-* **Co-PI** - Theme-based Research Fund, HKU Shenzhen Research Institutes, Smart Healthcare – Accessibility, Quality and Affordability, 2023-2027, CNY5,000,000.
 * **Co-PI** - Theme-based Research Fund, HKU Shenzhen Research Institutes, 2023-2027, CNY5,000,000.
 * **Co-I** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2023-2025, HK$644,872[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=17501022&old_proj_id=null&proj_title=&isname=&ioname=&institution=CityU&subject=B&pages=3&year=2021&theSubmit=11508921)
 * **PI** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2022-2024, HK$555,933[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11508921&old_proj_id=null&proj_title=&isname=&ioname=&institution=CityU&subject=B&pages=3&year=2021&theSubmit=11508921)
 * **Co-PI** - Collaborative Research Fund (CRF), The Hong Kong Research Grants Council, 2021-2023, HK$3,952,247[.](https://www.ugc.edu.hk/eng/rgc/funding_opport/crf/funded%20research/20-21.html)
 * **PI** - General Research Fund (GRF), The Hong Kong Research Grants Council, 2021-2022, HK$651,380[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=11504620&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=11504620)
 * **PI** - General Research Fund (GRF/ECS), The Hong Kong Research Grants Council, 2018-2020, HK$483,340[.](https://cerg1.ugc.edu.hk/cergprod/scrrm00542.jsp?proj_id=21500517&old_proj_id=null&proj_title=&isname=&ioname=&institution=&subject=&pages=1&year=&theSubmit=21500517)
+* Strategic Research Grant, City University of Hong Kong, 2019-2021, HK$100,000.
 * Teaching Start-Up Grant, City University of Hong Kong, 2017-2018, HK$41,862.
 * Start-Up Grant, City University of Hong Kong, 2016-2018, HK$300,000.
 * Research Catalyst Funds, O'Brien Institute for Public Health, Alberta, Canada, 2016-2017.
@@ -23,6 +23,7 @@ author_profile: true
 * Graduate Student Fellowship, Statistical and Applied Mathematical Sciences Institute (SAMSI), 2012.
 
 <!---
+* **Co-PI** - Theme-based Research Fund, HKU Shenzhen Research Institutes, Smart Healthcare – Accessibility, Quality and Affordability, 2023-2027, CNY5,000,000.
 * **PI** - Strategic Research Grant, City University of Hong Kong, 2019-2021, HK$100,000.
 --->
 
