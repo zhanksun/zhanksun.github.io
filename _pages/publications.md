@@ -22,7 +22,7 @@ author_profile: true
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
   * Second Place, Best Student Paper Competition, 2022 POMS-HK International Conference
 12. He, X., Li, L., Mo, Y., Sun, Z., and Qin, S.J., 2025. [Air Corridor Planning for Urban Drone Delivery: Complexity Analysis and Comparison via Multi-Commodity Network Flow and Graph Search](https://doi.org/10.1016/j.tre.2024.103859). _Transportation Research Part E: Logistics and Transportation Review_, 193.
-13. Zou, C., Zhang, Y., Ouyang, H., Sun, Z., 2026. [Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study](https://doi.org/10.1093/jamia/ocag036). _Journal of the American Medical Informatics Association_, Accepted.
+13. Zou, C., Zhang, Y., Ouyang, H., Sun, Z., 2026. [Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study](https://doi.org/10.1093/jamia/ocag036). _Journal of the American Medical Informatics Association_, Accepted. [\[pdf\]](https://zhanksun.github.io/files/JAMIA_ED_WaitTime.pdf)
 14. Ouyang, H., Liu, R., Sun, Z., 2024. Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing. _Revised and resubmitted_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
 
 ## Working Paper
