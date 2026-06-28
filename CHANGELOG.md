@@ -23,6 +23,7 @@ Add new entries at the top of the dated log. Keep each entry short, and include:
 
 - Generated the missing Apple touch icons, Android app icons, Microsoft tile icons, and `favicon.ico` from the existing CityU mini logo asset.
 - Removed the Safari pinned-tab icon reference because `safari-pinned-tab.svg` is not present.
+- Regenerated `favicon.ico` with a transparent background while keeping app icons on opaque white backgrounds.
 
 ### Analytics
 
