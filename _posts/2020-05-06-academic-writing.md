@@ -2,6 +2,7 @@
 title: 'Academic writing notes'
 date: 2020-05-06
 permalink: /posts/academic-writing-notes/
+mathjax: true
 tags:
   - latex
   - writing

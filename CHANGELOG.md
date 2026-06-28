@@ -14,6 +14,11 @@ Add new entries at the top of the dated log. Keep each entry short, and include:
 
 ## 2026-06-28
 
+### Performance
+
+- Changed MathJax loading so it only runs on pages with `mathjax: true`, avoiding the MathJax script on the homepage and other non-math pages.
+- Added `mathjax: true` to the existing pages that use inline math or LaTeX notation.
+
 ### Analytics
 
 - Replaced the obsolete Universal Analytics ID `UA-92802615-2` with the GA4 Measurement ID `G-6VPR6BMQ1B`.

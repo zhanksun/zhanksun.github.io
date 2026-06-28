@@ -3,6 +3,7 @@ title: 'Modeling Time-Varying Productivity and Its Applications in Physician Sta
 date: 2021-03-12
 author: Zhankun Sun
 permalink: /posts/2021/03/PPH/
+mathjax: true
 tags:
   - Research
   - Covid-19

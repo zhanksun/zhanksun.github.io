@@ -2,6 +2,7 @@
 title: 'Make plots in academic papers'
 date: 2020-06-09
 permalink: /posts/academic-plots/
+mathjax: true
 tags:
   - latex
   - academic

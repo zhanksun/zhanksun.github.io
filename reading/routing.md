@@ -3,6 +3,7 @@ layout: archive #archive
 title: Literature on Queueing Routing
 permalink: /routing/
 author_profile: true
+mathjax: true
 ---
 
 ## Exact Analysis
