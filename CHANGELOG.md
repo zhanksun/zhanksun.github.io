@@ -14,6 +14,11 @@ Add new entries at the top of the dated log. Keep each entry short, and include:
 
 ## 2026-06-28
 
+### Analytics
+
+- Replaced the obsolete Universal Analytics ID `UA-92802615-2` with the GA4 Measurement ID `G-6VPR6BMQ1B`.
+- Added a `google-gtag` analytics provider include that loads Google's GA4 `gtag.js` script.
+
 ### Profile And Metadata
 
 - Updated the site description in `_config.yml` to reflect the current academic role, MBA program director role, and research focus.
@@ -54,5 +59,5 @@ Add new entries at the top of the dated log. Keep each entry short, and include:
 
 - Install Bundler `2.1.4` or refresh the Ruby/Jekyll setup, then run a full local build.
 - Consider setting `future: false` in `_config.yml` if future-dated posts should not be published.
-- Consider updating the old Universal Analytics setup to GA4.
+- Confirm GA4 is receiving traffic after the next site deployment.
 - Remove tracked `.DS_Store` files from Git history or at least from the current tree.
