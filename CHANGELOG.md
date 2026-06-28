@@ -29,6 +29,7 @@ Add new entries at the top of the dated log. Keep each entry short, and include:
 
 - Replaced the obsolete Universal Analytics ID `UA-92802615-2` with the GA4 Measurement ID `G-6VPR6BMQ1B`.
 - Added a `google-gtag` analytics provider include that loads Google's GA4 `gtag.js` script.
+- Disabled Google Analytics by setting `analytics.provider` to `false`; GA4 code and `G-6VPR6BMQ1B` remain in the source for future reactivation.
 
 ### Profile And Metadata
 
