@@ -31,8 +31,6 @@ This paper studies optimal routing and jockeying policies in a two-station paral
 
 We present an introductory review of recent work on the control of open queueing networks. We assume that customers of different types arrive at a network and pass through the system via one of several possible routes; the set of routes available to a customer depends on its type. A route through the network is an ordered set of service stations: a customer queues for service at each station on its route and then leaves the system. The two methods of control we consider are the routing of customers through the network, and the sequencing of service at the stations, and our aim is to minimize the number of customers in the system. We concentrate especially on the insights which can be obtained from heavy traffic analysis, and in particular from Harrison's Brownian network models. Our main conclusion is that in many respects dynamic routing simplifies the behaviour of networks, and that under good control policies it may well be possible to model the aggregate behaviour of a network quite straightforwardly. 
 
-<img src="/images/research/Kelly-Laws-routing.png" width="400">
-
 **Summary**
 > 0. Asymptotic analysis 
 > 1. Symmetric queue: 
@@ -41,15 +39,12 @@ We present an introductory review of recent work on the control of open queueing
     * **Other interesting results**: In heavy traffic, the two-server system behaves like a pooled system.
 > 2. SED rule: join the queue with the shorter expected delay. Whitt showed that it is not optimal in general even for Poisson arrival and exponential service times. However, Houck showed via simulation that it is close to being optimal in many cases.
 > 3. Reiman, heavy traffic analysis
-<img src="/images/research/Reiman-routing.png" width="400">
 
 
 
 #### 2. Teh, Y., Ward, A.R. Critical Thresholds for Dynamic Routing in Queueing Networks. Queueing Systems 42, 297–316 (2002).
 
 This paper studies dynamic routing in a parallel server queueing network with a single Poisson arrival process and two servers with exponential processing times of different rates. Each customer must be routed at the time of arrival to one of the two queues in the network. We establish that this system operating under a threshold policy can be well approximated by a one-dimensional reflected Brownian motion when the arrival rate to the network is close to the processing capacity of the two servers. As the heavy traffic limit is approached, thresholds which grow at a logarithmic rate are critical in determining the behavior of the limiting system. We provide necessary and sufficient conditions on the growth rate of the threshold for (i) approximation of the network by a reflected Brownian motion (ii) positive recurrence of the limiting Brownian diffusion and (iii) asymptotic optimality of the threshold policy.
-
-<img src="/images/research/Teh-Ward-routing.png" width="700">
 
 **Summary**
 > 0. Asymptotic analysis 

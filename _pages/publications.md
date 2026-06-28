@@ -48,7 +48,7 @@ author_profile: true
 </ol>
 -->
 
-{% if author.googlescholar %}
+{% if site.author.googlescholar %}
 <!---
 6. Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Impact of Classification Accuracy for Scheduling Jobs with Unknown Types in Service Systems</q>. _Working paper_.
 ## Working in Progress
@@ -58,7 +58,7 @@ author_profile: true
 * <q>Mining Triage Notes to Predict Hospital Admissions from Emergency Departments</q>, with H. Ye, et al.
 
 --->
-  You can also find my articles on <u><a href=</q>{{author.googlescholar}}</q>>my Google Scholar profile</a>.</u>
+  You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
 {% endif %}
 
 {% include base_path %}

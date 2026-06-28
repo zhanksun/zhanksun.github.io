@@ -26,7 +26,7 @@ This is a list of papers that are of interest to me.
 ### Queueing control
   * Zhang, Mengzhenyu, et al. Data-driven pricing for a new product. [PDF](https://docs.google.com/a/umich.edu/viewer?a=v&pid=sites&srcid=dW1pY2guZWR1fGp1aWNoYW5jb3xneDo1ZTc1NWIzNzBhZWU4Yjli)
 
-  * Susan H. Xu and Y. Quennel Zhao (1996) [Dynamic Routing and Jockeying Controls in a Two-Station Queueing System](https://www.jstor.org/stable/1428170?seq=1&cid=pdf-reference). Advances in Applied Probability 28(4): 1201-1226. [PDF](/files/Dynamic routing and jockeying controls in a two-station queueing.pdf)
+  * Susan H. Xu and Y. Quennel Zhao (1996) [Dynamic Routing and Jockeying Controls in a Two-Station Queueing System](https://www.jstor.org/stable/1428170?seq=1&cid=pdf-reference). Advances in Applied Probability 28(4): 1201-1226.
 
   * Argon, N. T., Ding, L., Glazebrook, K. D., & Ziya, S. (2009). [Dynamic routing of customers with general delay costs in a multiserver queuing system](https://doi.org/10.1017/S0269964809000138). Probability in the Engineering and Informational Sciences, 23(2), 175-203. [PDF](/files/dynamic_routing_of_customers_nilay.pdf)
 
@@ -39,7 +39,7 @@ This is a list of papers that are of interest to me.
 
 ### Testing problems
   * Hrayer Aprahamian, Douglas R. Bish, Ebru K. Bish (2019) [Optimal Risk-Based Group Testing](https://doi.org/10.1287/mnsc.2018.3138). _Management Science_ 65(9):4365-4384. [PDF](/files/mnsc.2018.3138.pdf)
-  * Lawrence M. Wein and  Stefanos A. Zenios (1996) [Pooled Testing for HIV Screening: Capturing the Dilution Effect](https://doi.org/10.1287/opre.44.4.543). _Operations Research_ 44(4) pp. 543-569. [PDF](/files/opre.44.4.543.pdf)
+  * Lawrence M. Wein and  Stefanos A. Zenios (1996) [Pooled Testing for HIV Screening: Capturing the Dilution Effect](https://doi.org/10.1287/opre.44.4.543). _Operations Research_ 44(4) pp. 543-569.
 
 ### Counter-Terrorism Strategy
   *  Kaplan, Edward H. [Terror queues](https://doi.org/10.1287/opre.1100.0831). Operations Research 58.4 (2010): 773-784. [PDF](/files/opre.1100.0831.pdf)

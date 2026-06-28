@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Publications
+title: EV Charging and Battery Swapping Literature
 permalink: /reading/
 author_profile: true
 ---
@@ -23,6 +23,5 @@ author_profile: true
 ### Paper by He Long and co-authors
 1. Long He, Nan Ke, Ruijiu Mao, Wei Qi, Hongcai Zhang (2024) From Curtailed Renewable Energy to Green Hydrogen: Infrastructure Planning for Hydrogen Fuel-Cell Vehicles. Manufacturing & Service Operations Management
 26(5):1750-1767. https://doi.org/10.1287/msom.2022.0381
-
 
 

@@ -16,10 +16,10 @@ tags:
 * Can we model it using a finite-time CTMC? Or, **is it necessary?**
 * Arena: simulation
 
-<img src="/Research/AveragePPH.png" width="560">
-<img src="/Research/Arena.png" width="560">
-<img src="/Research/MD009.png" width="560">
-<img src="/Research/MD009-32.png" width="560">
+<img src="/Research/AveragePPH.PNG" width="560">
+<img src="/Research/Arena.PNG" width="560">
+<img src="/Research/MD009.PNG" width="560">
+<img src="/Research/MD009-32.PNG" width="560">
 
 
 #### Statistical modeling (Poisson regression)
@@ -32,7 +32,7 @@ A plot from the above reference:
 
 
 ### Empirical plots
-<img src="/Research/Shifts.png" width="800">
+<img src="/Research/Shifts.PNG" width="800">
 <img src="/Research/Arrival_PPH.png" width="700">
 <img src="/Research/Dist_MD_activity.png" width="500">
 <img src="/Research/MD_activity_6.png" width="500">
@@ -47,6 +47,6 @@ I updated the estimates of arrival rates and PPH. There are some days that the i
 All of them are 12:00 am on Thursdays, hence, I believe this is the scheduled maintenance time. Correspondingly, only the shifts S13, S14, and S15 are affected.
 
 #### Probability of another round of reassess
-<img src="/Research/R_probability.png" width="500">
+<img src="/Research/R_probability.PNG" width="500">
 
 Hence, the probability of going another round of test is 33.95%, i.e., 1/3.
