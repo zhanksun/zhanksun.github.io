@@ -19,6 +19,11 @@ Add new entries at the top of the dated log. Keep each entry short, and include:
 - Changed MathJax loading so it only runs on pages with `mathjax: true`, avoiding the MathJax script on the homepage and other non-math pages.
 - Added `mathjax: true` to the existing pages that use inline math or LaTeX notation.
 
+### Favicon And App Icons
+
+- Generated the missing Apple touch icons, Android app icons, Microsoft tile icons, and `favicon.ico` from the existing CityU mini logo asset.
+- Removed the Safari pinned-tab icon reference because `safari-pinned-tab.svg` is not present.
+
 ### Analytics
 
 - Replaced the obsolete Universal Analytics ID `UA-92802615-2` with the GA4 Measurement ID `G-6VPR6BMQ1B`.
