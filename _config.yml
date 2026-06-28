@@ -147,6 +147,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - CHANGELOG.md
   - midterm2026
   - tmp
   - vendor
