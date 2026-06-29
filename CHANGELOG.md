@@ -14,10 +14,6 @@ Add new entries at the top of the dated log. Keep each entry short, and include:
 
 ## 2026-06-28
 
-### Homepage Preview
-
-- Added `_pages/homepage-preview.md` as a separate, unlinked homepage design preview at `/homepage-preview/`; the current homepage remains unchanged.
-
 ### Performance
 
 - Changed MathJax loading so it only runs on pages with `mathjax: true`, avoiding the MathJax script on the homepage and other non-math pages.
