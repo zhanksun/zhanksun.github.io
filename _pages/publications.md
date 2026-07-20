@@ -29,7 +29,7 @@ author_profile: true
 
 <ol start="15">
   <li> Guo, R., Ouyang, H., Sun, Z., 2026 <q>An Index Policy for Multi-mode Restless Bandit Problem with Applications in EV Charging</q>. </li>
-    <li> Li, Z., Sun, Z., Yuan, Q., 2025 <q>Optimal Charging Decisions for Battery Swap Stations Under Demand Charge</q>. </li>
+    <li> Li, Z., Sun, Z., Yuan, Q., 2025 <q>Cost or Capacity? Optimal Charging for Battery Swapping Stations Under Demand Charges</q>. </li>
     <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
     <li> Zhu, C., Kucukyazici, B., Sun, Z., 2025. <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
