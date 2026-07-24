@@ -24,12 +24,12 @@ author_profile: true
 12. He, X., Li, L., Mo, Y., Sun, Z., and Qin, S.J., 2025. [Air Corridor Planning for Urban Drone Delivery: Complexity Analysis and Comparison via Multi-Commodity Network Flow and Graph Search](https://doi.org/10.1016/j.tre.2024.103859). _Transportation Research Part E: Logistics and Transportation Review_, 193. [\[pdf\]](https://zhanksun.github.io/files/TRE_Corridor_Planning_Drone.pdf)
 13. Zou, C., Zhang, Y., Ouyang, H., Sun, Z., 2026. [Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study](https://doi.org/10.1093/jamia/ocag036). _Journal of the American Medical Informatics Association. Forthcoming_. [\[pdf\]](https://zhanksun.github.io/files/JAMIA_ED_WaitTime.pdf)
 14. Sun, Z., Liu, R., Ouyang, H., 2026. [Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing](https://doi.org/10.1287/msom.2023.0081). _Manufacturing & Service Operations Management. Forthcoming_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
+15. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges. _Submitted_.
 
 ## Working Paper
 
 <ol start="15">
   <li> Guo, R., Ouyang, H., Sun, Z., 2026 <q>An Index Policy for Multi-mode Restless Bandit Problem with Applications in EV Charging</q>. </li>
-    <li> Li, Z., Sun, Z., Yuan, Q., 2025 <q>Cost or Capacity? Optimal Charging for Battery Swapping Stations Under Demand Charges</q>. </li>
     <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
     <li> Zhu, C., Kucukyazici, B., Sun, Z., 2025. <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
@@ -37,7 +37,6 @@ author_profile: true
 
 
 <!--
-<li> Zou, C., Zhang, Y., Ouyang, H., Sun, Z., <q>Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study</q>. </li>
 [\[pdf\]](/files/ED_Modeling_PPH.pdf)
 <a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a>
 1.  Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
@@ -50,7 +49,6 @@ author_profile: true
 
 {% if site.author.googlescholar %}
 <!---
-6. Huiyin Ouyang, **Zhankun Sun**, Junyang Wang, <q>Impact of Classification Accuracy for Scheduling Jobs with Unknown Types in Service Systems</q>. _Working paper_.
 ## Working in Progress
 * Huiyin Ouyang, **Zhankun Sun**, <q>On Scheduling a Two-Class Queue with Concave Waiting Cost</q>. _Working paper_.
 * <q>Allocation of Intensive Care Unit Beds with Patient Abandonment and Readmission</q>, with H. Ouyang.
