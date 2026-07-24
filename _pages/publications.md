@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!-- markdownlint-disable-file MD013 -->
+
 ## Journal Paper
 
 1. Sun, Z., Argon, N.T., and Ziya, S., 2018. [Patient Triage and Prioritization Under Austere Conditions](https://doi.org/10.1287/mnsc.2017.2855). _Management Science_, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
@@ -16,7 +18,7 @@ author_profile: true
 6. Zaerpour, F., Bijvak, M., Ouyang, H., and Sun, Z., 2022. [Scheduling of Physicians with Time-Varying Productivity Levels in Emergency Departments](https://doi.org/10.1111/poms.13571). _Production and Operations Management_, 31(2), 645-667. [\[pdf\]](/files/Physician_Rostering_POM.pdf)
 7. Ouyang, H., Wang, J., Sun, Z., and Lang, E., 2022. [The Impact of Emergency Department Crowding on Admission Decisions and Patient Outcomes](https://doi.org/10.1016/j.ajem.2021.10.049). _American Journal of Emergency Medicine_, 51, 163-168. [\[pdf\]](/files/ED_crowding_impact.pdf)
 8. Wang, Z., Liu, R., Sun, Z., 2023. [Physician Scheduling for Emergency Departments Under Time-Varying Demand and Patient Return](https://doi.org/10.1109/TASE.2022.3163259). _IEEE Transactions on Automation Science and Engineering_, 20(1), 553-570. [\[pdf\]](/files/Physician_Scheduling_with_Patient_Return.pdf)
-9.  Li, W., Sun, Z., and Hong, L.J., 2023. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_, 71(3), 821-842. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
+9. Li, W., Sun, Z., and Hong, L.J., 2023. [Who Is Next: Patient Prioritization Under Emergency Department Blocking](https://doi.org/10.1287/opre.2021.2187). _Operations Research_, 71(3), 821-842. [\[pdf\]](/files/Waiting_Time_Puzzle_final.pdf)
 10. Taiwo, E., Zaerpour, F., Menezes, M., Sun, Z., 2024. [A Complexity-Based Measure for Emergency Department Crowding](https://doi.org/10.1108/IJOPM-12-2022-0792). _International Journal of Operations and Production Management_, 44(4), 768-789.
 11. Hao, S., Sun, Z., Xu, Y., 2025. [Emergency Care Efficiency vs. Quality: Uncovering Hidden Consequences of Fast-Track Routing Decisions](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.0440). _Manufacturing & Service Operations Management_, 27(1), 75-93. [\[pdf\]](/files/FT_routing_final.pdf)
   * Winner, Best Service Science Student Paper Award, 2020 INFORMS Conference on Service Science.
@@ -34,7 +36,6 @@ author_profile: true
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
     <li> Zhu, C., Kucukyazici, B., Sun, Z., 2025. <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 </ol>
-
 
 <!--
 [\[pdf\]](/files/ED_Modeling_PPH.pdf)
