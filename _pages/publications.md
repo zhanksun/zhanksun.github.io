@@ -28,7 +28,7 @@ author_profile: true
 
 ## Working Paper
 
-<ol start="15">
+<ol start="16">
   <li> Guo, R., Ouyang, H., Sun, Z., 2026 <q>An Index Policy for Multi-mode Restless Bandit Problem with Applications in EV Charging</q>. </li>
     <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
     <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
