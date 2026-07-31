@@ -26,15 +26,16 @@ author_profile: true
 12. He, X., Li, L., Mo, Y., Sun, Z., and Qin, S.J., 2025. [Air Corridor Planning for Urban Drone Delivery: Complexity Analysis and Comparison via Multi-Commodity Network Flow and Graph Search](https://doi.org/10.1016/j.tre.2024.103859). _Transportation Research Part E: Logistics and Transportation Review_, 193. [\[pdf\]](https://zhanksun.github.io/files/TRE_Corridor_Planning_Drone.pdf)
 13. Zou, C., Zhang, Y., Ouyang, H., Sun, Z., 2026. [Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study](https://doi.org/10.1093/jamia/ocag036). _Journal of the American Medical Informatics Association. Forthcoming_. [\[pdf\]](https://zhanksun.github.io/files/JAMIA_ED_WaitTime.pdf)
 14. Sun, Z., Liu, R., Ouyang, H., 2026. [Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing](https://doi.org/10.1287/msom.2023.0081). _Manufacturing & Service Operations Management. Forthcoming_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
-15. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges. _Submitted_.
+15. Li, R., Chen, Z., Guo, Z., Guo, R., Sun, Z., Yao, J., Gao, S., Ma, J., 2026. Degradation-Aware Model Predictive Control for Battery Swapping Stations under Energy Arbitrage. _IEEE Transactions on Automation Science and Engineering. Conditionally accepted_.
+16. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges. _Submitted_.
 
 ## Working Paper
 
-<ol start="16">
+<ol start="17">
   <li> Guo, R., Ouyang, H., Sun, Z., 2026 <q>An Index Policy for Multi-mode Restless Bandit Problem with Applications in EV Charging</q>. </li>
-    <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
-    <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
-    <li> Zhu, C., Kucukyazici, B., Sun, Z., 2025. <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
+  <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
+  <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
+  <li> Zhu, C., Kucukyazici, B., Sun, Z., 2025. <q>Design of Specialist Response Policies in Hospital Emergency Departments</q>. </li>
 </ol>
 
 <!--
