@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Publications
-permalink: /reading/
+title: What Is Emergency Department Service Time?
+permalink: /reading/ed-service-time/
 author_profile: true
 ---
 
