@@ -27,7 +27,7 @@ author_profile: true
 13. Zou, C., Zhang, Y., Ouyang, H., Sun, Z., 2026. [Impact of Announced Wait Time Information on Emergency Department Overcrowding Mitigation: A Simulation Study](https://doi.org/10.1093/jamia/ocag036). _Journal of the American Medical Informatics Association. Forthcoming_. [\[pdf\]](https://zhanksun.github.io/files/JAMIA_ED_WaitTime.pdf)
 14. Sun, Z., Liu, R., Ouyang, H., 2026. [Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing](https://doi.org/10.1287/msom.2023.0081). _Manufacturing & Service Operations Management. Forthcoming_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
 15. Li, R., Chen, Z., Guo, Z., Guo, R., Sun, Z., Yao, J., Gao, S., Ma, J., 2026. Degradation-Aware Model Predictive Control for Battery Swapping Stations under Energy Arbitrage. _IEEE Transactions on Automation Science and Engineering. Conditionally accepted_.
-16. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges. _Submitted_.
+16. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. [When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges](http://dx.doi.org/10.2139/ssrn.7190119). _Submitted_.
 
 ## Working Paper
 
