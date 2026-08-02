@@ -32,6 +32,7 @@ author_profile: true
 ## Working Paper
 
 <ol start="17">
+  <li> Zhang, Y., Lu, LX., Ouyang, H., Sun, Z., 2026 <q>Physician Discretion at Shift Boundaries: How Familiarity Shapes Patient Pick-Up and Handoffs in the Emergency Department</q>. </li>
   <li> Guo, R., Ouyang, H., Sun, Z., 2026 <q>An Index Policy for Multi-mode Restless Bandit Problem with Applications in EV Charging</q>. </li>
   <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
   <li> Zou, C., Sun, Z., <q>Accurate Modeling and Simulation of Emergency Department Operations</q>. </li>
@@ -39,8 +40,7 @@ author_profile: true
 </ol>
 
 <!--
-[\[pdf\]](/files/ED_Modeling_PPH.pdf)
-<a href="https://zhanksun.github.io/files/ED_Modeling_PPH.pdf" style="color: inherit; text-decoration: underline;text-decoration-color:initial;">[pdf]</a>
+
 1.  Michele Foster, Zhankun Sun, Dongmei Wang, Grant Innes, Laurie-Ann Baker, Andrew McRae, Eddy Lang, <q>Optimal Shift Duration for Emergency Physician Efficiency, Effectiveness and Safety: A Comparison of 6, 7, and 8-hour Shifts</q>. _Canadian Journal of Emergency Medicine_. P209, 2015. [\[Abstract\]](https://nbtrauma.ca/wp-content/uploads/2020/10/Phelna-et-al-2015.pdf) [\[pdf\]](/files/optimal-shift-duration-for-em-physician-efficiency-foster-abstract-2015.pdf)
 
 ## Conference Paper
