@@ -30,9 +30,12 @@ author_profile: true
 15. Li, R., Chen, Z., Guo, Z., Guo, R., Sun, Z., Yao, J., Gao, S., Ma, J., 2026. Degradation-Aware Model Predictive Control for Battery Swapping Stations under Energy Arbitrage. _IEEE Transactions on Automation Science and Engineering. Conditionally accepted_.
 16. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. [When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges](http://dx.doi.org/10.2139/ssrn.7190119). _Submitted_. [\[pdf\]](/files/BSS_with_DC.pdf)
 
+## Case
+1. Huiyin Ouyang, Zhankun Sun, Lung Michael Chan, 2026. [Optimization of Paratransit Service in Hong Kong](https://www.acrc.hku.hk/Case/Detail/2234), Paratransit Service. Ref. No.: 25/832C
+
 ## Working Paper
 
-<ol start="17">
+<ol start="1">
   <li> Zhang, Y., Lu, LX., Ouyang, H., Sun, Z., 2026 <q>Physician Discretion at Shift Boundaries: How Familiarity Shapes Patient Pick-Up and Handoffs in the Emergency Department</q>. </li>
   <li> Guo, R., Ouyang, H., Sun, Z., 2026 <q>An Index Policy for Multi-mode Restless Bandit Problem with Applications in EV Charging</q>. </li>
   <li> Wang, J., Ouyang, H., Sun, Z., <q>Priority Scheduling When Job Type Information Is Not Free</q>. </li>
