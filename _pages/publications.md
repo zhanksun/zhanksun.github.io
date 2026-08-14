@@ -29,6 +29,7 @@ author_profile: true
 14. Sun, Z., Liu, R., Ouyang, H., 2026. [Time-Varying Physician Productivity and Implications for Emergency Department Modeling and Staffing](https://doi.org/10.1287/msom.2023.0081). _Manufacturing & Service Operations Management. Forthcoming_. [\[pdf\]](https://zhanksun.github.io/files/ED_Modeling_PPH.pdf)
 15. Li, R., Chen, Z., Guo, Z., Guo, R., Sun, Z., Yao, J., Gao, S., Ma, J., 2026. Degradation-Aware Model Predictive Control for Battery Swapping Stations under Energy Arbitrage. _IEEE Transactions on Automation Science and Engineering. Conditionally accepted_.
 16. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. [When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges](http://dx.doi.org/10.2139/ssrn.7190119). _Submitted_. [\[pdf\]](/files/BSS_with_DC.pdf)
+17. Guo, Z., Gao, S., Chen, Z., Sun, Z., Ma, J., 2026. Battery-Swapping Station Operation Under Forecast Uncertainty: A Scenario-Based Stochastic MPC Framework. _Submitted_.
 
 ## Case
 1. Huiyin Ouyang, Zhankun Sun, Lung Michael Chan, 2026. [Optimization of Paratransit Service in Hong Kong](https://www.acrc.hku.hk/Case/Detail/2234), Paratransit Service. Ref. No.: 25/832C
