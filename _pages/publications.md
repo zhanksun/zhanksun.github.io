@@ -31,7 +31,7 @@ author_profile: true
 16. Li, Z., Ouyang, H., Sun, Z., Yuan, Q., 2026. [When Peak Usage Becomes Capacity: Optimal Charging for Battery Swapping Stations Under Demand Charges](http://dx.doi.org/10.2139/ssrn.7190119). _Submitted_. [\[pdf\]](/files/BSS_with_DC.pdf)
 17. Guo, Z., Gao, S., Chen, Z., Sun, Z., Ma, J., 2026. Battery-Swapping Station Operation Under Forecast Uncertainty: A Scenario-Based Stochastic MPC Framework. _Submitted_.
 
-## Case
+## Teaching Case
 1. Huiyin Ouyang, Zhankun Sun, Lung Michael Chan, 2026. [Optimization of Paratransit Service in Hong Kong](https://www.acrc.hku.hk/Case/Detail/2234), Paratransit Service. Ref. No.: 25/832C
 
 ## Working Papers
