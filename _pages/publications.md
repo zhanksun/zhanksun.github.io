@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- markdownlint-disable-file MD013 -->
 
-## Journal Paper
+## Journal Papers
 
 1. Sun, Z., Argon, N.T., and Ziya, S., 2018. [Patient Triage and Prioritization Under Austere Conditions](https://doi.org/10.1287/mnsc.2017.2855). _Management Science_, 64(10), 4471-4489. [\[pdf\]](/files/Sun-Argon-Ziya_Final.pdf) (Former title: Priority scheduling of jobs with unknown types)
   * Featured by <a href="https://www.informs.org/Blogs/ManSci-Blogs/Management-Science-Review/Patient-Triage-and-Prioritization-Under-Austere-Conditions" style="color: inherit;">Management Science Review</a>
@@ -34,7 +34,7 @@ author_profile: true
 ## Case
 1. Huiyin Ouyang, Zhankun Sun, Lung Michael Chan, 2026. [Optimization of Paratransit Service in Hong Kong](https://www.acrc.hku.hk/Case/Detail/2234), Paratransit Service. Ref. No.: 25/832C
 
-## Working Paper
+## Working Papers
 
 <ol start="1">
   <li> Zhang, Y., Lu, LX., Ouyang, H., Sun, Z., 2026 <q>Physician Discretion at Shift Boundaries: How Familiarity Shapes Patient Pick-Up and Handoffs in the Emergency Department</q>. </li>
